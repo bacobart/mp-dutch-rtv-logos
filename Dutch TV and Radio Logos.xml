@@ -95,21 +95,20 @@
         <Version>
           <Major>1</Major>
           <Minor>2</Minor>
-          <Build>0</Build>
-          <Revision>0</Revision>
+          <Build>2</Build>
+          <Revision>3</Revision>
         </Version>
         <ExtensionDescription>Dutch TV and Radio logos for cable providers: Ziggo, Caiway, Delta, Kabel Noord, a.o. The logos are available in 3 styles: Gloss, Semi-Gloss and Clear for all available channels including the extra packages.</ExtensionDescription>
         <VersionDescription>Following updates are done:
 
 
- Name update for several logos
-. Logos added for 13 radio channels and 14 non-stop radio channels (Xlnt)
-. Logo of Rai Uno updated. Logos of ZDF HD and ARD HD added.</VersionDescription>
+ Name update for several TV and Radio logos
+. Logos for 192TV, Eredivisie Live 1 HD and local channels for Caiway added. Logos with channel names of Caiway added. (Base package logos)</VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
         <OnlineLocation>http://mp-dutch-rtv-logos.googlecode.com/svn/trunk/Installer/Dutch TV and Radio Logos_1.2.0.mpe1</OnlineLocation>
-        <ReleaseDate>2010-07-01T21:03:31</ReleaseDate>
+        <ReleaseDate>2010-08-01T21:03:31</ReleaseDate>
         <Tags />
-        <Location>C:\Dutch TV and Radio Logos_1.2.0.mpe1</Location>
+        <Location>C:\Dutch TV and Radio Logos_1.2.2.3.mpe1</Location>
         <Params>
           <Items>
             <SectionParam Name="Icon">
