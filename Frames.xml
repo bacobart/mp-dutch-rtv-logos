@@ -40,13 +40,13 @@
           <Major>1</Major>
           <Minor>0</Minor>
           <Build>0</Build>
-          <Revision>0</Revision>
+          <Revision>1</Revision>
         </Version>
         <ExtensionDescription>Frames is a simple and light skin based on ideas of other skins and sources.
 
 Frames is a grey coloured skin with details/icons in blue at a resolution of 1280x720. 
 All screens are designed in such a way that all information will be diplayed within frames in a uniform way.</ExtensionDescription>
-        <VersionDescription>Initial release: This version is compatible with MediaPortal 1.2.0 Alpha only. (It will probably work with previous versions, but some information will not be displayed correctly).
+        <VersionDescription>Second release: This version is compatible with MediaPortal 1.2.0 Alpha only. (It will probably work with previous versions, but some information will not be displayed correctly).
 
 In this first version all core plugins of MediaPortal are supported and only a limited amount of external plugins are supported for the moment:
 
@@ -56,12 +56,13 @@ In this first version all core plugins of MediaPortal are supported and only a l
 - Online Videos
 - My Lyrics
 - Media Slayer
-- MP Extension Installer</VersionDescription>
+- MP Extension Installer
+- My TV Series</VersionDescription>
         <DevelopmentStatus>Alpha</DevelopmentStatus>
         <OnlineLocation>http://www.team-mediaportal.com/index.php?option=com_mtree&amp;task=att_download&amp;link_id=91&amp;cf_id=24</OnlineLocation>
         <ReleaseDate>2010-12-27T17:30:15.7142+01:00</ReleaseDate>
         <Tags />
-        <Location>C:\Frames_1.0_Alpha.mpe1</Location>
+        <Location>C:\Frames_1.0_Alpha2.mpe1</Location>
         <Params>
           <Items>
             <SectionParam Name="Icon">
