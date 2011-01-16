@@ -94,8 +94,8 @@
         <UpdateUrl>http://mp-dutch-rtv-logos.googlecode.com/svn/trunk/Dutch TV and Radio Logos.xml</UpdateUrl>
         <Version>
           <Major>1</Major>
-          <Minor>3</Minor>
-          <Build>3</Build>
+          <Minor>4</Minor>
+          <Build>0</Build>
           <Revision>0</Revision>
         </Version>
         <ExtensionDescription>Dutch TV and Radio logos for cable providers: Ziggo, Caiway, Delta, Kabel Noord, a.o. The logos are available in 3 styles: Gloss, Semi-Gloss and Clear for all available channels including the extra packages.</ExtensionDescription>
@@ -103,13 +103,12 @@
 
 
 
- Logos for Nat Geo Wild HD, Mezzo Live HD and Food Network HD added.
- Logos of RTL7, RTV Drenthe and 13th Street updated.</VersionDescription>
+ Logos for TMF/Comedy Central, NDR1, duck TV and Horror Channel added. Logos of Sport1 updated.</VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
-        <OnlineLocation>http://mp-dutch-rtv-logos.googlecode.com/files/Dutch TV and Radio Logos_1.3.3.0.mpe1</OnlineLocation>
-        <ReleaseDate>2010-11-03T21:03:31</ReleaseDate>
+        <OnlineLocation>http://mp-dutch-rtv-logos.googlecode.com/files/Dutch TV and Radio Logos_1.4.0.0.mpe1</OnlineLocation>
+        <ReleaseDate>2011-01-15T21:03:31</ReleaseDate>
         <Tags />
-        <Location>C:\Dutch TV and Radio Logos_1.3.3.0.mpe1</Location>
+        <Location>C:\Dutch TV and Radio Logos_1.4.0.0.mpe1</Location>
         <Params>
           <Items>
             <SectionParam Name="Icon">
