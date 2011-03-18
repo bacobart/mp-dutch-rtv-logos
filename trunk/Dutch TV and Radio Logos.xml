@@ -95,7 +95,7 @@
         <Version>
           <Major>1</Major>
           <Minor>4</Minor>
-          <Build>0</Build>
+          <Build>5</Build>
           <Revision>0</Revision>
         </Version>
         <ExtensionDescription>Dutch TV and Radio logos for cable providers: Ziggo, Caiway, Delta, Kabel Noord, a.o. The logos are available in 3 styles: Gloss, Semi-Gloss and Clear for all available channels including the extra packages.</ExtensionDescription>
@@ -103,12 +103,13 @@
 
 
 
- Logos for TMF/Comedy Central, NDR1, duck TV and Horror Channel added. Logos of Sport1 updated.</VersionDescription>
+.
+-Logos of Film1, Radio 2 and Radio 4 updated.</VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
-        <OnlineLocation>http://mp-dutch-rtv-logos.googlecode.com/files/Dutch TV and Radio Logos_1.4.0.0.mpe1</OnlineLocation>
-        <ReleaseDate>2011-01-15T21:03:31</ReleaseDate>
+        <OnlineLocation>http://mp-dutch-rtv-logos.googlecode.com/files/Dutch TV and Radio Logos_1.4.5.0.mpe1</OnlineLocation>
+        <ReleaseDate>2011-03-18T21:03:31</ReleaseDate>
         <Tags />
-        <Location>C:\Dutch TV and Radio Logos_1.4.0.0.mpe1</Location>
+        <Location>C:\Dutch TV and Radio Logos_1.4.5.0.mpe1</Location>
         <Params>
           <Items>
             <SectionParam Name="Icon">
