@@ -83,8 +83,31 @@
         <Items />
       </Sections>
       <Dependencies>
-        <Items />
+        <Items>
+          <DependencyItem>
+            <Type>MediaPortal</Type>
+            <Id />
+            <MinVersion>
+              <Major>1</Major>
+              <Minor>*</Minor>
+              <Build>*</Build>
+              <Revision>*</Revision>
+            </MinVersion>
+            <MaxVersion>
+              <Major>1</Major>
+              <Minor>*</Minor>
+              <Build>*</Build>
+              <Revision>*</Revision>
+            </MaxVersion>
+            <WarnOnly>false</WarnOnly>
+            <Message>Needs minimum version of MediaPortal with version 1.0.0.0</Message>
+            <Name>MediaPortal</Name>
+          </DependencyItem>
+        </Items>
       </Dependencies>
+      <PluginDependencies>
+        <Items />
+      </PluginDependencies>
       <GeneralInfo>
         <Name>Dutch TV and Radio Logos</Name>
         <Id>cfa29097-811c-425f-8853-28b0aecc2a54</Id>
@@ -94,29 +117,23 @@
         <UpdateUrl>http://mp-dutch-rtv-logos.googlecode.com/svn/trunk/Dutch TV and Radio Logos.xml</UpdateUrl>
         <Version>
           <Major>1</Major>
-          <Minor>4</Minor>
-          <Build>5</Build>
+          <Minor>6</Minor>
+          <Build>0</Build>
           <Revision>0</Revision>
         </Version>
         <ExtensionDescription>Dutch TV and Radio logos for cable providers: Ziggo, Caiway, Delta, Kabel Noord, a.o. The logos are available in 3 styles: Gloss, Semi-Gloss and Clear for all available channels including the extra packages.</ExtensionDescription>
         <VersionDescription>Following updates are done:
 
-
-
-.
--Logos of Film1, Radio 2 and Radio 4 updated.</VersionDescription>
+- Logos for Kindernet, Planet Turk, Crime &amp; Investigation Network, Film1 Action HD, 13th Street HD, Disney Channel, Disney XD, Disney Junior, Investigation Discovery, Animal Planet/TLC, MTV Live HD, RTL Crime, 24 Kitchen and Ziggo Event Channel added.
+- Logos of Eurosport, BBC HD and MTV updated.
+- Several logos renamed according to new Ziggo names.</VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
-        <OnlineLocation>http://mp-dutch-rtv-logos.googlecode.com/files/Dutch TV and Radio Logos_1.4.5.0.mpe1</OnlineLocation>
-        <ReleaseDate>2011-03-18T21:03:31</ReleaseDate>
+        <OnlineLocation>http://mp-dutch-rtv-logos.googlecode.com/files/Dutch TV and Radio Logos_1.6.0.0.mpe1</OnlineLocation>
+        <ReleaseDate>2011-09-01T21:03:31</ReleaseDate>
         <Tags />
-        <Location>C:\Dutch TV and Radio Logos_1.4.5.0.mpe1</Location>
+        <Location>C:\Dutch TV and Radio Logos_1.6.0.0.mpe1</Location>
         <Params>
           <Items>
-            <SectionParam Name="Icon">
-              <Value>C:\MediaPortal\Logos\Logo.png</Value>
-              <ValueType>File</ValueType>
-              <Description>The icon file of the package (jpg,png,bmp)</Description>
-            </SectionParam>
             <SectionParam Name="Online Icon">
               <Value>http://code.google.com/p/mp-dutch-rtv-logos/source/browse/trunk/Installer/Logo.png</Value>
               <ValueType>String</ValueType>
@@ -135,7 +152,7 @@
               <Description>Online stored screenshot urls separated by ; </Description>
             </SectionParam>
             <SectionParam Name="Force to uninstall on update">
-              <Value>yes</Value>
+              <Value>YES</Value>
               <ValueType>Bool</ValueType>
               <Description>Show dialog and force to uninstall previous version when updating an extension. Should only be disabled if you are using an NSIS/MSI installer.</Description>
             </SectionParam>
@@ -148,6 +165,7 @@
       <ProjectSettings>
         <FolderGroups />
       </ProjectSettings>
+      <IsSkin>false</IsSkin>
     </PackageClass>
   </Items>
 </ExtensionCollection>
