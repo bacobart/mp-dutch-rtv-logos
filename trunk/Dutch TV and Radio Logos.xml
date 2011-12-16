@@ -135,7 +135,7 @@
         <Params>
           <Items>
             <SectionParam Name="Online Icon">
-              <Value>http://code.google.com/p/mp-dutch-rtv-logos/source/browse/trunk/Installer/Logo.png</Value>
+              <Value>http://code.google.com/p/mp-dutch-rtv-logos/source/browse/trunk/Installer/Logo.jpg</Value>
               <ValueType>String</ValueType>
               <Description>The icon file of the package stored online (jpg,png,bmp)</Description>
             </SectionParam>
