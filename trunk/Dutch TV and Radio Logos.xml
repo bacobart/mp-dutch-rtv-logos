@@ -118,20 +118,22 @@
         <Version>
           <Major>1</Major>
           <Minor>6</Minor>
-          <Build>0</Build>
+          <Build>5</Build>
           <Revision>0</Revision>
         </Version>
         <ExtensionDescription>Dutch TV and Radio logos for cable providers: Ziggo, Caiway, Delta, Kabel Noord, a.o. The logos are available in 3 styles: Gloss, Semi-Gloss and Clear for all available channels including the extra packages.</ExtensionDescription>
         <VersionDescription>Following updates are done:
 
-- Logos for Kindernet, Planet Turk, Crime &amp; Investigation Network, Film1 Action HD, 13th Street HD, Disney Channel, Disney XD, Disney Junior, Investigation Discovery, Animal Planet/TLC, MTV Live HD, RTL Crime, 24 Kitchen and Ziggo Event Channel added.
-- Logos of Eurosport, BBC HD and MTV updated.
-- Several logos renamed according to new Ziggo names.</VersionDescription>
+- Logos of Comedy Central updated/added.
+- Logos for RTV Bodegraven and Vrolek added.
+- Logo for Film1 Premiere +1 replaced with Film1+ Series.
+- Logos for HBO channels added.
+</VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
         <OnlineLocation>http://mp-dutch-rtv-logos.googlecode.com/files/Dutch TV and Radio Logos_1.6.0.0.mpe1</OnlineLocation>
-        <ReleaseDate>2011-09-01T21:03:31</ReleaseDate>
+        <ReleaseDate>2012-02-03T21:03:31</ReleaseDate>
         <Tags>logos</Tags>
-        <Location>C:\Dutch TV and Radio Logos_1.6.0.0.mpe1</Location>
+        <Location>C:\Dutch TV and Radio Logos_1.6.5.0.mpe1</Location>
         <Params>
           <Items>
             <SectionParam Name="Online Icon">
