@@ -1513,13 +1513,6 @@
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
               <Param1 />
               <UpdateOption>AlwaysOverwrite</UpdateOption>
-              <LocalFileName>TV\Gloss\Consumenten 24.png</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{e8dd5e86-0490-488c-be7f-6e30e4583e24}-Consumenten 24.png</ZipFileName>
-              <DestinationFilename>%Thumbs%\TV\Logos\Consumenten 24.png</DestinationFilename>
-            </FileItem>
-            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-              <Param1 />
-              <UpdateOption>AlwaysOverwrite</UpdateOption>
               <LocalFileName>TV\Gloss\Cultura 24.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{015869db-02cd-423d-81c5-dec15f94fbfa}-Cultura 24.png</ZipFileName>
               <DestinationFilename>%Thumbs%\TV\Logos\Cultura 24.png</DestinationFilename>
@@ -1765,13 +1758,6 @@
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
               <Param1 />
               <UpdateOption>AlwaysOverwrite</UpdateOption>
-              <LocalFileName>TV\Gloss\Geschiedenis 24.png</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{aa768076-21e4-497a-8903-106d3b0ae8b6}-Geschiedenis 24.png</ZipFileName>
-              <DestinationFilename>%Thumbs%\TV\Logos\Geschiedenis 24.png</DestinationFilename>
-            </FileItem>
-            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-              <Param1 />
-              <UpdateOption>AlwaysOverwrite</UpdateOption>
               <LocalFileName>TV\Gloss\Hallmark Channel.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{9a18f06e-1823-4765-ac24-61e34f4b8c8b}-Hallmark Channel.png</ZipFileName>
               <DestinationFilename>%Thumbs%\TV\Logos\Hallmark Channel.png</DestinationFilename>
@@ -1845,20 +1831,6 @@
               <LocalFileName>TV\Gloss\Kabel 1.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{3715ba02-2a0e-480b-a007-375e5a87e1d9}-Kabel 1.png</ZipFileName>
               <DestinationFilename>%Thumbs%\TV\Logos\Kabel 1.png</DestinationFilename>
-            </FileItem>
-            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-              <Param1 />
-              <UpdateOption>AlwaysOverwrite</UpdateOption>
-              <LocalFileName>TV\Gloss\Ketnet_Canvas HD.png</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{5568cb50-9b73-4a76-bed1-0724a7d904af}-Ketnet_Canvas HD.png</ZipFileName>
-              <DestinationFilename>%Thumbs%\TV\Logos\Ketnet_Canvas HD.png</DestinationFilename>
-            </FileItem>
-            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-              <Param1 />
-              <UpdateOption>AlwaysOverwrite</UpdateOption>
-              <LocalFileName>TV\Gloss\Ketnet_Canvas.png</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{25bcdd51-0a1c-415f-a63b-63ff48cf9bab}-Ketnet_Canvas.png</ZipFileName>
-              <DestinationFilename>%Thumbs%\TV\Logos\Ketnet_Canvas.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
               <Param1 />
@@ -3333,13 +3305,6 @@
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
               <Param1 />
               <UpdateOption>AlwaysOverwrite</UpdateOption>
-              <LocalFileName>TV\Gloss\Film1 Premiere +1.png</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{cc355b93-0c66-47ab-ade8-e2d2cd349198}-Film1 Premiere +1.png</ZipFileName>
-              <DestinationFilename>%Thumbs%\TV\Logos\Film1 Premiere +1.png</DestinationFilename>
-            </FileItem>
-            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-              <Param1 />
-              <UpdateOption>AlwaysOverwrite</UpdateOption>
               <LocalFileName>TV\Gloss\Film1 Premiere HD.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{f73165f3-6129-4af6-a5c6-478599fbe770}-Film1 Premiere HD.png</ZipFileName>
               <DestinationFilename>%Thumbs%\TV\Logos\Film1 Premiere HD.png</DestinationFilename>
@@ -3567,6 +3532,146 @@
               <LocalFileName>TV\Gloss\OUTTV.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{1fabdcf4-77e6-4f45-b58a-eba2694ff207}-OUTTV.png</ZipFileName>
               <DestinationFilename>%Thumbs%\TV\Logos\OUTTV.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\Gloss\192TV.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{3d0e2e4b-ecef-40ae-a91f-b1d69e676a1d}-192TV.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\192TV.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\Gloss\Comedy Central Extra.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{73561969-8c64-48c8-ada4-eaf3af270baf}-Comedy Central Extra.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\Comedy Central Extra.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\Gloss\RTV Bodegraven.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{127ccae9-7dd1-4686-9e1d-7b046a32df18}-RTV Bodegraven.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\RTV Bodegraven.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\Gloss\Vrolek.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{ae3fb3f0-dd10-451a-8860-5edda61c3dd0}-Vrolek.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\Vrolek.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\Gloss\Film1 Series.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{114574fa-919a-45da-aa48-da04bc6dc490}-Film1 Series.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\Film1 Series.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\Gloss\HBO 2 HD.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{2a530de7-0336-41bc-94a2-f952d7db220a}-HBO 2 HD.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\HBO 2 HD.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\Gloss\HBO 2.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{60d45d46-14fa-4b74-8fb8-f12a337e89be}-HBO 2.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\HBO 2.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\Gloss\HBO 3 HD.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{48eed400-01ae-488b-b706-de819bcaffac}-HBO 3 HD.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\HBO 3 HD.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\Gloss\HBO 3.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{562a2e49-4a01-4239-b25f-1b2dbd9b3805}-HBO 3.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\HBO 3.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\Gloss\HBO HD.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{02801e86-9ba1-48cd-9ed6-4ca39134deda}-HBO HD.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\HBO HD.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\Gloss\HBO.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{3701a00c-fc35-4bb5-ac79-9eafcecb02db}-HBO.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\HBO.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\Gloss\Canvas HD.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{895f56e5-9271-4cda-bcb3-5fad9c1765be}-Canvas HD.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\Canvas HD.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\Gloss\Canvas.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{06c9cf5d-a62c-44bb-a379-6bbaf6d8a38c}-Canvas.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\Canvas.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\Gloss\Film1 Sundance.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{78dbb32d-6261-432d-b8b1-6e789a35a5f1}-Film1 Sundance.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\Film1 Sundance.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\Gloss\Ketnet.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{8390798a-5f41-4f10-b7f4-b0bdfa07c542}-Ketnet.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\Ketnet.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\Gloss\Ketnet_Op12.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{08ce484b-c385-433c-b003-41b92d9bfabb}-Ketnet_Op12.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\Ketnet_Op12.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\Gloss\Nautical Channel.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{caa20e38-ee77-47ec-9c61-43280d91c724}-Nautical Channel.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\Nautical Channel.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\Gloss\Ziggo Xite.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{c0b7d332-5e65-47ab-bd81-450251327b46}-Ziggo Xite.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\Ziggo Xite.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\Gloss\24 Kitchen HD.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{14318671-6daa-4d45-9ac3-74827e97ca88}-24 Kitchen HD.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\24 Kitchen HD.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\Gloss\Discovery HD.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{e49512f4-bb5c-4647-912f-c574dd12c0f7}-Discovery HD.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\Discovery HD.png</DestinationFilename>
             </FileItem>
           </Items>
         </Files>
@@ -5054,13 +5159,6 @@
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
               <Param1 />
               <UpdateOption>AlwaysOverwrite</UpdateOption>
-              <LocalFileName>TV\SemiGloss\Consumenten 24.png</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{d9f42a7c-23e0-4f0d-951a-c7db419b6345}-Consumenten 24.png</ZipFileName>
-              <DestinationFilename>%Thumbs%\TV\Logos\Consumenten 24.png</DestinationFilename>
-            </FileItem>
-            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-              <Param1 />
-              <UpdateOption>AlwaysOverwrite</UpdateOption>
               <LocalFileName>TV\SemiGloss\Cultura 24.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{cf2bf645-a104-4c8a-b565-beb73cb64d4c}-Cultura 24.png</ZipFileName>
               <DestinationFilename>%Thumbs%\TV\Logos\Cultura 24.png</DestinationFilename>
@@ -5306,13 +5404,6 @@
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
               <Param1 />
               <UpdateOption>AlwaysOverwrite</UpdateOption>
-              <LocalFileName>TV\SemiGloss\Geschiedenis 24.png</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{47c2a2af-ed8a-4bec-8836-11efe6811626}-Geschiedenis 24.png</ZipFileName>
-              <DestinationFilename>%Thumbs%\TV\Logos\Geschiedenis 24.png</DestinationFilename>
-            </FileItem>
-            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-              <Param1 />
-              <UpdateOption>AlwaysOverwrite</UpdateOption>
               <LocalFileName>TV\SemiGloss\Hallmark Channel.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{4a297396-9062-4f25-ab50-dbc8db51faab}-Hallmark Channel.png</ZipFileName>
               <DestinationFilename>%Thumbs%\TV\Logos\Hallmark Channel.png</DestinationFilename>
@@ -5386,20 +5477,6 @@
               <LocalFileName>TV\SemiGloss\Kabel 1.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{5712aa55-9109-4020-a27a-b82a537aea1d}-Kabel 1.png</ZipFileName>
               <DestinationFilename>%Thumbs%\TV\Logos\Kabel 1.png</DestinationFilename>
-            </FileItem>
-            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-              <Param1 />
-              <UpdateOption>AlwaysOverwrite</UpdateOption>
-              <LocalFileName>TV\SemiGloss\Ketnet_Canvas HD.png</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{860e7480-aeee-4ec0-828c-982de29b8df6}-Ketnet_Canvas HD.png</ZipFileName>
-              <DestinationFilename>%Thumbs%\TV\Logos\Ketnet_Canvas HD.png</DestinationFilename>
-            </FileItem>
-            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-              <Param1 />
-              <UpdateOption>AlwaysOverwrite</UpdateOption>
-              <LocalFileName>TV\SemiGloss\Ketnet_Canvas.png</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{9b435db5-a206-406a-9c22-fd98499bd4f7}-Ketnet_Canvas.png</ZipFileName>
-              <DestinationFilename>%Thumbs%\TV\Logos\Ketnet_Canvas.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
               <Param1 />
@@ -6874,13 +6951,6 @@
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
               <Param1 />
               <UpdateOption>AlwaysOverwrite</UpdateOption>
-              <LocalFileName>TV\SemiGloss\Film1 Premiere +1.png</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{1a2157b6-689d-423f-a0c9-037838a45051}-Film1 Premiere +1.png</ZipFileName>
-              <DestinationFilename>%Thumbs%\TV\Logos\Film1 Premiere +1.png</DestinationFilename>
-            </FileItem>
-            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-              <Param1 />
-              <UpdateOption>AlwaysOverwrite</UpdateOption>
               <LocalFileName>TV\SemiGloss\Film1 Premiere HD.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{92d573e8-df65-4661-8ff3-93483a4844e7}-Film1 Premiere HD.png</ZipFileName>
               <DestinationFilename>%Thumbs%\TV\Logos\Film1 Premiere HD.png</DestinationFilename>
@@ -7108,6 +7178,146 @@
               <LocalFileName>TV\SemiGloss\OUTTV.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{9e253dea-bb64-449a-b0ed-60d293372011}-OUTTV.png</ZipFileName>
               <DestinationFilename>%Thumbs%\TV\Logos\OUTTV.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\SemiGloss\192TV.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{a801d7fa-1e3c-4b5d-8248-bbf2b789343b}-192TV.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\192TV.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\SemiGloss\Comedy Central Extra.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{cdf9a154-7eb2-4e34-a9ac-e7d4591c95bf}-Comedy Central Extra.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\Comedy Central Extra.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\SemiGloss\RTV Bodegraven.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{2ddbd2ed-f6aa-430c-a61c-74f010903d12}-RTV Bodegraven.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\RTV Bodegraven.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\SemiGloss\Vrolek.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{8458160f-7a85-4d80-833a-a6e6c9303c4f}-Vrolek.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\Vrolek.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\SemiGloss\Film1 Series.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{e0824873-1889-4468-8a62-b2d3cba9e438}-Film1 Series.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\Film1 Series.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\SemiGloss\HBO 2 HD.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{6133f230-3d82-4691-965b-44ea7a1a6e64}-HBO 2 HD.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\HBO 2 HD.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\SemiGloss\HBO 2.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{2365a3c6-f00d-4e5e-9f1d-705a8d5f6385}-HBO 2.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\HBO 2.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\SemiGloss\HBO 3 HD.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{9acaac4a-6f0d-487a-8aa0-9230d642f6dd}-HBO 3 HD.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\HBO 3 HD.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\SemiGloss\HBO 3.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{c555cbbe-e841-420c-83d6-47b97304ff1b}-HBO 3.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\HBO 3.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\SemiGloss\HBO HD.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{3dddb1bf-1a0e-4f23-875b-8b4bae1bcce4}-HBO HD.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\HBO HD.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\SemiGloss\HBO.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{3f8f1211-8d59-4f64-bb87-f0fe9a41c027}-HBO.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\HBO.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\SemiGloss\Canvas HD.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{e8db900e-682b-4661-a62d-727f830e52ad}-Canvas HD.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\Canvas HD.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\SemiGloss\Canvas.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{2b742b8f-4e75-4fdd-bd11-94e61af8629e}-Canvas.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\Canvas.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\SemiGloss\Film1 Sundance.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{b2d80b2b-ec44-49f9-94b5-dface5c2acc3}-Film1 Sundance.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\Film1 Sundance.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\SemiGloss\Ketnet.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{dbaabe32-a940-4014-8d2d-2576f53acd5e}-Ketnet.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\Ketnet.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\SemiGloss\Ketnet_Op12.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{ef7cfc0c-beee-46da-8e9f-487c0dbe58ff}-Ketnet_Op12.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\Ketnet_Op12.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\SemiGloss\Nautical Channel.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{3eb7d182-9b0c-4c51-8266-28cfd612ffc2}-Nautical Channel.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\Nautical Channel.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\SemiGloss\Ziggo Xite.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{460c2998-4045-44cf-80ed-d95a70ec3296}-Ziggo Xite.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\Ziggo Xite.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\SemiGloss\24 Kitchen HD.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{47b978b2-1d06-45e8-a947-301cfd616580}-24 Kitchen HD.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\24 Kitchen HD.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\SemiGloss\Discovery HD.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{705acf33-7a23-4d46-aeb1-5eec0f0992d0}-Discovery HD.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\Discovery HD.png</DestinationFilename>
             </FileItem>
           </Items>
         </Files>
@@ -8595,13 +8805,6 @@
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
               <Param1 />
               <UpdateOption>AlwaysOverwrite</UpdateOption>
-              <LocalFileName>TV\Clear\Consumenten 24.png</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{1a0816ed-aba2-405d-81d2-47c5e30b9d3a}-Consumenten 24.png</ZipFileName>
-              <DestinationFilename>%Thumbs%\TV\Logos\Consumenten 24.png</DestinationFilename>
-            </FileItem>
-            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-              <Param1 />
-              <UpdateOption>AlwaysOverwrite</UpdateOption>
               <LocalFileName>TV\Clear\Cultura 24.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{3f8caf99-23fc-4acf-b12a-de9a56a5daf6}-Cultura 24.png</ZipFileName>
               <DestinationFilename>%Thumbs%\TV\Logos\Cultura 24.png</DestinationFilename>
@@ -8847,13 +9050,6 @@
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
               <Param1 />
               <UpdateOption>AlwaysOverwrite</UpdateOption>
-              <LocalFileName>TV\Clear\Geschiedenis 24.png</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{0feb3260-7543-4db2-80f7-9713b2124425}-Geschiedenis 24.png</ZipFileName>
-              <DestinationFilename>%Thumbs%\TV\Logos\Geschiedenis 24.png</DestinationFilename>
-            </FileItem>
-            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-              <Param1 />
-              <UpdateOption>AlwaysOverwrite</UpdateOption>
               <LocalFileName>TV\Clear\Hallmark Channel.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{dcd84710-ca58-473b-b3e7-abe690f39c2f}-Hallmark Channel.png</ZipFileName>
               <DestinationFilename>%Thumbs%\TV\Logos\Hallmark Channel.png</DestinationFilename>
@@ -8927,20 +9123,6 @@
               <LocalFileName>TV\Clear\Kabel 1.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{887a461c-e7d5-43ec-8baf-0000dd9993e6}-Kabel 1.png</ZipFileName>
               <DestinationFilename>%Thumbs%\TV\Logos\Kabel 1.png</DestinationFilename>
-            </FileItem>
-            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-              <Param1 />
-              <UpdateOption>AlwaysOverwrite</UpdateOption>
-              <LocalFileName>TV\Clear\Ketnet_Canvas HD.png</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{ad5d649a-b125-4aa0-8c9d-509f62258374}-Ketnet_Canvas HD.png</ZipFileName>
-              <DestinationFilename>%Thumbs%\TV\Logos\Ketnet_Canvas HD.png</DestinationFilename>
-            </FileItem>
-            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-              <Param1 />
-              <UpdateOption>AlwaysOverwrite</UpdateOption>
-              <LocalFileName>TV\Clear\Ketnet_Canvas.png</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{e87f9037-586a-4ee7-be78-14d07f97a575}-Ketnet_Canvas.png</ZipFileName>
-              <DestinationFilename>%Thumbs%\TV\Logos\Ketnet_Canvas.png</DestinationFilename>
             </FileItem>
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
               <Param1 />
@@ -10415,13 +10597,6 @@
             <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
               <Param1 />
               <UpdateOption>AlwaysOverwrite</UpdateOption>
-              <LocalFileName>TV\Clear\Film1 Premiere +1.png</LocalFileName>
-              <ZipFileName>Installer{CopyFile}\{087dcaeb-4b5a-4640-9db5-3a3144ca17c4}-Film1 Premiere +1.png</ZipFileName>
-              <DestinationFilename>%Thumbs%\TV\Logos\Film1 Premiere +1.png</DestinationFilename>
-            </FileItem>
-            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-              <Param1 />
-              <UpdateOption>AlwaysOverwrite</UpdateOption>
               <LocalFileName>TV\Clear\Film1 Premiere HD.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{90d37510-cde7-4534-aa43-f77403dfbea3}-Film1 Premiere HD.png</ZipFileName>
               <DestinationFilename>%Thumbs%\TV\Logos\Film1 Premiere HD.png</DestinationFilename>
@@ -10649,6 +10824,146 @@
               <LocalFileName>TV\Clear\OUTTV.png</LocalFileName>
               <ZipFileName>Installer{CopyFile}\{2686362f-9866-4be0-a987-96deabe62707}-OUTTV.png</ZipFileName>
               <DestinationFilename>%Thumbs%\TV\Logos\OUTTV.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\Clear\192TV.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{285297e3-db94-441b-b66f-e545b62769c6}-192TV.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\192TV.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\Clear\Comedy Central Extra.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{297a8fad-ee4d-4f33-8314-83972a7f7041}-Comedy Central Extra.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\Comedy Central Extra.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\Clear\RTV Bodegraven.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{d5f92329-df65-4151-a3e4-9ce051e67e6d}-RTV Bodegraven.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\RTV Bodegraven.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\Clear\Vrolek.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{8c48fa61-ccfc-497e-b766-524310f19a74}-Vrolek.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\Vrolek.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\Clear\Film1 Series.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{93ab5d7d-9e31-4639-9b89-c9714e6bfa92}-Film1 Series.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\Film1 Series.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\Clear\HBO 2 HD.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{9c5ecd1b-dd5a-48d6-b1e1-c1d7a490c33c}-HBO 2 HD.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\HBO 2 HD.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\Clear\HBO 2.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{721dfc8f-db67-4a3e-a2fa-f49c52e76a3a}-HBO 2.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\HBO 2.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\Clear\HBO 3 HD.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{77ecf382-1785-4277-becc-6b298f1cebf1}-HBO 3 HD.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\HBO 3 HD.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\Clear\HBO 3.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{26ec447e-6f33-4b8b-87a5-6d3860fec514}-HBO 3.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\HBO 3.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\Clear\HBO HD.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{6afac7d3-ab6a-4698-9f7c-67789e737102}-HBO HD.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\HBO HD.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\Clear\HBO.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{93b5868e-26b3-4f1c-ab8e-eebcce697195}-HBO.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\HBO.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\Clear\Canvas HD.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{5d843ab7-1cbb-4c62-9a7c-970d4e8f8db6}-Canvas HD.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\Canvas HD.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\Clear\Canvas.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{d3b97a46-4acc-452d-adb4-f7a9c7df97d7}-Canvas.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\Canvas.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\Clear\Film1 Sundance.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{5a7cee19-4c4b-4b16-959b-7de65f0741f2}-Film1 Sundance.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\Film1 Sundance.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\Clear\Ketnet.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{fc45f0d1-b0f4-4101-97b9-85009d17f4cd}-Ketnet.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\Ketnet.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\Clear\Ketnet_Op12.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{c3ac949e-7274-4ef9-b53e-fdd1b400ec1c}-Ketnet_Op12.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\Ketnet_Op12.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\Clear\Nautical Channel.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{461ff174-3e6a-4612-acca-e05a08724e3d}-Nautical Channel.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\Nautical Channel.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\Clear\Ziggo Xite.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{43789524-c4dd-494b-b799-1b354683eb29}-Ziggo Xite.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\Ziggo Xite.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\Clear\24 Kitchen HD.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{6c02cc3b-d028-4aa1-95a4-90c5f28b09a0}-24 Kitchen HD.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\24 Kitchen HD.png</DestinationFilename>
+            </FileItem>
+            <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+              <Param1 />
+              <UpdateOption>AlwaysOverwrite</UpdateOption>
+              <LocalFileName>TV\Clear\Discovery HD.png</LocalFileName>
+              <ZipFileName>Installer{CopyFile}\{cd42f3ef-63f9-4990-becc-4b63f56abc78}-Discovery HD.png</ZipFileName>
+              <DestinationFilename>%Thumbs%\TV\Logos\Discovery HD.png</DestinationFilename>
             </FileItem>
           </Items>
         </Files>
@@ -10881,21 +11196,26 @@ Dutch TV and Radio logos for cable providers: Ziggo, Caiway, Delta, Kabel Noord,
     <UpdateUrl>http://mp-dutch-rtv-logos.googlecode.com/svn/trunk/Dutch TV and Radio Logos.xml</UpdateUrl>
     <Version>
       <Major>1</Major>
-      <Minor>6</Minor>
+      <Minor>7</Minor>
       <Build>0</Build>
       <Revision>0</Revision>
     </Version>
     <ExtensionDescription>Dutch TV and Radio logos for cable providers: Ziggo, Caiway, Delta, Kabel Noord, a.o. The logos are available in 3 styles: Gloss, Semi-Gloss and Clear for all available channels including the extra packages.</ExtensionDescription>
     <VersionDescription>Following updates are done:
 
-- Logos for Kindernet, Planet Turk, Crime &amp; Investigation Network, Film1 Action HD, 13th Street HD, Disney Channel, Disney XD, Disney Junior, Investigation Discovery, Animal Planet/TLC, MTV Live HD, RTL Crime, 24 Kitchen and Ziggo Event Channel added.
-- Logos of Eurosport, BBC HD and MTV updated.
-- Several logos renamed according to new Ziggo names.</VersionDescription>
+- Seperate logos for Canvas and Ketnet (Op12) added.
+- Logo of Goed TV updated.
+- Logo of Xite updated.
+- Logo for Ziggo Xite added.
+- Logo for Nautical Channel added.
+- Logo for Discovery HD added.
+- Logos of Consumenten 24 and Geschiedenis 24 removed.
+</VersionDescription>
     <DevelopmentStatus>Stable</DevelopmentStatus>
-    <OnlineLocation>http://mp-dutch-rtv-logos.googlecode.com/files/Dutch TV and Radio Logos_1.6.0.0.mpe1</OnlineLocation>
-    <ReleaseDate>2011-09-01T21:03:31</ReleaseDate>
-    <Tags />
-    <Location>C:\Dutch TV and Radio Logos_1.6.0.0.mpe1</Location>
+    <OnlineLocation>http://mp-dutch-rtv-logos.googlecode.com/files/Dutch TV and Radio Logos_1.7.0.0.mpe1</OnlineLocation>
+    <ReleaseDate>2012-05-26T21:03:31</ReleaseDate>
+    <Tags>logos</Tags>
+    <Location>C:\Dutch TV and Radio Logos_1.7.0.0.mpe1</Location>
     <Params>
       <Items>
         <SectionParam Name="Icon">
@@ -10904,7 +11224,7 @@ Dutch TV and Radio logos for cable providers: Ziggo, Caiway, Delta, Kabel Noord,
           <Description>The icon file of the package (jpg,png,bmp)</Description>
         </SectionParam>
         <SectionParam Name="Online Icon">
-          <Value>http://code.google.com/p/mp-dutch-rtv-logos/source/browse/trunk/Installer/Logo.png</Value>
+          <Value>http://mp-dutch-rtv-logos.googlecode.com/svn/trunk/Installer/Logo.png</Value>
           <ValueType>String</ValueType>
           <Description>The icon file of the package stored online (jpg,png,bmp)</Description>
         </SectionParam>
@@ -12396,13 +12716,6 @@ Dutch TV and Radio logos for cable providers: Ziggo, Caiway, Delta, Kabel Noord,
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
         <UpdateOption>AlwaysOverwrite</UpdateOption>
-        <LocalFileName>TV\Gloss\Consumenten 24.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{e8dd5e86-0490-488c-be7f-6e30e4583e24}-Consumenten 24.png</ZipFileName>
-        <DestinationFilename>%Thumbs%\TV\Logos\Consumenten 24.png</DestinationFilename>
-      </FileItem>
-      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-        <Param1 />
-        <UpdateOption>AlwaysOverwrite</UpdateOption>
         <LocalFileName>TV\Gloss\Cultura 24.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{015869db-02cd-423d-81c5-dec15f94fbfa}-Cultura 24.png</ZipFileName>
         <DestinationFilename>%Thumbs%\TV\Logos\Cultura 24.png</DestinationFilename>
@@ -12648,13 +12961,6 @@ Dutch TV and Radio logos for cable providers: Ziggo, Caiway, Delta, Kabel Noord,
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
         <UpdateOption>AlwaysOverwrite</UpdateOption>
-        <LocalFileName>TV\Gloss\Geschiedenis 24.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{aa768076-21e4-497a-8903-106d3b0ae8b6}-Geschiedenis 24.png</ZipFileName>
-        <DestinationFilename>%Thumbs%\TV\Logos\Geschiedenis 24.png</DestinationFilename>
-      </FileItem>
-      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-        <Param1 />
-        <UpdateOption>AlwaysOverwrite</UpdateOption>
         <LocalFileName>TV\Gloss\Hallmark Channel.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{9a18f06e-1823-4765-ac24-61e34f4b8c8b}-Hallmark Channel.png</ZipFileName>
         <DestinationFilename>%Thumbs%\TV\Logos\Hallmark Channel.png</DestinationFilename>
@@ -12728,20 +13034,6 @@ Dutch TV and Radio logos for cable providers: Ziggo, Caiway, Delta, Kabel Noord,
         <LocalFileName>TV\Gloss\Kabel 1.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{3715ba02-2a0e-480b-a007-375e5a87e1d9}-Kabel 1.png</ZipFileName>
         <DestinationFilename>%Thumbs%\TV\Logos\Kabel 1.png</DestinationFilename>
-      </FileItem>
-      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-        <Param1 />
-        <UpdateOption>AlwaysOverwrite</UpdateOption>
-        <LocalFileName>TV\Gloss\Ketnet_Canvas HD.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{5568cb50-9b73-4a76-bed1-0724a7d904af}-Ketnet_Canvas HD.png</ZipFileName>
-        <DestinationFilename>%Thumbs%\TV\Logos\Ketnet_Canvas HD.png</DestinationFilename>
-      </FileItem>
-      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-        <Param1 />
-        <UpdateOption>AlwaysOverwrite</UpdateOption>
-        <LocalFileName>TV\Gloss\Ketnet_Canvas.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{25bcdd51-0a1c-415f-a63b-63ff48cf9bab}-Ketnet_Canvas.png</ZipFileName>
-        <DestinationFilename>%Thumbs%\TV\Logos\Ketnet_Canvas.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
@@ -14216,13 +14508,6 @@ Dutch TV and Radio logos for cable providers: Ziggo, Caiway, Delta, Kabel Noord,
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
         <UpdateOption>AlwaysOverwrite</UpdateOption>
-        <LocalFileName>TV\Gloss\Film1 Premiere +1.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{cc355b93-0c66-47ab-ade8-e2d2cd349198}-Film1 Premiere +1.png</ZipFileName>
-        <DestinationFilename>%Thumbs%\TV\Logos\Film1 Premiere +1.png</DestinationFilename>
-      </FileItem>
-      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-        <Param1 />
-        <UpdateOption>AlwaysOverwrite</UpdateOption>
         <LocalFileName>TV\Gloss\Film1 Premiere HD.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{f73165f3-6129-4af6-a5c6-478599fbe770}-Film1 Premiere HD.png</ZipFileName>
         <DestinationFilename>%Thumbs%\TV\Logos\Film1 Premiere HD.png</DestinationFilename>
@@ -14450,6 +14735,146 @@ Dutch TV and Radio logos for cable providers: Ziggo, Caiway, Delta, Kabel Noord,
         <LocalFileName>TV\Gloss\OUTTV.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{1fabdcf4-77e6-4f45-b58a-eba2694ff207}-OUTTV.png</ZipFileName>
         <DestinationFilename>%Thumbs%\TV\Logos\OUTTV.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\Gloss\192TV.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{3d0e2e4b-ecef-40ae-a91f-b1d69e676a1d}-192TV.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\192TV.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\Gloss\Comedy Central Extra.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{73561969-8c64-48c8-ada4-eaf3af270baf}-Comedy Central Extra.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\Comedy Central Extra.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\Gloss\RTV Bodegraven.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{127ccae9-7dd1-4686-9e1d-7b046a32df18}-RTV Bodegraven.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\RTV Bodegraven.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\Gloss\Vrolek.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{ae3fb3f0-dd10-451a-8860-5edda61c3dd0}-Vrolek.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\Vrolek.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\Gloss\Film1 Series.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{114574fa-919a-45da-aa48-da04bc6dc490}-Film1 Series.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\Film1 Series.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\Gloss\HBO 2 HD.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{2a530de7-0336-41bc-94a2-f952d7db220a}-HBO 2 HD.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\HBO 2 HD.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\Gloss\HBO 2.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{60d45d46-14fa-4b74-8fb8-f12a337e89be}-HBO 2.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\HBO 2.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\Gloss\HBO 3 HD.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{48eed400-01ae-488b-b706-de819bcaffac}-HBO 3 HD.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\HBO 3 HD.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\Gloss\HBO 3.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{562a2e49-4a01-4239-b25f-1b2dbd9b3805}-HBO 3.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\HBO 3.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\Gloss\HBO HD.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{02801e86-9ba1-48cd-9ed6-4ca39134deda}-HBO HD.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\HBO HD.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\Gloss\HBO.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{3701a00c-fc35-4bb5-ac79-9eafcecb02db}-HBO.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\HBO.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\Gloss\Canvas HD.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{895f56e5-9271-4cda-bcb3-5fad9c1765be}-Canvas HD.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\Canvas HD.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\Gloss\Canvas.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{06c9cf5d-a62c-44bb-a379-6bbaf6d8a38c}-Canvas.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\Canvas.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\Gloss\Film1 Sundance.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{78dbb32d-6261-432d-b8b1-6e789a35a5f1}-Film1 Sundance.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\Film1 Sundance.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\Gloss\Ketnet.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{8390798a-5f41-4f10-b7f4-b0bdfa07c542}-Ketnet.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\Ketnet.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\Gloss\Ketnet_Op12.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{08ce484b-c385-433c-b003-41b92d9bfabb}-Ketnet_Op12.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\Ketnet_Op12.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\Gloss\Nautical Channel.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{caa20e38-ee77-47ec-9c61-43280d91c724}-Nautical Channel.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\Nautical Channel.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\Gloss\Ziggo Xite.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{c0b7d332-5e65-47ab-bd81-450251327b46}-Ziggo Xite.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\Ziggo Xite.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\Gloss\24 Kitchen HD.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{14318671-6daa-4d45-9ac3-74827e97ca88}-24 Kitchen HD.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\24 Kitchen HD.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\Gloss\Discovery HD.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{e49512f4-bb5c-4647-912f-c574dd12c0f7}-Discovery HD.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\Discovery HD.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
@@ -15917,13 +16342,6 @@ Dutch TV and Radio logos for cable providers: Ziggo, Caiway, Delta, Kabel Noord,
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
         <UpdateOption>AlwaysOverwrite</UpdateOption>
-        <LocalFileName>TV\SemiGloss\Consumenten 24.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{d9f42a7c-23e0-4f0d-951a-c7db419b6345}-Consumenten 24.png</ZipFileName>
-        <DestinationFilename>%Thumbs%\TV\Logos\Consumenten 24.png</DestinationFilename>
-      </FileItem>
-      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-        <Param1 />
-        <UpdateOption>AlwaysOverwrite</UpdateOption>
         <LocalFileName>TV\SemiGloss\Cultura 24.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{cf2bf645-a104-4c8a-b565-beb73cb64d4c}-Cultura 24.png</ZipFileName>
         <DestinationFilename>%Thumbs%\TV\Logos\Cultura 24.png</DestinationFilename>
@@ -16169,13 +16587,6 @@ Dutch TV and Radio logos for cable providers: Ziggo, Caiway, Delta, Kabel Noord,
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
         <UpdateOption>AlwaysOverwrite</UpdateOption>
-        <LocalFileName>TV\SemiGloss\Geschiedenis 24.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{47c2a2af-ed8a-4bec-8836-11efe6811626}-Geschiedenis 24.png</ZipFileName>
-        <DestinationFilename>%Thumbs%\TV\Logos\Geschiedenis 24.png</DestinationFilename>
-      </FileItem>
-      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-        <Param1 />
-        <UpdateOption>AlwaysOverwrite</UpdateOption>
         <LocalFileName>TV\SemiGloss\Hallmark Channel.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{4a297396-9062-4f25-ab50-dbc8db51faab}-Hallmark Channel.png</ZipFileName>
         <DestinationFilename>%Thumbs%\TV\Logos\Hallmark Channel.png</DestinationFilename>
@@ -16249,20 +16660,6 @@ Dutch TV and Radio logos for cable providers: Ziggo, Caiway, Delta, Kabel Noord,
         <LocalFileName>TV\SemiGloss\Kabel 1.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{5712aa55-9109-4020-a27a-b82a537aea1d}-Kabel 1.png</ZipFileName>
         <DestinationFilename>%Thumbs%\TV\Logos\Kabel 1.png</DestinationFilename>
-      </FileItem>
-      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-        <Param1 />
-        <UpdateOption>AlwaysOverwrite</UpdateOption>
-        <LocalFileName>TV\SemiGloss\Ketnet_Canvas HD.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{860e7480-aeee-4ec0-828c-982de29b8df6}-Ketnet_Canvas HD.png</ZipFileName>
-        <DestinationFilename>%Thumbs%\TV\Logos\Ketnet_Canvas HD.png</DestinationFilename>
-      </FileItem>
-      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-        <Param1 />
-        <UpdateOption>AlwaysOverwrite</UpdateOption>
-        <LocalFileName>TV\SemiGloss\Ketnet_Canvas.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{9b435db5-a206-406a-9c22-fd98499bd4f7}-Ketnet_Canvas.png</ZipFileName>
-        <DestinationFilename>%Thumbs%\TV\Logos\Ketnet_Canvas.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
@@ -17737,13 +18134,6 @@ Dutch TV and Radio logos for cable providers: Ziggo, Caiway, Delta, Kabel Noord,
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
         <UpdateOption>AlwaysOverwrite</UpdateOption>
-        <LocalFileName>TV\SemiGloss\Film1 Premiere +1.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{1a2157b6-689d-423f-a0c9-037838a45051}-Film1 Premiere +1.png</ZipFileName>
-        <DestinationFilename>%Thumbs%\TV\Logos\Film1 Premiere +1.png</DestinationFilename>
-      </FileItem>
-      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-        <Param1 />
-        <UpdateOption>AlwaysOverwrite</UpdateOption>
         <LocalFileName>TV\SemiGloss\Film1 Premiere HD.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{92d573e8-df65-4661-8ff3-93483a4844e7}-Film1 Premiere HD.png</ZipFileName>
         <DestinationFilename>%Thumbs%\TV\Logos\Film1 Premiere HD.png</DestinationFilename>
@@ -17971,6 +18361,146 @@ Dutch TV and Radio logos for cable providers: Ziggo, Caiway, Delta, Kabel Noord,
         <LocalFileName>TV\SemiGloss\OUTTV.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{9e253dea-bb64-449a-b0ed-60d293372011}-OUTTV.png</ZipFileName>
         <DestinationFilename>%Thumbs%\TV\Logos\OUTTV.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\SemiGloss\192TV.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{a801d7fa-1e3c-4b5d-8248-bbf2b789343b}-192TV.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\192TV.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\SemiGloss\Comedy Central Extra.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{cdf9a154-7eb2-4e34-a9ac-e7d4591c95bf}-Comedy Central Extra.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\Comedy Central Extra.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\SemiGloss\RTV Bodegraven.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{2ddbd2ed-f6aa-430c-a61c-74f010903d12}-RTV Bodegraven.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\RTV Bodegraven.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\SemiGloss\Vrolek.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{8458160f-7a85-4d80-833a-a6e6c9303c4f}-Vrolek.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\Vrolek.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\SemiGloss\Film1 Series.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{e0824873-1889-4468-8a62-b2d3cba9e438}-Film1 Series.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\Film1 Series.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\SemiGloss\HBO 2 HD.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{6133f230-3d82-4691-965b-44ea7a1a6e64}-HBO 2 HD.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\HBO 2 HD.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\SemiGloss\HBO 2.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{2365a3c6-f00d-4e5e-9f1d-705a8d5f6385}-HBO 2.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\HBO 2.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\SemiGloss\HBO 3 HD.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{9acaac4a-6f0d-487a-8aa0-9230d642f6dd}-HBO 3 HD.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\HBO 3 HD.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\SemiGloss\HBO 3.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{c555cbbe-e841-420c-83d6-47b97304ff1b}-HBO 3.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\HBO 3.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\SemiGloss\HBO HD.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{3dddb1bf-1a0e-4f23-875b-8b4bae1bcce4}-HBO HD.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\HBO HD.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\SemiGloss\HBO.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{3f8f1211-8d59-4f64-bb87-f0fe9a41c027}-HBO.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\HBO.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\SemiGloss\Canvas HD.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{e8db900e-682b-4661-a62d-727f830e52ad}-Canvas HD.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\Canvas HD.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\SemiGloss\Canvas.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{2b742b8f-4e75-4fdd-bd11-94e61af8629e}-Canvas.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\Canvas.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\SemiGloss\Film1 Sundance.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{b2d80b2b-ec44-49f9-94b5-dface5c2acc3}-Film1 Sundance.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\Film1 Sundance.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\SemiGloss\Ketnet.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{dbaabe32-a940-4014-8d2d-2576f53acd5e}-Ketnet.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\Ketnet.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\SemiGloss\Ketnet_Op12.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{ef7cfc0c-beee-46da-8e9f-487c0dbe58ff}-Ketnet_Op12.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\Ketnet_Op12.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\SemiGloss\Nautical Channel.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{3eb7d182-9b0c-4c51-8266-28cfd612ffc2}-Nautical Channel.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\Nautical Channel.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\SemiGloss\Ziggo Xite.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{460c2998-4045-44cf-80ed-d95a70ec3296}-Ziggo Xite.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\Ziggo Xite.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\SemiGloss\24 Kitchen HD.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{47b978b2-1d06-45e8-a947-301cfd616580}-24 Kitchen HD.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\24 Kitchen HD.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\SemiGloss\Discovery HD.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{705acf33-7a23-4d46-aeb1-5eec0f0992d0}-Discovery HD.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\Discovery HD.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
@@ -19438,13 +19968,6 @@ Dutch TV and Radio logos for cable providers: Ziggo, Caiway, Delta, Kabel Noord,
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
         <UpdateOption>AlwaysOverwrite</UpdateOption>
-        <LocalFileName>TV\Clear\Consumenten 24.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{1a0816ed-aba2-405d-81d2-47c5e30b9d3a}-Consumenten 24.png</ZipFileName>
-        <DestinationFilename>%Thumbs%\TV\Logos\Consumenten 24.png</DestinationFilename>
-      </FileItem>
-      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-        <Param1 />
-        <UpdateOption>AlwaysOverwrite</UpdateOption>
         <LocalFileName>TV\Clear\Cultura 24.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{3f8caf99-23fc-4acf-b12a-de9a56a5daf6}-Cultura 24.png</ZipFileName>
         <DestinationFilename>%Thumbs%\TV\Logos\Cultura 24.png</DestinationFilename>
@@ -19690,13 +20213,6 @@ Dutch TV and Radio logos for cable providers: Ziggo, Caiway, Delta, Kabel Noord,
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
         <UpdateOption>AlwaysOverwrite</UpdateOption>
-        <LocalFileName>TV\Clear\Geschiedenis 24.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{0feb3260-7543-4db2-80f7-9713b2124425}-Geschiedenis 24.png</ZipFileName>
-        <DestinationFilename>%Thumbs%\TV\Logos\Geschiedenis 24.png</DestinationFilename>
-      </FileItem>
-      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-        <Param1 />
-        <UpdateOption>AlwaysOverwrite</UpdateOption>
         <LocalFileName>TV\Clear\Hallmark Channel.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{dcd84710-ca58-473b-b3e7-abe690f39c2f}-Hallmark Channel.png</ZipFileName>
         <DestinationFilename>%Thumbs%\TV\Logos\Hallmark Channel.png</DestinationFilename>
@@ -19770,20 +20286,6 @@ Dutch TV and Radio logos for cable providers: Ziggo, Caiway, Delta, Kabel Noord,
         <LocalFileName>TV\Clear\Kabel 1.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{887a461c-e7d5-43ec-8baf-0000dd9993e6}-Kabel 1.png</ZipFileName>
         <DestinationFilename>%Thumbs%\TV\Logos\Kabel 1.png</DestinationFilename>
-      </FileItem>
-      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-        <Param1 />
-        <UpdateOption>AlwaysOverwrite</UpdateOption>
-        <LocalFileName>TV\Clear\Ketnet_Canvas HD.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{ad5d649a-b125-4aa0-8c9d-509f62258374}-Ketnet_Canvas HD.png</ZipFileName>
-        <DestinationFilename>%Thumbs%\TV\Logos\Ketnet_Canvas HD.png</DestinationFilename>
-      </FileItem>
-      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-        <Param1 />
-        <UpdateOption>AlwaysOverwrite</UpdateOption>
-        <LocalFileName>TV\Clear\Ketnet_Canvas.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{e87f9037-586a-4ee7-be78-14d07f97a575}-Ketnet_Canvas.png</ZipFileName>
-        <DestinationFilename>%Thumbs%\TV\Logos\Ketnet_Canvas.png</DestinationFilename>
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
@@ -21258,13 +21760,6 @@ Dutch TV and Radio logos for cable providers: Ziggo, Caiway, Delta, Kabel Noord,
       <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
         <Param1 />
         <UpdateOption>AlwaysOverwrite</UpdateOption>
-        <LocalFileName>TV\Clear\Film1 Premiere +1.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{087dcaeb-4b5a-4640-9db5-3a3144ca17c4}-Film1 Premiere +1.png</ZipFileName>
-        <DestinationFilename>%Thumbs%\TV\Logos\Film1 Premiere +1.png</DestinationFilename>
-      </FileItem>
-      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
-        <Param1 />
-        <UpdateOption>AlwaysOverwrite</UpdateOption>
         <LocalFileName>TV\Clear\Film1 Premiere HD.png</LocalFileName>
         <ZipFileName>Installer{CopyFile}\{90d37510-cde7-4534-aa43-f77403dfbea3}-Film1 Premiere HD.png</ZipFileName>
         <DestinationFilename>%Thumbs%\TV\Logos\Film1 Premiere HD.png</DestinationFilename>
@@ -21493,18 +21988,158 @@ Dutch TV and Radio logos for cable providers: Ziggo, Caiway, Delta, Kabel Noord,
         <ZipFileName>Installer{CopyFile}\{2686362f-9866-4be0-a987-96deabe62707}-OUTTV.png</ZipFileName>
         <DestinationFilename>%Thumbs%\TV\Logos\OUTTV.png</DestinationFilename>
       </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\Clear\192TV.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{285297e3-db94-441b-b66f-e545b62769c6}-192TV.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\192TV.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\Clear\Comedy Central Extra.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{297a8fad-ee4d-4f33-8314-83972a7f7041}-Comedy Central Extra.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\Comedy Central Extra.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\Clear\RTV Bodegraven.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{d5f92329-df65-4151-a3e4-9ce051e67e6d}-RTV Bodegraven.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\RTV Bodegraven.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\Clear\Vrolek.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{8c48fa61-ccfc-497e-b766-524310f19a74}-Vrolek.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\Vrolek.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\Clear\Film1 Series.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{93ab5d7d-9e31-4639-9b89-c9714e6bfa92}-Film1 Series.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\Film1 Series.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\Clear\HBO 2 HD.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{9c5ecd1b-dd5a-48d6-b1e1-c1d7a490c33c}-HBO 2 HD.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\HBO 2 HD.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\Clear\HBO 2.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{721dfc8f-db67-4a3e-a2fa-f49c52e76a3a}-HBO 2.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\HBO 2.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\Clear\HBO 3 HD.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{77ecf382-1785-4277-becc-6b298f1cebf1}-HBO 3 HD.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\HBO 3 HD.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\Clear\HBO 3.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{26ec447e-6f33-4b8b-87a5-6d3860fec514}-HBO 3.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\HBO 3.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\Clear\HBO HD.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{6afac7d3-ab6a-4698-9f7c-67789e737102}-HBO HD.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\HBO HD.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\Clear\HBO.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{93b5868e-26b3-4f1c-ab8e-eebcce697195}-HBO.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\HBO.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\Clear\Canvas HD.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{5d843ab7-1cbb-4c62-9a7c-970d4e8f8db6}-Canvas HD.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\Canvas HD.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\Clear\Canvas.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{d3b97a46-4acc-452d-adb4-f7a9c7df97d7}-Canvas.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\Canvas.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\Clear\Film1 Sundance.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{5a7cee19-4c4b-4b16-959b-7de65f0741f2}-Film1 Sundance.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\Film1 Sundance.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\Clear\Ketnet.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{fc45f0d1-b0f4-4101-97b9-85009d17f4cd}-Ketnet.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\Ketnet.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\Clear\Ketnet_Op12.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{c3ac949e-7274-4ef9-b53e-fdd1b400ec1c}-Ketnet_Op12.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\Ketnet_Op12.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\Clear\Nautical Channel.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{461ff174-3e6a-4612-acca-e05a08724e3d}-Nautical Channel.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\Nautical Channel.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\Clear\Ziggo Xite.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{43789524-c4dd-494b-b799-1b354683eb29}-Ziggo Xite.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\Ziggo Xite.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\Clear\24 Kitchen HD.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{6c02cc3b-d028-4aa1-95a4-90c5f28b09a0}-24 Kitchen HD.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\24 Kitchen HD.png</DestinationFilename>
+      </FileItem>
+      <FileItem InstallType="CopyFile" SystemFile="false" Modified="false">
+        <Param1 />
+        <UpdateOption>AlwaysOverwrite</UpdateOption>
+        <LocalFileName>TV\Clear\Discovery HD.png</LocalFileName>
+        <ZipFileName>Installer{CopyFile}\{cd42f3ef-63f9-4990-becc-4b63f56abc78}-Discovery HD.png</ZipFileName>
+        <DestinationFilename>%Thumbs%\TV\Logos\Discovery HD.png</DestinationFilename>
+      </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="true" Modified="true">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>Logos_sidelogo.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{736b8974-3e89-46ab-ada4-c6e0d07ecf8f}-Logos_sidelogo.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{95e3d439-fcae-4808-84c7-3d9c311a4968}-Logos_sidelogo.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
       <FileItem InstallType="CopyFile" SystemFile="true" Modified="true">
         <Param1 />
         <UpdateOption>OverwriteIfOlder</UpdateOption>
         <LocalFileName>Logo.png</LocalFileName>
-        <ZipFileName>Installer{CopyFile}\{f759b3ca-d2de-4d1a-9df0-feafbc6db461}-Logo.png</ZipFileName>
+        <ZipFileName>Installer{CopyFile}\{6714d124-1add-4a05-9ebb-4eba62b37563}-Logo.png</ZipFileName>
         <DestinationFilename />
       </FileItem>
     </Items>
