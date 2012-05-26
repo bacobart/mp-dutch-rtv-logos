@@ -117,25 +117,26 @@
         <UpdateUrl>http://mp-dutch-rtv-logos.googlecode.com/svn/trunk/Dutch TV and Radio Logos.xml</UpdateUrl>
         <Version>
           <Major>1</Major>
-          <Minor>6</Minor>
-          <Build>5</Build>
-          <Revision>1</Revision>
+          <Minor>7</Minor>
+          <Build>0</Build>
+          <Revision>0</Revision>
         </Version>
         <ExtensionDescription>Dutch TV and Radio logos for cable providers: Ziggo, Caiway, Delta, Kabel Noord, a.o. The logos are available in 3 styles: Gloss, Semi-Gloss and Clear for all available channels including the extra packages.</ExtensionDescription>
         <VersionDescription>Following updates are done:
 
-- Logos of Comedy Central updated/added.
-- Logos for RTV Bodegraven and Vrolek added.
-- Logo for Film1 Premiere +1 replaced with Film1+ Series.
-- Logos for HBO channels added.
-- Logo for Film1 Sundance Channel added.
-- Fix for downloading old installer.
+- Seperate logos for Canvas and Ketnet (Op12) added.
+- Logo of Goed TV updated.
+- Logo of Xite updated.
+- Logo for Ziggo Xite added.
+- Logo for Nautical Channel added.
+- Logo for Discovery HD added.
+- Logos of Consumenten 24 and Geschiedenis 24 removed.
 </VersionDescription>
         <DevelopmentStatus>Stable</DevelopmentStatus>
-        <OnlineLocation>http://mp-dutch-rtv-logos.googlecode.com/files/Dutch TV and Radio Logos_1.6.5.0.mpe1</OnlineLocation>
-        <ReleaseDate>2012-02-03T21:03:31</ReleaseDate>
+        <OnlineLocation>http://mp-dutch-rtv-logos.googlecode.com/files/Dutch TV and Radio Logos_1.7.0.0.mpe1</OnlineLocation>
+        <ReleaseDate>2012-05-26T21:03:31</ReleaseDate>
         <Tags>logos</Tags>
-        <Location>C:\Dutch TV and Radio Logos_1.6.5.0.mpe1</Location>
+        <Location>C:\Dutch TV and Radio Logos_1.7.0.0.mpe1</Location>
         <Params>
           <Items>
             <SectionParam Name="Online Icon">
