@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Mappings>
+  <Channel>
+    <Item Name="Nederland 1">
+      <Satellite>und</Satellite>
+    </Item>
+    <File>Nederland 1.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Nederland 2">
+      <Satellite>und</Satellite>
+    </Item>
+    <File>Nederland 2.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Nederland 3">
+      <Satellite>und</Satellite>
+    </Item>
+    <File>Nederland 3.png</File>
+  </Channel>
+</Mappings>
