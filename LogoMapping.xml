@@ -20,6 +20,7 @@
   </Channel>
   <Channel>
     <Item Name="192TV">
+    <Item Name="192 TV">
       <Satellite />
     </Item>
     <File>192TV.png</File>
@@ -343,7 +344,7 @@
     <File>Cultura 24.png</File>
   </Channel>
   <Channel>
-    <Item Name="default">
+    <Item Name="Lokale Omroep">
       <Satellite />
     </Item>
     <File>default.png</File>
@@ -644,6 +645,7 @@
   </Channel>
   <Channel>
     <Item Name="Film1 Sundance Channel">
+    <Item Name="Film1 Sundance">
       <Satellite />
     </Item>
     <File>Film1 Sundance Channel.png</File>
@@ -1046,12 +1048,14 @@
   </Channel>
   <Channel>
     <Item Name="National Geographic Channel HD">
+    <Item Name="NGC HD">
       <Satellite />
     </Item>
     <File>National Geographic Channel HD.png</File>
   </Channel>
   <Channel>
     <Item Name="National Geographic Channel">
+    <Item Name="NGC">
       <Satellite />
     </Item>
     <File>National Geographic Channel.png</File>
@@ -1106,12 +1110,14 @@
   </Channel>
   <Channel>
     <Item Name="Net 5 HD">
+    <Item Name="Net5 HD">
       <Satellite />
     </Item>
     <File>Net 5 HD.png</File>
   </Channel>
   <Channel>
     <Item Name="Net 5">
+    <Item Name="Net5">
       <Satellite />
     </Item>
     <File>Net 5.png</File>
@@ -1304,48 +1310,56 @@
   </Channel>
   <Channel>
     <Item Name="RTL 4 HD">
+    <Item Name="RTL4 HD">
       <Satellite />
     </Item>
     <File>RTL 4 HD.png</File>
   </Channel>
   <Channel>
     <Item Name="RTL 4">
+    <Item Name="RTL4">
       <Satellite />
     </Item>
     <File>RTL 4.png</File>
   </Channel>
   <Channel>
     <Item Name="RTL 5 HD">
+    <Item Name="RTL5 HD">
       <Satellite />
     </Item>
     <File>RTL 5 HD.png</File>
   </Channel>
   <Channel>
     <Item Name="RTL 5">
+    <Item Name="RTL5">
       <Satellite />
     </Item>
     <File>RTL 5.png</File>
   </Channel>
   <Channel>
     <Item Name="RTL 7 HD">
+    <Item Name="RTL7">
       <Satellite />
     </Item>
     <File>RTL 7 HD.png</File>
   </Channel>
   <Channel>
     <Item Name="RTL 7">
+    <Item Name="RTL7">
       <Satellite />
     </Item>
     <File>RTL 7.png</File>
   </Channel>
   <Channel>
     <Item Name="RTL 8 HD">
+    <Item Name="RTL8 HD">
       <Satellite />
     </Item>
     <File>RTL 8 HD.png</File>
   </Channel>
   <Channel>
     <Item Name="RTL 8">
+    <Item Name="RTL8">
       <Satellite />
     </Item>
     <File>RTL 8.png</File>
@@ -1424,18 +1438,21 @@
   </Channel>
   <Channel>
     <Item Name="SAT. 1">
+    <Item Name="SAT1">
       <Satellite />
     </Item>
     <File>SAT. 1.png</File>
   </Channel>
   <Channel>
     <Item Name="SBS 6 HD">
+    <Item Name="SBS6 HD">
       <Satellite />
     </Item>
     <File>SBS 6 HD.png</File>
   </Channel>
   <Channel>
     <Item Name="SBS 6">
+    <Item Name="SBS6">
       <Satellite />
     </Item>
     <File>SBS 6.png</File>
