@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+ <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Mappings>
   <Channel>
     <Item Name="101 TV">
@@ -20,6 +20,8 @@
   </Channel>
   <Channel>
     <Item Name="192TV">
+      <Satellite />
+    </Item>
     <Item Name="192 TV">
       <Satellite />
     </Item>
@@ -645,6 +647,8 @@
   </Channel>
   <Channel>
     <Item Name="Film1 Sundance Channel">
+      <Satellite />
+    </Item>
     <Item Name="Film1 Sundance">
       <Satellite />
     </Item>
@@ -1048,6 +1052,8 @@
   </Channel>
   <Channel>
     <Item Name="National Geographic Channel HD">
+      <Satellite />
+    </Item>
     <Item Name="NGC HD">
       <Satellite />
     </Item>
@@ -1055,6 +1061,8 @@
   </Channel>
   <Channel>
     <Item Name="National Geographic Channel">
+      <Satellite />
+    </Item>
     <Item Name="NGC">
       <Satellite />
     </Item>
@@ -1110,6 +1118,8 @@
   </Channel>
   <Channel>
     <Item Name="Net 5 HD">
+      <Satellite />
+    </Item>
     <Item Name="Net5 HD">
       <Satellite />
     </Item>
@@ -1117,6 +1127,8 @@
   </Channel>
   <Channel>
     <Item Name="Net 5">
+      <Satellite />
+    </Item>
     <Item Name="Net5">
       <Satellite />
     </Item>
@@ -1310,6 +1322,8 @@
   </Channel>
   <Channel>
     <Item Name="RTL 4 HD">
+      <Satellite />
+    </Item>
     <Item Name="RTL4 HD">
       <Satellite />
     </Item>
@@ -1317,6 +1331,8 @@
   </Channel>
   <Channel>
     <Item Name="RTL 4">
+      <Satellite />
+    </Item>
     <Item Name="RTL4">
       <Satellite />
     </Item>
@@ -1324,6 +1340,8 @@
   </Channel>
   <Channel>
     <Item Name="RTL 5 HD">
+      <Satellite />
+    </Item>
     <Item Name="RTL5 HD">
       <Satellite />
     </Item>
@@ -1331,6 +1349,8 @@
   </Channel>
   <Channel>
     <Item Name="RTL 5">
+      <Satellite />
+    </Item>
     <Item Name="RTL5">
       <Satellite />
     </Item>
@@ -1338,13 +1358,17 @@
   </Channel>
   <Channel>
     <Item Name="RTL 7 HD">
-    <Item Name="RTL7">
+      <Satellite />
+    </Item>
+    <Item Name="RTL7 HD">
       <Satellite />
     </Item>
     <File>RTL 7 HD.png</File>
   </Channel>
   <Channel>
     <Item Name="RTL 7">
+      <Satellite />
+    </Item>
     <Item Name="RTL7">
       <Satellite />
     </Item>
@@ -1352,6 +1376,8 @@
   </Channel>
   <Channel>
     <Item Name="RTL 8 HD">
+      <Satellite />
+    </Item>
     <Item Name="RTL8 HD">
       <Satellite />
     </Item>
@@ -1359,6 +1385,8 @@
   </Channel>
   <Channel>
     <Item Name="RTL 8">
+      <Satellite />
+    </Item>
     <Item Name="RTL8">
       <Satellite />
     </Item>
@@ -1438,6 +1466,8 @@
   </Channel>
   <Channel>
     <Item Name="SAT. 1">
+      <Satellite />
+    </Item>
     <Item Name="SAT1">
       <Satellite />
     </Item>
@@ -1445,6 +1475,8 @@
   </Channel>
   <Channel>
     <Item Name="SBS 6 HD">
+      <Satellite />
+    </Item>
     <Item Name="SBS6 HD">
       <Satellite />
     </Item>
@@ -1452,6 +1484,8 @@
   </Channel>
   <Channel>
     <Item Name="SBS 6">
+      <Satellite />
+    </Item>
     <Item Name="SBS6">
       <Satellite />
     </Item>
