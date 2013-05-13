@@ -31,10 +31,16 @@
     <Item Name="24 Kitchen HD">
       <Satellite />
     </Item>
+    <Item Name="24Kitchen HD">
+      <Satellite />
+    </Item>
     <File>24 Kitchen HD.png</File>
   </Channel>
   <Channel>
     <Item Name="24 Kitchen">
+      <Satellite />
+    </Item>
+    <Item Name="24Kitchen">
       <Satellite />
     </Item>
     <File>24 Kitchen.png</File>
@@ -139,10 +145,16 @@
     <Item Name="BBC 1">
       <Satellite />
     </Item>
-    <File>BBC 1.png</File>
+    <Item Name="BBC 1">
+      <Satellite />
+    </Item>
+    <File>BBC1.png</File>
   </Channel>
   <Channel>
     <Item Name="BBC 2">
+      <Satellite />
+    </Item>
+    <Item Name="BBC2">
       <Satellite />
     </Item>
     <File>BBC 2.png</File>
@@ -151,10 +163,16 @@
     <Item Name="BBC 3 _ CBBC">
       <Satellite />
     </Item>
+    <Item Name="BBC3 _ CBBC">
+      <Satellite />
+    </Item>
     <File>BBC 3 _ CBBC.png</File>
   </Channel>
   <Channel>
     <Item Name="BBC 3">
+      <Satellite />
+    </Item>
+    <Item Name="BBC3">
       <Satellite />
     </Item>
     <File>BBC 3.png</File>
@@ -163,10 +181,16 @@
     <Item Name="BBC 4 _ CBeeBies">
       <Satellite />
     </Item>
+    <Item Name="BBC4_CBeeBies">
+      <Satellite />
+    </Item>
     <File>BBC 4 _ CBeeBies.png</File>
   </Channel>
   <Channel>
     <Item Name="BBC 4">
+      <Satellite />
+    </Item>
+    <Item Name="BBC4">
       <Satellite />
     </Item>
     <File>BBC 4.png</File>
@@ -214,12 +238,6 @@
     <File>Brabant 10.png</File>
   </Channel>
   <Channel>
-    <Item Name="brabant">
-      <Satellite />
-    </Item>
-    <File>brabant.png</File>
-  </Channel>
-  <Channel>
     <Item Name="BravaHDTV">
       <Satellite />
     </Item>
@@ -227,6 +245,9 @@
   </Channel>
   <Channel>
     <Item Name="BravaNL">
+      <Satellite />
+    </Item>
+    <Item Name="Brava NL">
       <Satellite />
     </Item>
     <File>BravaNL.png</File>
@@ -247,10 +268,16 @@
     <Item Name="Canvas HD">
       <Satellite />
     </Item>
+    <Item Name="VRT Canvas HD">
+      <Satellite />
+    </Item>
     <File>Canvas HD.png</File>
   </Channel>
   <Channel>
     <Item Name="Canvas">
+      <Satellite />
+    </Item>
+    <Item Name="VRT Canvas">
       <Satellite />
     </Item>
     <File>Canvas.png</File>
@@ -269,6 +296,9 @@
   </Channel>
   <Channel>
     <Item Name="Cartoon _ TCM">
+      <Satellite />
+    </Item>
+    <Item Name="Cartoon Netw._TCM">
       <Satellite />
     </Item>
     <File>Cartoon _ TCM.png</File>
@@ -295,6 +325,9 @@
     <Item Name="CNN International">
       <Satellite />
     </Item>
+    <Item Name="CNN">
+      <Satellite />
+    </Item>
     <File>CNN International.png</File>
   </Channel>
   <Channel>
@@ -311,6 +344,9 @@
   </Channel>
   <Channel>
     <Item Name="Comedy Central Family">
+      <Satellite />
+    </Item>
+    <Item Name="Comedy Centr. Family">
       <Satellite />
     </Item>
     <File>Comedy Central Family.png</File>
@@ -349,6 +385,9 @@
     <Item Name="Lokale Omroep">
       <Satellite />
     </Item>
+    <Item Name="Regio TV">
+      <Satellite />
+    </Item>
     <File>default.png</File>
   </Channel>
   <Channel>
@@ -361,10 +400,16 @@
     <Item Name="Discovery Channel HD">
       <Satellite />
     </Item>
+    <Item Name="Discovery HD">
+      <Satellite />
+    </Item>
     <File>Discovery Channel HD.png</File>
   </Channel>
   <Channel>
     <Item Name="Discovery Channel">
+      <Satellite />
+    </Item>
+    <Item Name="Discovery">
       <Satellite />
     </Item>
     <File>Discovery Channel.png</File>
@@ -379,6 +424,9 @@
     <Item Name="Discovery Science">
       <Satellite />
     </Item>
+    <Item Name="Disc. Ch. Science">
+      <Satellite />
+    </Item>
     <File>Discovery Science.png</File>
   </Channel>
   <Channel>
@@ -389,6 +437,9 @@
   </Channel>
   <Channel>
     <Item Name="Discovery World">
+      <Satellite />
+    </Item>
+    <Item Name="Disc. Ch. World">
       <Satellite />
     </Item>
     <File>Discovery World.png</File>
@@ -499,6 +550,9 @@
     <Item Name="ESPN Classic Sports">
       <Satellite />
     </Item>
+    <Item Name="ESPN Classic Sport">
+      <Satellite />
+    </Item>
     <File>ESPN Classic Sports.png</File>
   </Channel>
   <Channel>
@@ -515,6 +569,9 @@
   </Channel>
   <Channel>
     <Item Name="Euro Star">
+      <Satellite />
+    </Item>
+    <Item Name="Eurostar">
       <Satellite />
     </Item>
     <File>Euro Star.png</File>
@@ -550,12 +607,6 @@
     <File>Eurosport.png</File>
   </Channel>
   <Channel>
-    <Item Name="Eventkanaal">
-      <Satellite />
-    </Item>
-    <File>Eventkanaal.png</File>
-  </Channel>
-  <Channel>
     <Item Name="EWTN">
       <Satellite />
     </Item>
@@ -571,10 +622,16 @@
     <Item Name="Eén HD">
       <Satellite />
     </Item>
+    <Item Name="VRT Eén HD">
+      <Satellite />
+    </Item>
     <File>Eén HD.png</File>
   </Channel>
   <Channel>
     <Item Name="Eén">
+      <Satellite />
+    </Item>
+    <Item Name="VRT Eén">
       <Satellite />
     </Item>
     <File>Eén.png</File>
@@ -607,10 +664,16 @@
     <Item Name="Film1 Action HD">
       <Satellite />
     </Item>
+    <Item Name="Film 1 Action HD">
+      <Satellite />
+    </Item>
     <File>Film1 Action HD.png</File>
   </Channel>
   <Channel>
     <Item Name="Film1 Action">
+      <Satellite />
+    </Item>
+    <Item Name="Film 1 Action">
       <Satellite />
     </Item>
     <File>Film1 Action.png</File>
@@ -619,10 +682,16 @@
     <Item Name="Film1 Family">
       <Satellite />
     </Item>
+    <Item Name="Film 1 Family">
+      <Satellite />
+    </Item>
     <File>Film1 Family.png</File>
   </Channel>
   <Channel>
     <Item Name="Film1 Festival">
+      <Satellite />
+    </Item>
+    <Item Name="Film 1 Festival">
       <Satellite />
     </Item>
     <File>Film1 Festival.png</File>
@@ -631,16 +700,25 @@
     <Item Name="Film1 Premiere HD">
       <Satellite />
     </Item>
+    <Item Name="Film 1 Premiere HD">
+      <Satellite />
+    </Item>
     <File>Film1 Premiere HD.png</File>
   </Channel>
   <Channel>
     <Item Name="Film1 Premiere">
       <Satellite />
     </Item>
+    <Item Name="Film 1 Premiere">
+      <Satellite />
+    </Item>
     <File>Film1 Premiere.png</File>
   </Channel>
   <Channel>
     <Item Name="Film1 Series">
+      <Satellite />
+    </Item>
+    <Item Name="Film 1 Series">
       <Satellite />
     </Item>
     <File>Film1 Series.png</File>
@@ -650,6 +728,9 @@
       <Satellite />
     </Item>
     <Item Name="Film1 Sundance">
+      <Satellite />
+    </Item>
+    <Item Name="Film 1 Sundance">
       <Satellite />
     </Item>
     <File>Film1 Sundance Channel.png</File>
@@ -664,10 +745,16 @@
     <Item Name="Food Network Channel HD">
       <Satellite />
     </Item>
+    <Item Name="Food Network HD">
+      <Satellite />
+    </Item>
     <File>Food Network Channel HD.png</File>
   </Channel>
   <Channel>
     <Item Name="Food Network Channel">
+      <Satellite />
+    </Item>
+    <Item Name="Food Network">
       <Satellite />
     </Item>
     <File>Food Network Channel.png</File>
@@ -700,6 +787,9 @@
     <Item Name="France 2">
       <Satellite />
     </Item>
+    <Item Name="France2">
+      <Satellite />
+    </Item>
     <File>France 2.png</File>
   </Channel>
   <Channel>
@@ -710,6 +800,9 @@
   </Channel>
   <Channel>
     <Item Name="France 3">
+      <Satellite />
+    </Item>
+    <Item Name="France3">
       <Satellite />
     </Item>
     <File>France 3.png</File>
@@ -734,6 +827,9 @@
   </Channel>
   <Channel>
     <Item Name="GoedTV">
+      <Satellite />
+    </Item>
+    <Item Name="Goed TV">
       <Satellite />
     </Item>
     <File>GoedTV.png</File>
@@ -822,6 +918,12 @@
     </Item>
     <File>Horror Channel.png</File>
   </Channel>
+    <Channel>
+    <Item Name="Horse &amp; Country">
+      <Satellite />
+    </Item>
+    <File>Horse &amp; Country.png</File>
+  </Channel>
   <Channel>
     <Item Name="Humor TV 24">
       <Satellite />
@@ -836,6 +938,9 @@
   </Channel>
   <Channel>
     <Item Name="Investigation Discovery">
+      <Satellite />
+    </Item>
+    <Item Name="Discovery ID">
       <Satellite />
     </Item>
     <File>Investigation Discovery.png</File>
@@ -868,16 +973,25 @@
     <Item Name="Ketnet">
       <Satellite />
     </Item>
+    <Item Name="VRT Ketnet">
+      <Satellite />
+    </Item>
     <File>Ketnet.png</File>
   </Channel>
   <Channel>
     <Item Name="Ketnet_Op12">
       <Satellite />
     </Item>
+    <Item Name="VRT Ketnet_Op12">
+      <Satellite />
+    </Item>
     <File>Ketnet_Op12.png</File>
   </Channel>
   <Channel>
     <Item Name="Kindernet_Comedy Central">
+      <Satellite />
+    </Item>
+    <Item Name="Kindernet _ Comedy Central">
       <Satellite />
     </Item>
     <File>Kindernet_Comedy Central.png</File>
@@ -890,6 +1004,9 @@
   </Channel>
   <Channel>
     <Item Name="L1 Limburg">
+      <Satellite />
+    </Item>
+    <Item Name="L1">
       <Satellite />
     </Item>
     <File>L1 Limburg.png</File>
@@ -976,6 +1093,9 @@
     <Item Name="MGM Movie Channel">
       <Satellite />
     </Item>
+    <Item Name="MGM Channel">
+      <Satellite />
+    </Item>
     <File>MGM Movie Channel.png</File>
   </Channel>
   <Channel>
@@ -1006,6 +1126,9 @@
     <Item Name="MTV Live HD">
       <Satellite />
     </Item>
+    <Item Name="MTV HD">
+      <Satellite />
+    </Item>
     <File>MTV Live HD.png</File>
   </Channel>
   <Channel>
@@ -1015,12 +1138,6 @@
     <File>MTV Music 24.png</File>
   </Channel>
   <Channel>
-    <Item Name="MTV NL">
-      <Satellite />
-    </Item>
-    <File>MTV NL.png</File>
-  </Channel>
-  <Channel>
     <Item Name="MTV Rocks">
       <Satellite />
     </Item>
@@ -1028,6 +1145,9 @@
   </Channel>
   <Channel>
     <Item Name="MTV">
+      <Satellite />
+    </Item>
+    <Item Name="MTV NL">
       <Satellite />
     </Item>
     <File>MTV.png</File>
@@ -1042,10 +1162,16 @@
     <Item Name="Nat Geo Wild HD">
       <Satellite />
     </Item>
+    <Item Name="NGC Wild HD">
+      <Satellite />
+    </Item>
     <File>Nat Geo Wild HD.png</File>
   </Channel>
   <Channel>
     <Item Name="Nat Geo Wild">
+      <Satellite />
+    </Item>
+    <Item Name="NGC Wild">
       <Satellite />
     </Item>
     <File>Nat Geo Wild.png</File>
@@ -1186,6 +1312,9 @@
     <Item Name="Omroep Brabant">
       <Satellite />
     </Item>
+    <Item Name="Brabant">
+      <Satellite />
+    </Item>
     <File>Omroep Brabant.png</File>
   </Channel>
   <Channel>
@@ -1208,6 +1337,9 @@
   </Channel>
   <Channel>
     <Item Name="OUTTV">
+      <Satellite />
+    </Item>
+    <Item Name="OUT TV">
       <Satellite />
     </Item>
     <File>OUTTV.png</File>
@@ -1304,6 +1436,9 @@
   </Channel>
   <Channel>
     <Item Name="ProSieben">
+      <Satellite />
+    </Item>
+    <Item Name="Pro7">
       <Satellite />
     </Item>
     <File>ProSieben.png</File>
@@ -1471,6 +1606,9 @@
     <Item Name="SAT1">
       <Satellite />
     </Item>
+    <Item Name="SAT 1">
+      <Satellite />
+    </Item>
     <File>SAT. 1.png</File>
   </Channel>
   <Channel>
@@ -1597,6 +1735,9 @@
     <Item Name="StarPlus">
       <Satellite />
     </Item>
+    <Item Name="Star Plus">
+      <Satellite />
+    </Item>
     <File>StarPlus.png</File>
   </Channel>
   <Channel>
@@ -1609,10 +1750,16 @@
     <Item Name="SWR Fernsehen">
       <Satellite />
     </Item>
+    <Item Name="SWR">
+      <Satellite />
+    </Item>
     <File>SWR Fernsehen.png</File>
   </Channel>
   <Channel>
     <Item Name="Syfy Universal">
+      <Satellite />
+    </Item>
+    <Item Name="Syfy">
       <Satellite />
     </Item>
     <File>Syfy Universal.png</File>
@@ -1625,6 +1772,9 @@
   </Channel>
   <Channel>
     <Item Name="TCM">
+      <Satellite />
+    </Item>
+    <Item Name="TCM 24 uur">
       <Satellite />
     </Item>
     <File>TCM.png</File>
@@ -1667,6 +1817,9 @@
   </Channel>
   <Channel>
     <Item Name="TRT Türk">
+      <Satellite />
+    </Item>
+    <Item Name="TRT Turk">
       <Satellite />
     </Item>
     <File>TRT Türk.png</File>
@@ -1753,10 +1906,16 @@
     <Item Name="TV5 Monde">
       <Satellite />
     </Item>
+    <Item Name="TV5">
+      <Satellite />
+    </Item>
     <File>TV5 Monde.png</File>
   </Channel>
   <Channel>
     <Item Name="TVE">
+      <Satellite />
+    </Item>
+    <Item Name="TVEi">
       <Satellite />
     </Item>
     <File>TVE.png</File>
@@ -1783,6 +1942,12 @@
     <Item Name="Veronica HD_Disney XD">
       <Satellite />
     </Item>
+    <Item Name="DisneyXD_Veronica HD">
+      <Satellite />
+    </Item>
+    <Item Name="Veronica_DisneyXD HD">
+      <Satellite />
+    </Item>
     <File>Veronica HD_Disney XD.png</File>
   </Channel>
   <Channel>
@@ -1795,13 +1960,10 @@
     <Item Name="Veronica_Disney XD">
       <Satellite />
     </Item>
-    <File>Veronica_Disney XD.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="Veronica_DisneyXD HD">
+    <Item Name="DisneyXD_Veronica">
       <Satellite />
     </Item>
-    <File>Veronica_DisneyXD HD.png</File>
+    <File>Veronica_Disney XD.png</File>
   </Channel>
   <Channel>
     <Item Name="VH-1 Classic">
@@ -1879,6 +2041,9 @@
     <Item Name="Z@ppelin_Z@pp 24">
       <Satellite />
     </Item>
+    <Item Name="Zappelin _ Zapp 24">
+      <Satellite />
+    </Item>
     <File>Z@ppelin_Z@pp 24.png</File>
   </Channel>
   <Channel>
@@ -1906,13 +2071,19 @@
     <File>Zee TV.png</File>
   </Channel>
   <Channel>
+    <Item Name="Ziggo TV">
+      <Satellite />
+    </Item>
     <Item Name="Zenderoverzicht">
       <Satellite />
     </Item>
-    <File>Zenderoverzicht.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="Ziggo TV">
+    <Item Name="Zenderoverzicht HD">
+      <Satellite />
+    </Item>
+    <Item Name="Etalagekanaal">
+      <Satellite />
+    </Item>
+    <Item Name="Eventkanaal">
       <Satellite />
     </Item>
     <File>Ziggo TV.png</File>
