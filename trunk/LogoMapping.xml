@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+ <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Mappings>
   <Channel>
     <Item Name="101 TV">
@@ -389,6 +389,12 @@
       <Satellite />
     </Item>
     <File>default.png</File>
+  </Channel>
+    <Channel>
+    <Item Name="Zender van de Maand">
+      <Satellite />
+    </Item>
+    <File>Delta.png</File>
   </Channel>
   <Channel>
     <Item Name="Deutsche Welle TV">
