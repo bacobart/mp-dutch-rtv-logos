@@ -301,6 +301,9 @@
     <Item Name="Brava NL">
       <Satellite />
     </Item>
+    <Item Name="Brava NL Klassiek">
+      <Satellite />
+    </Item>
     <File>BravaNL.png</File>
   </Channel>
   <Channel>
@@ -470,6 +473,12 @@
       <Satellite />
     </Item>
     <File>Deutsche Welle TV.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Deventer TV">
+      <Satellite />
+    </Item>
+    <File>Deventer TV.png</File>
   </Channel>
   <Channel>
     <Item Name="Discovery Channel HD">
@@ -2300,6 +2309,9 @@
       <Satellite />
     </Item>
     <Item Name="Zenderoverzicht">
+      <Satellite />
+    </Item>
+    <Item Name="Zender vd Maand">
       <Satellite />
     </Item>
     <Item Name="Zenderoverzicht HD">
