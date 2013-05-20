@@ -601,6 +601,9 @@
     <Item Name="Dusk!">
       <Satellite />
     </Item>
+    <Item Name="Dusk! Deluxe">
+      <Satellite />
+    </Item>
     <File>Dusk!.png</File>
   </Channel>
   <Channel>
@@ -1151,6 +1154,9 @@
   </Channel>
   <Channel>
     <Item Name="Kindernet_Comedy Central">
+      <Satellite />
+    </Item>
+    <Item Name="Comedy Central_Kindernet">
       <Satellite />
     </Item>
     <Item Name="Kindernet _ Comedy Central">
