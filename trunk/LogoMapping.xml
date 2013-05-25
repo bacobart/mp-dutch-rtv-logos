@@ -2349,4 +2349,16 @@
     </Item>
     <File>Zone Reality.png</File>
   </Channel>
+  <Channel>
+    <Item Name="3FM">
+      <Satellite />
+    </Item>
+    <File>3FM.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Radio 1">
+      <Satellite />
+    </Item>
+    <File>Radio 1.png</File>
+  </Channel>
 </Mappings>
