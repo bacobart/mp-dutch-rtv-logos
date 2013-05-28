@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Mappings>
+<!-- TV -->
   <Channel>
     <Item Name="101 TV">
       <Satellite />
@@ -2349,6 +2350,7 @@
     </Item>
     <File>Zone Reality.png</File>
   </Channel>
+<!-- Radio -->
   <Channel>
     <Item Name="3FM">
       <Satellite />
@@ -2356,9 +2358,882 @@
     <File>3FM.png</File>
   </Channel>
   <Channel>
+    <Item Name="60s">
+      <Satellite />
+    </Item>
+    <Item Name="70s">
+      <Satellite />
+    </Item>
+    <Item Name="80s">
+      <Satellite />
+    </Item>
+    <Item Name="90s">
+      <Satellite />
+    </Item>
+    <Item Name="All Day Party">
+      <Satellite />
+    </Item>
+    <Item Name="Beats, Breaks &amp; Bass">
+      <Satellite />
+    </Item>
+    <Item Name="Blues">
+      <Satellite />
+    </Item>
+    <Item Name="Chansons">
+      <Satellite />
+    </Item>
+    <Item Name="Chillout">
+      <Satellite />
+    </Item>
+    <Item Name="Classic R'n'B &amp; Soul">
+      <Satellite />
+    </Item>
+    <Item Name="Classic Rock">
+      <Satellite />
+    </Item>
+    <Item Name="Classical Calm">
+      <Satellite />
+    </Item>
+    <Item Name="Classical Greats">
+      <Satellite />
+    </Item>
+    <Item Name="Classical Orchestral">
+      <Satellite />
+    </Item>
+    <Item Name="Cocktail Lounge">
+      <Satellite />
+    </Item>
+    <Item Name="Cool Jazz">
+      <Satellite />
+    </Item>
+    <Item Name="Country Stars">
+      <Satellite />
+    </Item>
+    <Item Name="Country">
+      <Satellite />
+    </Item>
+    <Item Name="Dancefloor Filler">
+      <Satellite />
+    </Item>
+    <Item Name="Drive">
+      <Satellite />
+    </Item>
+    <Item Name="Freedom">
+      <Satellite />
+    </Item>
+    <Item Name="Groove (Disco)">
+      <Satellite />
+    </Item>
+    <Item Name="Harder Than Hell">
+      <Satellite />
+    </Item>
+    <Item Name="Indie Classics">
+      <Satellite />
+    </Item>
+    <Item Name="Jazz Classics">
+      <Satellite />
+    </Item>
+    <Item Name="Killer 80s">
+      <Satellite />
+    </Item>
+    <Item Name="Magnificent 70s">
+      <Satellite />
+    </Item>
+    <Item Name="Perfect Dinner Party">
+      <Satellite />
+    </Item>
+    <Item Name="Reggae">
+      <Satellite />
+    </Item>
+    <Item Name="Revival">
+      <Satellite />
+    </Item>
+    <Item Name="Rewind">
+      <Satellite />
+    </Item>
+    <Item Name="Rock Anthems">
+      <Satellite />
+    </Item>
+    <Item Name="Rock 'n Roll">
+      <Satellite />
+    </Item>
+    <Item Name="Schlager">
+      <Satellite />
+    </Item>
+    <Item Name="Silk (Love Songs)">
+      <Satellite />
+    </Item>
+    <Item Name="Slik (Love Songs)">
+      <Satellite />
+    </Item>
+    <Item Name="Still Got The Blues">
+      <Satellite />
+    </Item>
+    <Item Name="Sweet Reggae Beats">
+      <Satellite />
+    </Item>
+    <Item Name="The Alternative - Germany">
+      <Satellite />
+    </Item>
+    <Item Name="The Alternative">
+      <Satellite />
+    </Item>
+    <Item Name="The Love Collection">
+      <Satellite />
+    </Item>
+    <Item Name="The Main Event">
+      <Satellite />
+    </Item>
+    <Item Name="Total Hits France">
+      <Satellite />
+    </Item>
+    <Item Name="Total Hits Germany">
+      <Satellite />
+    </Item>
+    <Item Name="Total Hits Italy">
+      <Satellite />
+    </Item>
+    <Item Name="Total Hits Netherlands">
+      <Satellite />
+    </Item>
+    <Item Name="Total Hits Spain">
+      <Satellite />
+    </Item>
+    <Item Name="Total Hits UK">
+      <Satellite />
+    </Item>
+    <Item Name="Total Hits">
+      <Satellite />
+    </Item>
+    <Item Name="Turk Müzigi">
+      <Satellite />
+    </Item>
+    <Item Name="Ultimate Urban">
+      <Satellite />
+    </Item>
+    <Item Name="World Carnival">
+      <Satellite />
+    </Item>
+    <Item Name="Head Bangers">
+      <Satellite />
+    </Item>
+    <Item Name="Hot Country">
+      <Satellite />
+    </Item>
+    <File>Music Choice.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="100% NL">
+      <Satellite />
+    </Item>
+    <File>100% NL.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="538 Juize">
+      <Satellite />
+    </Item>
+    <File>538 Juize.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Arrow Classic Rock">
+      <Satellite />
+    </Item>
+    <File>Arrow Classic Rock.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Arrow Jazz FM">
+      <Satellite />
+    </Item>
+    <File>Arrow Jazz FM.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="BBC Radio 1">
+      <Satellite />
+    </Item>
+    <File>BBC Radio 1.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="BBC Radio 2">
+      <Satellite />
+    </Item>
+    <File>BBC Radio 2.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="BBC Radio 3">
+      <Satellite />
+    </Item>
+    <File>BBC Radio 3.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="BBC Radio 4">
+      <Satellite />
+    </Item>
+    <File>BBC Radio 4.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="BBC World Service">
+      <Satellite />
+    </Item>
+    <File>BBC World Service.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="BNR Nieuwsradio">
+      <Satellite />
+    </Item>
+    <File>BNR Nieuwsradio.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="CAZ!">
+      <Satellite />
+    </Item>
+    <File>CAZ!.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="City FM Classic Rock">
+      <Satellite />
+    </Item>
+    <File>City FM Classic Rock.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Classic FM">
+      <Satellite />
+    </Item>
+    <File>Classic FM.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Concert Zender">
+      <Satellite />
+    </Item>
+    <File>Concert Zender.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Den Haag FM">
+      <Satellite />
+    </Item>
+    <File>Den Haag FM.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Deutsche Welle">
+      <Satellite />
+    </Item>
+    <File>Deutsche Welle.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Efteling Radio">
+      <Satellite />
+    </Item>
+    <File>Efteling Radio.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Eins Live">
+      <Satellite />
+    </Item>
+    <File>Eins Live.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="fip">
+      <Satellite />
+    </Item>
+    <File>fip.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="France Vivance">
+      <Satellite />
+    </Item>
+    <File>France Vivance.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Freez FM">
+      <Satellite />
+    </Item>
+    <File>Freez FM.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="FunX HipHop">
+      <Satellite />
+    </Item>
+    <File>FunX HipHop.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="FunX">
+      <Satellite />
+    </Item>
+    <File>FunX.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Gouwestad Radio">
+      <Satellite />
+    </Item>
+    <File>Gouwestad Radio.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="HitRadio Veronica">
+      <Satellite />
+    </Item>
+    <File>HitRadio Veronica.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Kink FM">
+      <Satellite />
+    </Item>
+    <File>Kink FM.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Klara">
+      <Satellite />
+    </Item>
+    <File>Klara.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="KX Radio">
+      <Satellite />
+    </Item>
+    <File>KX Radio.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="L1 Radio">
+      <Satellite />
+    </Item>
+    <File>L1 Radio.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Megastad FM">
+      <Satellite />
+    </Item>
+    <File>Megastad FM.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="MNM">
+      <Satellite />
+    </Item>
+    <File>MNM.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="NDR 1">
+      <Satellite />
+    </Item>
+    <File>NDR 1.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="NDR 2">
+      <Satellite />
+    </Item>
+    <File>NDR 2.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="NDR Kultur">
+      <Satellite />
+    </Item>
+    <File>NDR Kultur.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Omroep Brabant Radio">
+      <Satellite />
+    </Item>
+    <File>Omroep Brabant Radio.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Omrop Fryslan Radio">
+      <Satellite />
+    </Item>
+    <Item Name="Omrop Fryslân Radio">
+      <Satellite />
+    </Item>
+    <File>Omrop Fryslan Radio.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Q-music">
+      <Satellite />
+    </Item>
+    <File>Q-music.png</File>
+  </Channel>
+  <Channel>
     <Item Name="Radio 1">
       <Satellite />
     </Item>
     <File>Radio 1.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Radio 2">
+      <Satellite />
+    </Item>
+    <File>Radio 2.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Radio 4">
+      <Satellite />
+    </Item>
+    <File>Radio 4.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Radio 5">
+      <Satellite />
+    </Item>
+    <File>Radio 5.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Radio 6">
+      <Satellite />
+    </Item>
+    <File>Radio 6.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Radio 9">
+      <Satellite />
+    </Item>
+    <File>Radio 9.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Radio 10 Gold">
+      <Satellite />
+    </Item>
+    <File>Radio 10 Gold.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Radio 90 FM">
+      <Satellite />
+    </Item>
+    <File>Radio 90 FM.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Radio 227">
+      <Satellite />
+    </Item>
+    <File>Radio 227.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Radio 538">
+      <Satellite />
+    </Item>
+    <Item Name="538">
+      <Satellite />
+    </Item>
+    <File>Radio 538.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Radio Aalsmeer">
+      <Satellite />
+    </Item>
+    <File>Radio Aalsmeer.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Radio Bem Bem">
+      <Satellite />
+    </Item>
+    <File>Radio Bem Bem.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Radio Decibel">
+      <Satellite />
+    </Item>
+    <File>Radio Decibel.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Radio Drenthe">
+      <Satellite />
+    </Item>
+    <File>Radio Drenthe.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Radio France International">
+      <Satellite />
+    </Item>
+    <File>Radio France International.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Radio Gelderland">
+      <Satellite />
+    </Item>
+    <File>Radio Gelderland.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Radio Noord-Holland">
+      <Satellite />
+    </Item>
+    <File>Radio Noord-Holland.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Radio Noordoost-Friesland">
+      <Satellite />
+    </Item>
+    <File>Radio Noordoost-Friesland.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Radio Oost">
+      <Satellite />
+    </Item>
+    <File>Radio Oost.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Radio Rijnmond">
+      <Satellite />
+    </Item>
+    <File>Radio Rijnmond.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Radio Schiedam">
+      <Satellite />
+    </Item>
+    <File>Radio Schiedam.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Radio Utrecht">
+      <Satellite />
+    </Item>
+    <File>Radio Utrecht.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Radio Veronica">
+      <Satellite />
+    </Item>
+    <File>Radio Veronica.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Radio West">
+      <Satellite />
+    </Item>
+    <File>Radio West.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="RadioNL">
+      <Satellite />
+    </Item>
+    <Item Name="Radio NL">
+      <Satellite />
+    </Item>
+    <File>RadioNL.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="RAI Radio 1">
+      <Satellite />
+    </Item>
+    <File>RAI Radio 1.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Rick FM">
+      <Satellite />
+    </Item>
+    <File>Rick FM.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="RNE Radio">
+      <Satellite />
+    </Item>
+    <File>RNE Radio.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Deventer Radio">
+      <Satellite />
+    </Item>
+    <File>RTV Deventer Radio.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="RTV Flevoland">
+      <Satellite />
+    </Item>
+    <File>RTV Flevoland.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="RTV Noord Radio">
+      <Satellite />
+    </Item>
+    <File>RTV Noord Radio.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Sky Radio">
+      <Satellite />
+    </Item>
+    <File>Sky Radio.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Slam! FM">
+      <Satellite />
+    </Item>
+    <File>Slam! FM.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Studio Brussel">
+      <Satellite />
+    </Item>
+    <File>Studio Brussel.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Sublime FM">
+      <Satellite />
+    </Item>
+    <File>Sublime FM.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Surround Radio">
+      <Satellite />
+    </Item>
+    <File>Surround Radio.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Tweede Kamerlijn">
+      <Satellite />
+    </Item>
+    <File>Tweede Kamerlijn.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Uljala Radio">
+      <Satellite />
+    </Item>
+    <File>Uljala Radio.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="VLOH Radio">
+      <Satellite />
+    </Item>
+    <File>VLOH Radio.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="VRT Radio 1">
+      <Satellite />
+    </Item>
+    <File>VRT Radio 1.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="VRT Radio 2">
+      <Satellite />
+    </Item>
+    <File>VRT Radio 2.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Waterstad FM">
+      <Satellite />
+    </Item>
+    <File>Waterstad FM.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Way FM">
+      <Satellite />
+    </Item>
+    <File>Way FM.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="WDR 2">
+      <Satellite />
+    </Item>
+    <File>WDR 2.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="WDR 3">
+      <Satellite />
+    </Item>
+    <File>WDR 3.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="WDR 4">
+      <Satellite />
+    </Item>
+    <File>WDR 4.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="WDR 5">
+      <Satellite />
+    </Item>
+    <File>WDR 5.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Wereldomroep (RNW)">
+      <Satellite />
+    </Item>
+    <Item Name="RNW">
+      <Satellite />
+    </Item>
+    <File>Wereldomroep (RNW).png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Wild FM Hitradio">
+      <Satellite />
+    </Item>
+    <File>Wild FM Hitradio.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="WOS Radio">
+      <Satellite />
+    </Item>
+    <File>WOS Radio.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="ZOS Radio">
+      <Satellite />
+    </Item>
+    <File>ZOS Radio.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="XLnt Alternative Rock">
+      <Satellite />
+    </Item>
+    <Item Name="Xlnt Arabian Nights">
+      <Satellite />
+    </Item>
+    <Item Name="Xlnt Blues">
+      <Satellite />
+    </Item>
+    <Item Name="Xlnt Chill Out">
+      <Satellite />
+    </Item>
+    <Item Name="XLnt Classic Jazz">
+      <Satellite />
+    </Item>
+    <Item Name="XLnt Classic Rock">
+      <Satellite />
+    </Item>
+    <Item Name="XLnt Classical">
+      <Satellite />
+    </Item>
+    <Item Name="XLnt Comedy">
+      <Satellite />
+    </Item>
+    <Item Name="XLnt Contemp. Jazz">
+      <Satellite />
+    </Item>
+    <Item Name="XLnt Country">
+      <Satellite />
+    </Item>
+    <Item Name="XLnt Crooners">
+      <Satellite />
+    </Item>
+    <Item Name="XLnt Dance Classics">
+      <Satellite />
+    </Item>
+    <Item Name="XLnt Easy Listening">
+      <Satellite />
+    </Item>
+    <Item Name="Xlnt Filmmuziek">
+      <Satellite />
+    </Item>
+    <Item Name="Xlnt France">
+      <Satellite />
+    </Item>
+    <Item Name="XLnt Dance">
+      <Satellite />
+    </Item>
+    <Item Name="Xlnt Espagna">
+      <Satellite />
+    </Item>
+    <Item Name="Xlnt Hard Rock">
+      <Satellite />
+    </Item>
+    <Item Name="Xlnt Hip Hop">
+      <Satellite />
+    </Item>
+    <Item Name="XLnt Hits">
+      <Satellite />
+    </Item>
+    <Item Name="XLnt Hotpop">
+      <Satellite />
+    </Item>
+    <Item Name="Xlnt HrdHouseTrance">
+      <Satellite />
+    </Item>
+    <Item Name="Xlnt Italia">
+      <Satellite />
+    </Item>
+    <Item Name="Xlnt JackFM">
+      <Satellite />
+    </Item>
+    <Item Name="XLnt Jazz">
+      <Satellite />
+    </Item>
+    <Item Name="XLnt Kiddo FM">
+      <Satellite />
+    </Item>
+    <Item Name="XLnt Kleuterliedjes">
+      <Satellite />
+    </Item>
+    <Item Name="XLnt Lite FM">
+      <Satellite />
+    </Item>
+    <Item Name="XLnt Lounge">
+      <Satellite />
+    </Item>
+    <Item Name="Xlnt Love Songs">
+      <Satellite />
+    </Item>
+    <Item Name="Xlnt Motown">
+      <Satellite />
+    </Item>
+    <Item Name="XLnt Musical">
+      <Satellite />
+    </Item>
+    <Item Name="Xlnt Nederpop Gold">
+      <Satellite />
+    </Item>
+    <Item Name="Xlnt Nederpop Nu">
+      <Satellite />
+    </Item>
+    <Item Name="Xlnt Nederpop">
+      <Satellite />
+    </Item>
+    <Item Name="XLnt New Age">
+      <Satellite />
+    </Item>
+    <Item Name="XLnt NL luisterleidjes">
+      <Satellite />
+    </Item>
+    <Item Name="XLnt Nostalgie">
+      <Satellite />
+    </Item>
+    <Item Name="XLnt Oldies">
+      <Satellite />
+    </Item>
+    <Item Name="Xlnt Opera">
+      <Satellite />
+    </Item>
+    <Item Name="Xlnt Operette">
+      <Satellite />
+    </Item>
+    <Item Name="XLnt Party">
+      <Satellite />
+    </Item>
+    <Item Name="Xlnt Piratenhits">
+      <Satellite />
+    </Item>
+    <Item Name="XLnt R&amp;B">
+      <Satellite />
+    </Item>
+    <Item Name="Xlnt Radio Country">
+      <Satellite />
+    </Item>
+    <Item Name="XLnt Radioboek">
+      <Satellite />
+    </Item>
+    <Item Name="Xlnt Reggae">
+      <Satellite />
+    </Item>
+    <Item Name="XLnt Relipop">
+      <Satellite />
+    </Item>
+    <Item Name="XLnt Rock 'n Roll">
+      <Satellite />
+    </Item>
+    <Item Name="XLnt Rock">
+      <Satellite />
+    </Item>
+    <Item Name="XLnt Salsa">
+      <Satellite />
+    </Item>
+    <Item Name="XLnt Schlager">
+      <Satellite />
+    </Item>
+    <Item Name="XLnt Seasons">
+      <Satellite />
+    </Item>
+    <Item Name="XLnt Skihut">
+      <Satellite />
+    </Item>
+    <Item Name="XLnt Supergold">
+      <Satellite />
+    </Item>
+    <Item Name="XLnt Today's Pop">
+      <Satellite />
+    </Item>
+    <Item Name="XLnt Turk">
+      <Satellite />
+    </Item>
+    <File>XLnt.png</File>
   </Channel>
 </Mappings>
