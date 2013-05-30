@@ -2054,7 +2054,10 @@
     <Item Name="538">
       <Satellite />
     </Item>
-    <File>TV 538.png</File>
+    <Item Name="Radio 538">
+      <Satellite />
+    </Item>
+    <File>538.png</File>
   </Channel>
   <Channel>
     <Item Name="TV Drenthe">
@@ -2827,15 +2830,6 @@
       <Satellite />
     </Item>
     <File>Radio 227.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="Radio 538">
-      <Satellite />
-    </Item>
-    <Item Name="538">
-      <Satellite />
-    </Item>
-    <File>Radio 538.png</File>
   </Channel>
   <Channel>
     <Item Name="Radio Aalsmeer">
