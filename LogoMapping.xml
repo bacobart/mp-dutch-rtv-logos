@@ -1511,6 +1511,9 @@
     <Item Name="Omroep Zeeland">
       <Satellite />
     </Item>
+    <Item Name="Omroep Zeeland Radio">
+      <Satellite />
+    </Item>
     <File>Omroep Zeeland.png</File>
   </Channel>
   <Channel>
@@ -2526,6 +2529,9 @@
     <Item Name="100% NL">
       <Satellite />
     </Item>
+    <Item Name="100%NL">
+      <Satellite />
+    </Item>
     <File>100% NL.png</File>
   </Channel>
   <Channel>
@@ -2536,6 +2542,9 @@
   </Channel>
   <Channel>
     <Item Name="Arrow Classic Rock">
+      <Satellite />
+    </Item>
+    <Item Name="Arrow Rock">
       <Satellite />
     </Item>
     <File>Arrow Classic Rock.png</File>
@@ -2590,6 +2599,9 @@
   </Channel>
   <Channel>
     <Item Name="City FM Classic Rock">
+      <Satellite />
+    </Item>
+    <Item Name="City FM">
       <Satellite />
     </Item>
     <File>City FM Classic Rock.png</File>
@@ -2658,6 +2670,9 @@
     <Item Name="FunX">
       <Satellite />
     </Item>
+    <Item Name="Fun X">
+      <Satellite />
+    </Item>
     <File>FunX.png</File>
   </Channel>
   <Channel>
@@ -2682,6 +2697,9 @@
     <Item Name="Klara">
       <Satellite />
     </Item>
+    <Item Name="VRT Klara">
+      <Satellite />
+    </Item>
     <File>Klara.png</File>
   </Channel>
   <Channel>
@@ -2704,6 +2722,9 @@
   </Channel>
   <Channel>
     <Item Name="MNM">
+      <Satellite />
+    </Item>
+    <Item Name="VRT MNM">
       <Satellite />
     </Item>
     <File>MNM.png</File>
@@ -2745,6 +2766,9 @@
     <Item Name="Q-music">
       <Satellite />
     </Item>
+    <Item Name="Q music">
+      <Satellite />
+    </Item>
     <File>Q-music.png</File>
   </Channel>
   <Channel>
@@ -2767,6 +2791,9 @@
   </Channel>
   <Channel>
     <Item Name="Radio 5">
+      <Satellite />
+    </Item>
+    <Item Name="Radio 5 Nostalgia">
       <Satellite />
     </Item>
     <File>Radio 5.png</File>
@@ -2850,6 +2877,9 @@
     <Item Name="Radio Noord-Holland">
       <Satellite />
     </Item>
+    <Item Name="Radio Noord Holland">
+      <Satellite />
+    </Item>
     <File>Radio Noord-Holland.png</File>
   </Channel>
   <Channel>
@@ -2931,10 +2961,16 @@
     <Item Name="RTV Flevoland">
       <Satellite />
     </Item>
+    <Item Name="Radio Flevoland">
+      <Satellite />
+    </Item>
     <File>RTV Flevoland.png</File>
   </Channel>
   <Channel>
     <Item Name="RTV Noord Radio">
+      <Satellite />
+    </Item>
+    <Item Name="Radio Noord">
       <Satellite />
     </Item>
     <File>RTV Noord Radio.png</File>
@@ -2953,6 +2989,9 @@
   </Channel>
   <Channel>
     <Item Name="Studio Brussel">
+      <Satellite />
+    </Item>
+    <Item Name="VRT Studio Brussel">
       <Satellite />
     </Item>
     <File>Studio Brussel.png</File>
