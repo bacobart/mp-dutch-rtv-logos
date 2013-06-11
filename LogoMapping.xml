@@ -554,6 +554,12 @@
     <File>Disney XD 24.png</File>
   </Channel>
   <Channel>
+    <Item Name="DJazz.tv">
+      <Satellite />
+    </Item>
+    <File>DJazz.tv.png</File>
+  </Channel>
+  <Channel>
     <Item Name="Dorcel TV">
       <Satellite />
     </Item>
@@ -1085,6 +1091,9 @@
     <Item Name="Horse &amp; Country">
       <Satellite />
     </Item>
+    <Item Name="Horse &amp; Country TV">
+      <Satellite />
+    </Item>
     <File>Horse &amp; Country.png</File>
   </Channel>
   <Channel>
@@ -1578,6 +1587,9 @@
   </Channel>
   <Channel>
     <Item Name="PenthouseTV">
+      <Satellite />
+    </Item>
+    <Item Name="Penthouse">
       <Satellite />
     </Item>
     <File>PenthouseTV.png</File>
