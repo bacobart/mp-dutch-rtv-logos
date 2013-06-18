@@ -1577,6 +1577,9 @@
     <Item Name="Penthouse HD1">
       <Satellite />
     </Item>
+    <Item Name="Penthouse">
+      <Satellite />
+    </Item>
     <File>Penthouse HD1.png</File>
   </Channel>
   <Channel>
@@ -1587,9 +1590,6 @@
   </Channel>
   <Channel>
     <Item Name="PenthouseTV">
-      <Satellite />
-    </Item>
-    <Item Name="Penthouse">
       <Satellite />
     </Item>
     <File>PenthouseTV.png</File>
