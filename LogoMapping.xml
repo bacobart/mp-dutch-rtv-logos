@@ -17,6 +17,9 @@
     <Item Name="13th Street">
       <Satellite />
     </Item>
+    <Item Name="13th Street Universal">
+      <Satellite />
+    </Item>
     <File>13th Street.png</File>
   </Channel>
   <Channel>
@@ -419,7 +422,10 @@
     <Item Name="Comedy Central HD _ Kindernet">
       <Satellite />
     </Item>
-    <File>Comedy Central HD _ Kindernet.png</File>
+    <Item Name="Comedy Central HD _ Kindernet">
+      <Satellite />
+    </Item>
+    <File>Comedy C._Kindernet HD.png</File>
   </Channel>
   <Channel>
     <Item Name="Comedy Central HD">
@@ -788,6 +794,9 @@
     <Item Name="Eén">
       <Satellite />
     </Item>
+    <Item Name="Een">
+      <Satellite />
+    </Item>
     <Item Name="VRT Eén">
       <Satellite />
     </Item>
@@ -975,6 +984,9 @@
   </Channel>
   <Channel>
     <Item Name="FTV HD">
+      <Satellite />
+    </Item>
+    <Item Name="FashionTV HD">
       <Satellite />
     </Item>
     <File>FTV HD.png</File>
@@ -2099,6 +2111,9 @@
     <Item Name="TV Noord-Holland">
       <Satellite />
     </Item>
+    <Item Name="RTV Noord-Holland">
+      <Satellite />
+    </Item>
     <File>TV Noord-Holland.png</File>
   </Channel>
   <Channel>
@@ -2145,6 +2160,9 @@
   </Channel>
   <Channel>
     <Item Name="TV5 Monde">
+      <Satellite />
+    </Item>
+    <Item Name="TV 5 Monde Europe">
       <Satellite />
     </Item>
     <Item Name="TV5">
