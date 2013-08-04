@@ -632,57 +632,6 @@
     <File>E! Pop of Culture.png</File>
   </Channel>
   <Channel>
-    <Item Name="Eredivisie Live 1 HD">
-      <Satellite />
-    </Item>
-    <Item Name="Eredivisie Live Extra1 HD">
-      <Satellite />
-    </Item>
-    <Item Name="Eredivisie Live Extra2 HD">
-      <Satellite />
-    </Item>
-    <Item Name="Eredivisie Live Extra3 HD">
-      <Satellite />
-    </Item>
-    <File>Eredivisie Live 1 HD.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="Eredivisie Live 1">
-      <Satellite />
-    </Item>
-    <Item Name="Eredivisie Live Extra1">
-      <Satellite />
-    </Item>
-    <Item Name="Eredivisie Live Hoofdkanaal">
-      <Satellite />
-    </Item>
-    <File>Eredivisie Live 1.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="Eredivisie Live 2">
-      <Satellite />
-    </Item>
-    <Item Name="Eredivisie Live Extra2">
-      <Satellite />
-    </Item>
-    <File>Eredivisie Live 2.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="Eredivisie Live 3">
-      <Satellite />
-    </Item>
-    <Item Name="Eredivisie Live Extra3">
-      <Satellite />
-    </Item>
-    <File>Eredivisie Live 3.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="Eredivisie Live 4">
-      <Satellite />
-    </Item>
-    <File>Eredivisie Live 4.png</File>
-  </Channel>
-  <Channel>
     <Item Name="Erotiek Pakket">
       <Satellite />
     </Item>
@@ -930,6 +879,63 @@
       <Satellite />
     </Item>
     <File>Food Network Channel.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Fox">
+      <Satellite />
+    </Item>
+    <Item Name="Fox HD">
+      <Satellite />
+    </Item>
+    <File>Fox.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Fox Sports Eredivisie 1">
+      <Satellite />
+    </Item>
+    <Item Name="Fox Sports 1 Eredivisie">
+      <Satellite />
+    </Item>
+    <Item Name="Fox Sports Eredivisie 1 HD">
+      <Satellite />
+    </Item>
+    <Item Name="Fox Sports 1 Eredivisie HD">
+      <Satellite />
+    </Item>
+    <Item Name="Fox Sports Eredivisie 3">
+      <Satellite />
+    </Item>
+    <Item Name="Fox Sports 3 Eredivisie">
+      <Satellite />
+    </Item>
+    <Item Name="Fox Sports Eredivisie 5">
+      <Satellite />
+    </Item>
+    <Item Name="Fox Sports 5 Eredivisie">
+      <Satellite />
+    </Item>
+    <File>Fox Sports Eredivisie.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Fox Sports International 2">
+      <Satellite />
+    </Item>
+    <Item Name="Fox Sports 2 International">
+      <Satellite />
+    </Item>
+    <Item Name="Fox Sports 2">
+      <Satellite />
+    </Item>
+    <Item Name="Fox Sports International 4">
+      <Satellite />
+    </Item>
+    <Item Name="Fox Sports 4 International">
+      <Satellite />
+    </Item>
+    <Item Name="Fox Sports 4">
+      <Satellite />
+    </Item>
+    <File>Fox Sports International.png</File>
   </Channel>
   <Channel>
     <Item Name="Fox News Channel">
