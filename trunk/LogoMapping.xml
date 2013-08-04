@@ -881,61 +881,61 @@
     <File>Food Network Channel.png</File>
   </Channel>
   <Channel>
-    <Item Name="Fox">
+    <Item Name="FOX">
       <Satellite />
     </Item>
-    <Item Name="Fox HD">
+    <Item Name="FOX HD">
       <Satellite />
     </Item>
-    <File>Fox.png</File>
+    <File>FOX.png</File>
   </Channel>
   <Channel>
-    <Item Name="Fox Sports Eredivisie 1">
+    <Item Name="FOX Sports Eredivisie 1">
       <Satellite />
     </Item>
-    <Item Name="Fox Sports 1 Eredivisie">
+    <Item Name="FOX Sports 1 Eredivisie">
       <Satellite />
     </Item>
-    <Item Name="Fox Sports Eredivisie 1 HD">
+    <Item Name="FOX Sports Eredivisie 1 HD">
       <Satellite />
     </Item>
-    <Item Name="Fox Sports 1 Eredivisie HD">
+    <Item Name="FOX Sports 1 Eredivisie HD">
       <Satellite />
     </Item>
-    <Item Name="Fox Sports Eredivisie 3">
+    <Item Name="FOX Sports Eredivisie 3">
       <Satellite />
     </Item>
-    <Item Name="Fox Sports 3 Eredivisie">
+    <Item Name="FOX Sports 3 Eredivisie">
       <Satellite />
     </Item>
-    <Item Name="Fox Sports Eredivisie 5">
+    <Item Name="FOX Sports Eredivisie 5">
       <Satellite />
     </Item>
-    <Item Name="Fox Sports 5 Eredivisie">
+    <Item Name="FOX Sports 5 Eredivisie">
       <Satellite />
     </Item>
-    <File>Fox Sports Eredivisie.png</File>
+    <File>FOX Sports Eredivisie.png</File>
   </Channel>
   <Channel>
-    <Item Name="Fox Sports International 2">
+    <Item Name="FOX Sports International 2">
       <Satellite />
     </Item>
-    <Item Name="Fox Sports 2 International">
+    <Item Name="FOX Sports 2 International">
       <Satellite />
     </Item>
-    <Item Name="Fox Sports 2">
+    <Item Name="FOX Sports 2">
       <Satellite />
     </Item>
-    <Item Name="Fox Sports International 4">
+    <Item Name="FOX Sports International 4">
       <Satellite />
     </Item>
-    <Item Name="Fox Sports 4 International">
+    <Item Name="FOX Sports 4 International">
       <Satellite />
     </Item>
-    <Item Name="Fox Sports 4">
+    <Item Name="FOX Sports 4">
       <Satellite />
     </Item>
-    <File>Fox Sports International.png</File>
+    <File>FOX Sports International.png</File>
   </Channel>
   <Channel>
     <Item Name="Fox News Channel">
