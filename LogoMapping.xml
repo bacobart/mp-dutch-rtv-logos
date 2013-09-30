@@ -817,6 +817,23 @@
     </Item>
     <File>Film1 Festival.png</File>
   </Channel>
+    <Item Name="Film1 Comedy &amp; Kids">
+      <Satellite />
+    </Item>
+    <Item Name="Film 1 Comedy &amp; Kids">
+      <Satellite />
+    </Item>
+    <File>Film1 Comedy &amp; Kids.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Film1 Spotlight">
+      <Satellite />
+    </Item>
+    <Item Name="Film 1 Spotlight">
+      <Satellite />
+    </Item>
+    <File>Film1 Spotlight.png</File>
+  </Channel>
   <Channel>
     <Item Name="Film1 Premiere HD">
       <Satellite />
