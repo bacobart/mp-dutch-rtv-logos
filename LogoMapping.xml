@@ -817,6 +817,7 @@
     </Item>
     <File>Film1 Festival.png</File>
   </Channel>
+  <Channel>
     <Item Name="Film1 Comedy &amp; Kids">
       <Satellite />
     </Item>
