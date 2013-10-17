@@ -2,6 +2,15 @@
 <Mappings>
 <!-- TV -->
   <Channel>
+    <Item Name="100% NL TV">
+      <Satellite />
+    </Item>
+    <Item Name="100%NL TV">
+      <Satellite />
+    </Item>
+    <File>100% NL TV.png</File>
+  </Channel>
+  <Channel>
     <Item Name="101 TV">
       <Satellite />
     </Item>
