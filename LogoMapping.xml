@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Mappings>
 <!-- TV -->
+<TV>
   <Channel>
     <Item Name="100% NL TV">
       <Satellite />
@@ -2419,7 +2420,9 @@
     </Item>
     <File>Zone Reality.png</File>
   </Channel>
+</TV>
 <!-- Radio -->
+<Radio>
   <Channel>
     <Item Name="3FM">
       <Satellite />
@@ -3332,4 +3335,5 @@
     </Item>
     <File>XLnt.png</File>
   </Channel>
+</Radio>
 </Mappings>
