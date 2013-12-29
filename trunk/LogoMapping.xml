@@ -2253,7 +2253,7 @@
     <Item Name="Veronica/DisneyXD HD">
       <Satellite />
     </Item>
-    <File>Veronica HD/Disney XD.png</File>
+    <File>Veronica HD_Disney XD.png</File>
   </Channel>
   <Channel>
     <Item Name="Veronica">
@@ -2268,7 +2268,7 @@
     <Item Name="DisneyXD/Veronica">
       <Satellite />
     </Item>
-    <File>Veronica/Disney XD.png</File>
+    <File>Veronica_Disney XD.png</File>
   </Channel>
   <Channel>
     <Item Name="VH-1 Classic">
