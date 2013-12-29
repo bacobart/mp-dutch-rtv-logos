@@ -951,9 +951,6 @@
     <Item Name="FOX Sports 2 International">
       <Satellite />
     </Item>
-    <Item Name="FOX Sports 2">
-      <Satellite />
-    </Item>
     <Item Name="FOX Sports International 4">
       <Satellite />
     </Item>
@@ -964,6 +961,15 @@
       <Satellite />
     </Item>
     <File>FOX Sports International.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="FOX Sports 2">
+      <Satellite />
+    </Item>
+    <Item Name="FOX Sports 2 HD">
+      <Satellite />
+    </Item>
+    <File>FOX Sports 2.png</File>
   </Channel>
   <Channel>
     <Item Name="Fox News Channel">
