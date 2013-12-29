@@ -435,7 +435,10 @@
     <Item Name="Comedy Central HD / Kindernet">
       <Satellite />
     </Item>
-    <File>Comedy C._Kindernet HD.png</File>
+    <Item Name="Comedy C./Kindernet HD">
+      <Satellite />
+    </Item>
+    <File>Comedy Central HD _ Kindernet.png</File>
   </Channel>
   <Channel>
     <Item Name="Comedy Central HD">
@@ -1570,6 +1573,9 @@
   </Channel>
   <Channel>
     <Item Name="Omroep Zeeland">
+      <Satellite />
+    </Item>
+    <Item Name="Radio Zeeland">
       <Satellite />
     </Item>
     <Item Name="Omroep Zeeland Radio">
