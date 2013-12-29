@@ -1575,12 +1575,6 @@
     <Item Name="Omroep Zeeland">
       <Satellite />
     </Item>
-    <Item Name="Radio Zeeland">
-      <Satellite />
-    </Item>
-    <Item Name="Omroep Zeeland Radio">
-      <Satellite />
-    </Item>
     <File>Omroep Zeeland.png</File>
   </Channel>
   <Channel>
@@ -2848,6 +2842,15 @@
       <Satellite />
     </Item>
     <File>Omrop Fryslan Radio.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Radio Zeeland">
+      <Satellite />
+    </Item>
+    <Item Name="Omroep Zeeland Radio">
+      <Satellite />
+    </Item>
+    <File>Omroep Zeeland.png</File>
   </Channel>
   <Channel>
     <Item Name="Q-music">
