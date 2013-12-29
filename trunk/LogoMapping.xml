@@ -102,7 +102,7 @@
     <File>Animal Planet.png</File>
   </Channel>
   <Channel>
-    <Item Name="Animal Planet_TLC">
+    <Item Name="Animal Planet/TLC">
       <Satellite />
     </Item>
     <File>Animal Planet_TLC.png</File>
@@ -210,16 +210,16 @@
     <File>BBC 2 HD.png</File>
   </Channel>
   <Channel>
-    <Item Name="BBC 3 _ CBBC">
+    <Item Name="BBC 3 / CBBC">
       <Satellite />
     </Item>
-    <Item Name="BBC3 _ CBBC">
+    <Item Name="BBC3 / CBBC">
       <Satellite />
     </Item>
-    <Item Name="BBC3_CBBC">
+    <Item Name="BBC3/CBBC">
       <Satellite />
     </Item>
-    <Item Name="BBC Three_CBBC">
+    <Item Name="BBC Three/CBBC">
       <Satellite />
     </Item>
     <File>BBC 3 _ CBBC.png</File>
@@ -234,13 +234,13 @@
     <File>BBC 3.png</File>
   </Channel>
   <Channel>
-    <Item Name="BBC 4 _ CBeeBies">
+    <Item Name="BBC 4 / CBeeBies">
       <Satellite />
     </Item>
-    <Item Name="BBC4_CBeeBies">
+    <Item Name="BBC4/CBeeBies">
       <Satellite />
     </Item>
-    <Item Name="BBC Four_CBeeBies">
+    <Item Name="BBC Four/CBeeBies">
       <Satellite />
     </Item>
     <File>BBC 4 _ CBeeBies.png</File>
@@ -366,10 +366,10 @@
     <File>Cartoon Network.png</File>
   </Channel>
   <Channel>
-    <Item Name="Cartoon _ TCM">
+    <Item Name="Cartoon / TCM">
       <Satellite />
     </Item>
-    <Item Name="Cartoon Netw._TCM">
+    <Item Name="Cartoon Netw./TCM">
       <Satellite />
     </Item>
     <File>Cartoon _ TCM.png</File>
@@ -393,7 +393,7 @@
     <File>CNBC Europe.png</File>
   </Channel>
   <Channel>
-    <Item Name="CNBC_NGC">
+    <Item Name="CNBC/NGC">
       <Satellite />
     </Item>
     <File>CNBC_NGC.png</File>
@@ -429,10 +429,10 @@
     <File>Comedy Central Family.png</File>
   </Channel>
   <Channel>
-    <Item Name="Comedy Central HD _ Kindernet">
+    <Item Name="Comedy Central HD / Kindernet">
       <Satellite />
     </Item>
-    <Item Name="Comedy Central HD _ Kindernet">
+    <Item Name="Comedy Central HD / Kindernet">
       <Satellite />
     </Item>
     <File>Comedy C._Kindernet HD.png</File>
@@ -1206,22 +1206,22 @@
     <File>Ketnet.png</File>
   </Channel>
   <Channel>
-    <Item Name="Ketnet_Op12">
+    <Item Name="Ketnet/Op12">
       <Satellite />
     </Item>
-    <Item Name="VRT Ketnet_Op12">
+    <Item Name="VRT Ketnet/Op12">
       <Satellite />
     </Item>
     <File>Ketnet_Op12.png</File>
   </Channel>
   <Channel>
-    <Item Name="Kindernet_Comedy Central">
+    <Item Name="Kindernet/Comedy Central">
       <Satellite />
     </Item>
-    <Item Name="Comedy Central_Kindernet">
+    <Item Name="Comedy Central/Kindernet">
       <Satellite />
     </Item>
-    <Item Name="Kindernet _ Comedy Central">
+    <Item Name="Kindernet / Comedy Central">
       <Satellite />
     </Item>
     <File>Kindernet_Comedy Central.png</File>
@@ -1530,7 +1530,7 @@
     <File>nickelodeon.png</File>
   </Channel>
   <Channel>
-    <Item Name="Nickelodeon_Comedy Central">
+    <Item Name="Nickelodeon/Comedy Central">
       <Satellite />
     </Item>
     <File>Nickelodeon_Comedy Central.png</File>
@@ -1542,7 +1542,7 @@
     <File>Nostalgienet.png</File>
   </Channel>
   <Channel>
-    <Item Name="NostalgieNet_192 TV">
+    <Item Name="NostalgieNet/192 TV">
       <Satellite />
     </Item>
     <File>NostalgieNet_192 TV.png</File>
@@ -1602,7 +1602,7 @@
     <File>PassieTV.png</File>
   </Channel>
   <Channel>
-    <Item Name="PassieTV_Dusk!">
+    <Item Name="PassieTV/Dusk!">
       <Satellite />
     </Item>
     <File>PassieTV_Dusk!.png</File>
@@ -2118,9 +2118,6 @@
     <Item Name="538">
       <Satellite />
     </Item>
-    <Item Name="Radio 538">
-      <Satellite />
-    </Item>
     <File>538.png</File>
   </Channel>
   <Channel>
@@ -2247,16 +2244,16 @@
     <File>Veronica HD.png</File>
   </Channel>
   <Channel>
-    <Item Name="Veronica HD_Disney XD">
+    <Item Name="Veronica HD/Disney XD">
       <Satellite />
     </Item>
-    <Item Name="DisneyXD_Veronica HD">
+    <Item Name="DisneyXD/Veronica HD">
       <Satellite />
     </Item>
-    <Item Name="Veronica_DisneyXD HD">
+    <Item Name="Veronica/DisneyXD HD">
       <Satellite />
     </Item>
-    <File>Veronica HD_Disney XD.png</File>
+    <File>Veronica HD/Disney XD.png</File>
   </Channel>
   <Channel>
     <Item Name="Veronica">
@@ -2265,13 +2262,13 @@
     <File>Veronica.png</File>
   </Channel>
   <Channel>
-    <Item Name="Veronica_Disney XD">
+    <Item Name="Veronica/Disney XD">
       <Satellite />
     </Item>
-    <Item Name="DisneyXD_Veronica">
+    <Item Name="DisneyXD/Veronica">
       <Satellite />
     </Item>
-    <File>Veronica_Disney XD.png</File>
+    <File>Veronica/Disney XD.png</File>
   </Channel>
   <Channel>
     <Item Name="VH-1 Classic">
@@ -2352,13 +2349,13 @@
     <File>Yesilcam.png</File>
   </Channel>
   <Channel>
-    <Item Name="Z@ppelin_Z@pp 24">
+    <Item Name="Z@ppelin/Z@pp 24">
       <Satellite />
     </Item>
-    <Item Name="Zappelin _ Zapp 24">
+    <Item Name="Zappelin / Zapp 24">
       <Satellite />
     </Item>
-    <Item Name="Zappelin_Zapp">
+    <Item Name="Zappelin/Zapp">
       <Satellite />
     </Item>
     <File>Z@ppelin_Z@pp 24.png</File>
@@ -2608,6 +2605,15 @@
       <Satellite />
     </Item>
     <File>100% NL.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="538">
+      <Satellite />
+    </Item>
+    <Item Name="Radio 538">
+      <Satellite />
+    </Item>
+    <File>538.png</File>
   </Channel>
   <Channel>
     <Item Name="538 Juize">
