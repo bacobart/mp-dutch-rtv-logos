@@ -234,6 +234,15 @@
     <File>BBC 3.png</File>
   </Channel>
   <Channel>
+    <Item Name="BBC 3 HD">
+      <Satellite />
+    </Item>
+    <Item Name="BBC3 HD">
+      <Satellite />
+    </Item>
+    <File>BBC 3 HD.png</File>
+  </Channel>
+  <Channel>
     <Item Name="BBC 4 / CBeeBies">
       <Satellite />
     </Item>
@@ -253,6 +262,15 @@
       <Satellite />
     </Item>
     <File>BBC 4.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="BBC 4 HD">
+      <Satellite />
+    </Item>
+    <Item Name="BBC4 HD">
+      <Satellite />
+    </Item>
+    <File>BBC 4 HD.png</File>
   </Channel>
   <Channel>
     <Item Name="BBC Entertainment">
