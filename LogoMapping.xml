@@ -75,6 +75,12 @@
     <File>Adult Channel.png</File>
   </Channel>
   <Channel>
+    <Item Name="Al Arabiya">
+      <Satellite />
+    </Item>
+    <File>Al Arabiya.png</File>
+  </Channel>
+  <Channel>
     <Item Name="Al Jazeera Kids">
       <Satellite />
     </Item>
@@ -231,6 +237,9 @@
     <Item Name="BBC3">
       <Satellite />
     </Item>
+    <Item Name="BBC Three">
+      <Satellite />
+    </Item>
     <File>BBC 3.png</File>
   </Channel>
   <Channel>
@@ -238,6 +247,9 @@
       <Satellite />
     </Item>
     <Item Name="BBC3 HD">
+      <Satellite />
+    </Item>
+    <Item Name="BBC Three HD">
       <Satellite />
     </Item>
     <File>BBC 3 HD.png</File>
@@ -261,6 +273,9 @@
     <Item Name="BBC4">
       <Satellite />
     </Item>
+    <Item Name="BBC Four">
+      <Satellite />
+    </Item>
     <File>BBC 4.png</File>
   </Channel>
   <Channel>
@@ -268,6 +283,9 @@
       <Satellite />
     </Item>
     <Item Name="BBC4 HD">
+      <Satellite />
+    </Item>
+    <Item Name="BBC Four HD">
       <Satellite />
     </Item>
     <File>BBC 4 HD.png</File>
@@ -852,6 +870,9 @@
     <Item Name="Film1 Comedy &amp; Kids">
       <Satellite />
     </Item>
+    <Item Name="Film1 Comedy &amp; Kids HD">
+      <Satellite />
+    </Item>
     <Item Name="Film 1 Comedy &amp; Kids">
       <Satellite />
     </Item>
@@ -859,6 +880,9 @@
   </Channel>
   <Channel>
     <Item Name="Film1 Spotlight">
+      <Satellite />
+    </Item>
+    <Item Name="Film1 Spotlight HD">
       <Satellite />
     </Item>
     <Item Name="Film 1 Spotlight">
@@ -1078,6 +1102,12 @@
       <Satellite />
     </Item>
     <File>Gouwestad.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="GPTV">
+      <Satellite />
+    </Item>
+    <File>GPTV.png</File>
   </Channel>
   <Channel>
     <Item Name="Habertürk">
@@ -1605,6 +1635,15 @@
     <File>Omrop Fryslân.png</File>
   </Channel>
   <Channel>
+    <Item Name="Oog-TV">
+      <Satellite />
+    </Item>
+    <Item Name="Oog TV">
+      <Satellite />
+    </Item>
+    <File>Oog-TV.png</File>
+  </Channel>
+  <Channel>
     <Item Name="OUTTV">
       <Satellite />
     </Item>
@@ -1846,6 +1885,15 @@
       <Satellite />
     </Item>
     <File>RTM5 Al Maghribiya.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="RTV Assen">
+      <Satellite />
+    </Item>
+    <Item Name="RTVAssen">
+      <Satellite />
+    </Item>
+    <File>RTV Assen.png</File>
   </Channel>
   <Channel>
     <Item Name="RTV Bodegraven">
@@ -2428,6 +2476,12 @@
       <Satellite />
     </Item>
     <File>Ziggo Xite.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Zing">
+      <Satellite />
+    </Item>
+    <File>Zing.png</File>
   </Channel>
   <Channel>
     <Item Name="Zone Club">
