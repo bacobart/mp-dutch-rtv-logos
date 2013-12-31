@@ -1902,6 +1902,21 @@
     <File>RTV Bodegraven.png</File>
   </Channel>
   <Channel>
+    <Item Name="RTV Hattem">
+      <Satellite />
+    </Item>
+    <File>RTV Hattem.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="RTV IJsselmond">
+      <Satellite />
+    </Item>
+    <Item Name="TV IJsselmond">
+      <Satellite />
+    </Item>
+    <File>RTV IJsselmond.png</File>
+  </Channel>
+  <Channel>
     <Item Name="RTV NOF">
       <Satellite />
     </Item>
@@ -1912,6 +1927,12 @@
       <Satellite />
     </Item>
     <File>RTV Utrecht.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="RTV ZOo tv">
+      <Satellite />
+    </Item>
+    <File>Zoo.png</File>
   </Channel>
   <Channel>
     <Item Name="RTV9">
@@ -2302,6 +2323,12 @@
       <Satellite />
     </Item>
     <File>Türk Max.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Vechtdal Leeft TV">
+      <Satellite />
+    </Item>
+    <File>Vechtdal Leeft.png</File>
   </Channel>
   <Channel>
     <Item Name="Veronica HD">
@@ -3027,6 +3054,18 @@
     <File>Radio Gelderland.png</File>
   </Channel>
   <Channel>
+    <Item Name="Radio Hattem">
+      <Satellite />
+    </Item>
+    <File>RTV Hattem.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Radio IJsselmond">
+      <Satellite />
+    </Item>
+    <File>RTV IJsselmond.png</File>
+  </Channel>
+  <Channel>
     <Item Name="Radio Noord-Holland">
       <Satellite />
     </Item>
@@ -3127,6 +3166,12 @@
       <Satellite />
     </Item>
     <File>RTV Noord Radio.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="RTV ZOo radio">
+      <Satellite />
+    </Item>
+    <File>Zoo.png</File>
   </Channel>
   <Channel>
     <Item Name="Sky Radio">
