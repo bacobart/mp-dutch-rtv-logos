@@ -3,6 +3,12 @@
 <!-- TV -->
 <TV>
   <Channel>
+    <Item Name="0181TV">
+      <Satellite />
+    </Item>
+    <File>0181TV.png</File>
+  </Channel>
+  <Channel>
     <Item Name="100% NL TV">
       <Satellite />
     </Item>
@@ -360,6 +366,15 @@
     <File>BravaNL.png</File>
   </Channel>
   <Channel>
+    <Item Name="Brazzers TV">
+      <Satellite />
+    </Item>
+    <Item Name="Brazzers TV Europe">
+      <Satellite />
+    </Item>
+    <File>Brazzers TV.png</File>
+  </Channel>
+  <Channel>
     <Item Name="C-Classic TV">
       <Satellite />
     </Item>
@@ -513,9 +528,6 @@
     <Item Name="Regio TV">
       <Satellite />
     </Item>
-    <Item Name="Kaze TV">
-      <Satellite />
-    </Item>
     <Item Name="Beek TV">
       <Satellite />
     </Item>
@@ -648,10 +660,22 @@
     <Item Name="Showroom">
       <Satellite />
     </Item>
+    <Item Name="Regio TV Infothuis">
+      <Satellite />
+    </Item>
     <Item Name="Caiway Evenementenkanaal">
       <Satellite />
     </Item>
     <File>DTV Info.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="DTV Oss">
+      <Satellite />
+    </Item>
+    <Item Name="D-tv">
+      <Satellite />
+    </Item>
+    <File>DTV.png</File>
   </Channel>
   <Channel>
     <Item Name="duck TV">
@@ -664,6 +688,9 @@
   </Channel>
   <Channel>
     <Item Name="Dusk!">
+      <Satellite />
+    </Item>
+    <Item Name="Dusk! (Xotix)">
       <Satellite />
     </Item>
     <Item Name="Dusk! Deluxe">
@@ -715,12 +742,6 @@
       <Satellite />
     </Item>
     <File>ESPN Classic Sports.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="Etalagekanaal">
-      <Satellite />
-    </Item>
-    <File>Etalagekanaal.png</File>
   </Channel>
   <Channel>
     <Item Name="Euro D">
@@ -823,12 +844,6 @@
       <Satellite />
     </Item>
     <File>Family 7.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="FAN TV">
-      <Satellite />
-    </Item>
-    <File>FAN TV.png</File>
   </Channel>
   <Channel>
     <Item Name="Fashion TV">
@@ -1272,10 +1287,16 @@
     <Item Name="Kabel 1">
       <Satellite />
     </Item>
-	    <Item Name="Kabel Eins">
+	<Item Name="Kabel Eins">
       <Satellite />
     </Item>
     <File>Kabel 1.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Kaze TV">
+      <Satellite />
+    </Item>
+    <File>Kaze TV.png</File>
   </Channel>
   <Channel>
     <Item Name="Ketnet">
@@ -1387,6 +1408,30 @@
       <Satellite />
     </Item>
     <File>Mediaset Italia.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="MvH Soft/Dusk!">
+      <Satellite />
+    </Item>
+    <File>MvH Soft_Dusk!.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Meiden van Holland">
+      <Satellite />
+    </Item>
+    <Item Name="Meiden van Holland Hard">
+      <Satellite />
+    </Item>
+    <Item Name="MvH Hard (Xotix)">
+      <Satellite />
+    </Item>
+    <Item Name="Meiden van Holland Soft">
+      <Satellite />
+    </Item>
+    <Item Name="Meiden van Holland Promo">
+      <Satellite />
+    </Item>
+    <File>MvH.png</File>
   </Channel>
   <Channel>
     <Item Name="Mezzo Live HD">
@@ -1683,6 +1728,18 @@
     <File>Oog-TV.png</File>
   </Channel>
   <Channel>
+    <Item Name="OPEN Rotterdam">
+      <Satellite />
+    </Item>
+    <File>OPEN Rotterdam.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Open Podium">
+      <Satellite />
+    </Item>
+    <File>Open Podium.png</File>
+  </Channel>
+  <Channel>
     <Item Name="OUTTV">
       <Satellite />
     </Item>
@@ -1708,6 +1765,9 @@
   </Channel>
   <Channel>
     <Item Name="PassieXXX">
+      <Satellite />
+    </Item>
+    <Item Name="Passie XXX (Xotix)">
       <Satellite />
     </Item>
     <File>PassieXXX.png</File>
@@ -1950,6 +2010,12 @@
     <File>RTV Bodegraven.png</File>
   </Channel>
   <Channel>
+    <Item Name="RTV Dordrecht">
+      <Satellite />
+    </Item>
+    <File>RTV Dordrecht.png</File>
+  </Channel>
+  <Channel>
     <Item Name="RTV Hattem">
       <Satellite />
     </Item>
@@ -1987,6 +2053,15 @@
       <Satellite />
     </Item>
     <File>RTV9.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Russia Today">
+      <Satellite />
+    </Item>
+    <Item Name="RT">
+      <Satellite />
+    </Item>
+    <File>RT.png</File>
   </Channel>
   <Channel>
     <Item Name="Samanyola Avrupa">
@@ -2046,6 +2121,12 @@
     <File>Show TV.png</File>
   </Channel>
   <Channel>
+    <Item Name="Sky News">
+      <Satellite />
+    </Item>
+    <File>Sky News.png</File>
+  </Channel>
+  <Channel>
     <Item Name="Slam!TV">
       <Satellite />
     </Item>
@@ -2098,6 +2179,12 @@
       <Satellite />
     </Item>
     <File>Sport1 Voetbal.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Star Life Ok">
+      <Satellite />
+    </Item>
+    <File>Star Life Ok.png</File>
   </Channel>
   <Channel>
     <Item Name="Star Gold">
@@ -2272,6 +2359,12 @@
       <Satellite />
     </Item>
     <File>TV Gelderland.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="TV Hoekse Waard">
+      <Satellite />
+    </Item>
+    <File>TV Hoekse Waard.png</File>
   </Channel>
   <Channel>
     <Item Name="TV Limburg">
