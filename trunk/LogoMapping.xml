@@ -978,10 +978,13 @@
     <Item Name="FOX">
       <Satellite />
     </Item>
+    <File>FOX.png</File>
+  </Channel>
+  <Channel>
     <Item Name="FOX HD">
       <Satellite />
     </Item>
-    <File>FOX.png</File>
+    <File>FOX HD.png</File>
   </Channel>
   <Channel>
     <Item Name="FOX Sports Eredivisie 1">
