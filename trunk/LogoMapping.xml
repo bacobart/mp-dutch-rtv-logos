@@ -1836,6 +1836,12 @@
     <File>Playboy TV.png</File>
   </Channel>
   <Channel>
+    <Item Name="Podium.TV">
+      <Satellite />
+    </Item>
+    <File>PodiumTV.png</File>
+  </Channel>
+  <Channel>
     <Item Name="Politiek 24">
       <Satellite />
     </Item>
