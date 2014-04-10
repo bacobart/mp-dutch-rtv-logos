@@ -18,10 +18,10 @@
     <File>100% NL TV.png</File>
   </Channel>
   <Channel>
-    <Item Name="101 TV">
+    <Item Name="npo 101">
       <Satellite />
     </Item>
-    <File>101 TV.png</File>
+    <File>npo 101.png</File>
   </Channel>
   <Channel>
     <Item Name="13th Street HD">
@@ -321,10 +321,10 @@
     <File>BBC World News.png</File>
   </Channel>
   <Channel>
-    <Item Name="Best 24">
+    <Item Name="npo best">
       <Satellite />
     </Item>
-    <File>Best 24.png</File>
+    <File>npo best.png</File>
   </Channel>
   <Channel>
     <Item Name="Bloomberg Television">
@@ -513,10 +513,10 @@
     <File>Crime &amp; Investigation Network.png</File>
   </Channel>
   <Channel>
-    <Item Name="Cultura 24">
+    <Item Name="npo cultura">
       <Satellite />
     </Item>
-    <File>Cultura 24.png</File>
+    <File>npo cultura.png</File>
   </Channel>
   <Channel>
     <Item Name="Lokale Omroep">
@@ -832,12 +832,6 @@
       <Satellite />
     </Item>
     <File>Eén.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="Familie 24">
-      <Satellite />
-    </Item>
-    <File>Familie 24.png</File>
   </Channel>
   <Channel>
     <Item Name="Family 7">
@@ -1224,10 +1218,10 @@
     <File>History.png</File>
   </Channel>
   <Channel>
-    <Item Name="Holland Doc 24">
+    <Item Name="npo doc">
       <Satellite />
     </Item>
-    <File>Holland Doc 24.png</File>
+    <File>npo doc.png</File>
   </Channel>
   <Channel>
     <Item Name="Horror Channel">
@@ -1245,10 +1239,10 @@
     <File>Horse &amp; Country.png</File>
   </Channel>
   <Channel>
-    <Item Name="Humor TV 24">
+    <Item Name="npo humor tv">
       <Satellite />
     </Item>
-    <File>Humor TV 24.png</File>
+    <File>npo humor tv.png</File>
   </Channel>
   <Channel>
     <Item Name="Hustler TV">
@@ -1281,10 +1275,22 @@
     <File>JimJam.png</File>
   </Channel>
   <Channel>
-    <Item Name="Journaal 24">
+    <Item Name="npo nieuws">
       <Satellite />
     </Item>
-    <File>Journaal 24.png</File>
+    <File>npo nieuws.png</File>
+  </Channel>
+    <Channel>
+    <Item Name="npo sport">
+      <Satellite />
+    </Item>
+    <File>npo sport.png</File>
+  </Channel>
+    <Channel>
+    <Item Name="npo politiek">
+      <Satellite />
+    </Item>
+    <File>npo politiek.png</File>
   </Channel>
   <Channel>
     <Item Name="Kabel 1">
@@ -2598,16 +2604,16 @@
     <File>Yesilcam.png</File>
   </Channel>
   <Channel>
-    <Item Name="Z@ppelin/Z@pp 24">
+    <Item Name="npo zapp xtra">
       <Satellite />
     </Item>
-    <Item Name="Zappelin / Zapp 24">
+    <File>npo zapp xtra.png</File>
+  </Channel>
+    <Channel>
+    <Item Name="npo zappelin xtra">
       <Satellite />
     </Item>
-    <Item Name="Zappelin/Zapp">
-      <Satellite />
-    </Item>
-    <File>Z@ppelin_Z@pp 24.png</File>
+    <File>npo zappelin xtra.png</File>
   </Channel>
   <Channel>
     <Item Name="ZDF HD">
