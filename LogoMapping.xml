@@ -2298,24 +2298,6 @@
     <File>TLC HD.png</File>
   </Channel>
   <Channel>
-    <Item Name="TMF Dance">
-      <Satellite />
-    </Item>
-    <File>TMF Dance.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="TMF NL">
-      <Satellite />
-    </Item>
-    <File>TMF NL.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="TMF Pure">
-      <Satellite />
-    </Item>
-    <File>TMF Pure.png</File>
-  </Channel>
-  <Channel>
     <Item Name="Travel Channel">
       <Satellite />
     </Item>
@@ -2478,25 +2460,10 @@
     <File>Vechtdal Leeft.png</File>
   </Channel>
   <Channel>
-    <Item Name="Veronica HD">
-      <Satellite />
-    </Item>
-    <File>Veronica HD.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="Veronica HD/Disney XD">
-      <Satellite />
-    </Item>
-    <Item Name="DisneyXD/Veronica HD">
-      <Satellite />
-    </Item>
-    <Item Name="Veronica/DisneyXD HD">
-      <Satellite />
-    </Item>
-    <File>Veronica HD_Disney XD.png</File>
-  </Channel>
-  <Channel>
     <Item Name="Veronica">
+      <Satellite />
+    </Item>
+    <Item Name="Veronica HD">
       <Satellite />
     </Item>
     <File>Veronica.png</File>
@@ -2509,6 +2476,15 @@
       <Satellite />
     </Item>
     <Item Name="DisneyXD/Veronica">
+      <Satellite />
+    </Item>
+    <Item Name="Veronica HD/Disney XD">
+      <Satellite />
+    </Item>
+    <Item Name="DisneyXD/Veronica HD">
+      <Satellite />
+    </Item>
+    <Item Name="Veronica/DisneyXD HD">
       <Satellite />
     </Item>
     <File>Veronica_Disney XD.png</File>
@@ -3043,12 +3019,6 @@
       <Satellite />
     </Item>
     <File>HitRadio Veronica.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="Kink FM">
-      <Satellite />
-    </Item>
-    <File>Kink FM.png</File>
   </Channel>
   <Channel>
     <Item Name="Klara">
