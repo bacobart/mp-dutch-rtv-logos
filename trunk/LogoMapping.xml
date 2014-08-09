@@ -21,6 +21,9 @@
     <Item Name="npo 101">
       <Satellite />
     </Item>
+    <Item Name="101 TV">
+      <Satellite />
+    </Item>
     <File>npo 101.png</File>
   </Channel>
   <Channel>
