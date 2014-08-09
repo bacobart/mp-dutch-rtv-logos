@@ -48,19 +48,16 @@
     <File>192TV.png</File>
   </Channel>
   <Channel>
-    <Item Name="24 Kitchen HD">
-      <Satellite />
-    </Item>
-    <Item Name="24Kitchen HD">
-      <Satellite />
-    </Item>
-    <File>24 Kitchen HD.png</File>
-  </Channel>
-  <Channel>
     <Item Name="24 Kitchen">
       <Satellite />
     </Item>
     <Item Name="24Kitchen">
+      <Satellite />
+    </Item>
+    <Item Name="24 Kitchen HD">
+      <Satellite />
+    </Item>
+    <Item Name="24Kitchen HD">
       <Satellite />
     </Item>
     <File>24 Kitchen.png</File>
@@ -1587,55 +1584,61 @@
     <File>NDR.png</File>
   </Channel>
   <Channel>
-    <Item Name="Nederland 1 HD">
-      <Satellite />
-    </Item>
-    <File>Nederland 1 HD.png</File>
-  </Channel>
-  <Channel>
     <Item Name="Nederland 1">
       <Satellite />
     </Item>
-    <File>Nederland 1.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="Nederland 2 HD">
+    <Item Name="NPO 1">
       <Satellite />
     </Item>
-    <File>Nederland 2 HD.png</File>
+    <Item Name="Nederland 1 HD">
+      <Satellite />
+    </Item>
+	<Item Name="NPO 1 HD">
+      <Satellite />
+    </Item>
+    <File>NPO 1.png</File>
   </Channel>
   <Channel>
     <Item Name="Nederland 2">
       <Satellite />
     </Item>
-    <File>Nederland 2.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="Nederland 3 HD">
+	<Item Name="NPO 2">
       <Satellite />
     </Item>
-    <File>Nederland 3 HD.png</File>
+    <Item Name="Nederland 2 HD">
+      <Satellite />
+    </Item>
+	<Item Name="NPO 2 HD">
+      <Satellite />
+    </Item>
+    <File>NPO 2.png</File>
   </Channel>
   <Channel>
     <Item Name="Nederland 3">
       <Satellite />
     </Item>
-    <File>Nederland 3.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="Net 5 HD">
+	<Item Name="NPO 3">
       <Satellite />
     </Item>
-    <Item Name="Net5 HD">
+    <Item Name="Nederland 3 HD">
       <Satellite />
     </Item>
-    <File>Net 5 HD.png</File>
+	<Item Name="NPO 3 HD">
+      <Satellite />
+    </Item>
+    <File>NPO 3.png</File>
   </Channel>
   <Channel>
     <Item Name="Net 5">
       <Satellite />
     </Item>
     <Item Name="Net5">
+      <Satellite />
+    </Item>
+    <Item Name="Net 5 HD">
+      <Satellite />
+    </Item>
+    <Item Name="Net5 HD">
       <Satellite />
     </Item>
     <File>Net 5.png</File>
@@ -1890,31 +1893,19 @@
     <File>RTBF La Deux.png</File>
   </Channel>
   <Channel>
-    <Item Name="RTL 4 HD">
-      <Satellite />
-    </Item>
-    <Item Name="RTL4 HD">
-      <Satellite />
-    </Item>
-    <File>RTL 4 HD.png</File>
-  </Channel>
-  <Channel>
     <Item Name="RTL 4">
       <Satellite />
     </Item>
     <Item Name="RTL4">
       <Satellite />
     </Item>
+    <Item Name="RTL 4 HD">
+      <Satellite />
+    </Item>
+    <Item Name="RTL4 HD">
+      <Satellite />
+    </Item>
     <File>RTL 4.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="RTL 5 HD">
-      <Satellite />
-    </Item>
-    <Item Name="RTL5 HD">
-      <Satellite />
-    </Item>
-    <File>RTL 5 HD.png</File>
   </Channel>
   <Channel>
     <Item Name="RTL 5">
@@ -1923,16 +1914,13 @@
     <Item Name="RTL5">
       <Satellite />
     </Item>
+    <Item Name="RTL 5 HD">
+      <Satellite />
+    </Item>
+    <Item Name="RTL5 HD">
+      <Satellite />
+    </Item>
     <File>RTL 5.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="RTL 7 HD">
-      <Satellite />
-    </Item>
-    <Item Name="RTL7 HD">
-      <Satellite />
-    </Item>
-    <File>RTL 7 HD.png</File>
   </Channel>
   <Channel>
     <Item Name="RTL 7">
@@ -1941,22 +1929,25 @@
     <Item Name="RTL7">
       <Satellite />
     </Item>
+    <Item Name="RTL 7 HD">
+      <Satellite />
+    </Item>
+    <Item Name="RTL7 HD">
+      <Satellite />
+    </Item>
     <File>RTL 7.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="RTL 8 HD">
-      <Satellite />
-    </Item>
-    <Item Name="RTL8 HD">
-      <Satellite />
-    </Item>
-    <File>RTL 8 HD.png</File>
   </Channel>
   <Channel>
     <Item Name="RTL 8">
       <Satellite />
     </Item>
     <Item Name="RTL8">
+      <Satellite />
+    </Item>
+    <Item Name="RTL 8 HD">
+      <Satellite />
+    </Item>
+    <Item Name="RTL8 HD">
       <Satellite />
     </Item>
     <File>RTL 8.png</File>
@@ -2106,19 +2097,16 @@
     <File>SAT. 1.png</File>
   </Channel>
   <Channel>
-    <Item Name="SBS 6 HD">
-      <Satellite />
-    </Item>
-    <Item Name="SBS6 HD">
-      <Satellite />
-    </Item>
-    <File>SBS 6 HD.png</File>
-  </Channel>
-  <Channel>
     <Item Name="SBS 6">
       <Satellite />
     </Item>
     <Item Name="SBS6">
+      <Satellite />
+    </Item>
+    <Item Name="SBS 6 HD">
+      <Satellite />
+    </Item>
+    <Item Name="SBS6 HD">
       <Satellite />
     </Item>
     <File>SBS 6.png</File>
@@ -2613,10 +2601,16 @@
     <Item Name="npo zapp xtra">
       <Satellite />
     </Item>
+    <Item Name="npo zapp">
+      <Satellite />
+    </Item>
     <File>npo zapp xtra.png</File>
   </Channel>
     <Channel>
     <Item Name="npo zappelin xtra">
+      <Satellite />
+    </Item>
+    <Item Name="npo zappelin">
       <Satellite />
     </Item>
     <File>npo zappelin xtra.png</File>
@@ -2695,6 +2689,9 @@
 <Radio>
   <Channel>
     <Item Name="3FM">
+      <Satellite />
+    </Item>
+    <Item Name="NPO 3FM">
       <Satellite />
     </Item>
     <File>3FM.png</File>
@@ -3147,10 +3144,16 @@
     <Item Name="Radio 1">
       <Satellite />
     </Item>
+	<Item Name="NPO Radio 1">
+      <Satellite />
+    </Item>
     <File>Radio 1.png</File>
   </Channel>
   <Channel>
     <Item Name="Radio 2">
+      <Satellite />
+    </Item>
+    <Item Name="NPO Radio 2">
       <Satellite />
     </Item>
     <File>Radio 2.png</File>
@@ -3159,10 +3162,16 @@
     <Item Name="Radio 4">
       <Satellite />
     </Item>
+    <Item Name="NPO Radio 4">
+      <Satellite />
+    </Item>
     <File>Radio 4.png</File>
   </Channel>
   <Channel>
     <Item Name="Radio 5">
+      <Satellite />
+    </Item>
+    <Item Name="NPO Radio 5">
       <Satellite />
     </Item>
     <Item Name="Radio 5 Nostalgia">
@@ -3172,6 +3181,9 @@
   </Channel>
   <Channel>
     <Item Name="Radio 6">
+      <Satellite />
+    </Item>
+    <Item Name="NPO Radio 6">
       <Satellite />
     </Item>
     <File>Radio 6.png</File>
