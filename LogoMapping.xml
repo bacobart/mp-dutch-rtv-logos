@@ -3,10 +3,13 @@
 <!-- TV -->
 <TV>
   <Channel>
+    <Item Name="O181TV">
+      <Satellite />
+    </Item>
     <Item Name="0181TV">
       <Satellite />
     </Item>
-    <File>0181TV.png</File>
+    <File>O181tv.png</File>
   </Channel>
   <Channel>
     <Item Name="100% NL TV">
@@ -675,7 +678,7 @@
     <Item Name="D-tv">
       <Satellite />
     </Item>
-    <File>DTV.png</File>
+    <File>Dtv.png</File>
   </Channel>
   <Channel>
     <Item Name="duck TV">
@@ -1852,15 +1855,6 @@
       <Satellite />
     </Item>
     <File>PodiumTV.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="Politiek 24">
-      <Satellite />
-    </Item>
-    <Item Name="Politiek 24/Sport 24">
-      <Satellite />
-    </Item>
-    <File>Politiek 24.png</File>
   </Channel>
   <Channel>
     <Item Name="Preview TV">
