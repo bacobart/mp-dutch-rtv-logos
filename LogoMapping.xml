@@ -378,6 +378,12 @@
     <File>Brazzers TV.png</File>
   </Channel>
   <Channel>
+    <Item Name="bvn">
+      <Satellite />
+    </Item>
+   <File>bvn.png</File>
+  </Channel>
+  <Channel>
     <Item Name="C-Classic TV">
       <Satellite />
     </Item>
