@@ -4,10 +4,10 @@
 <TV>
   <Channel>
     <Item Name="O181TV">
-      <Satellite />
+      <Provider />
     </Item>
     <Item Name="0181TV">
-      <Satellite />
+      <Provider>UPC</Provider>
     </Item>
     <File>O181tv.png</File>
   </Channel>
@@ -55,16 +55,20 @@
   </Channel>
   <Channel>
     <Item Name="24 Kitchen">
-      <Satellite />
+      <Provider />
     </Item>
     <Item Name="24Kitchen">
-      <Satellite />
+      <Provider>Caiway</Provider>
+      <Provider>UPC</Provider>
+      <Provider>Delta</Provider>
+      <Provider>Ziggo</Provider>
     </Item>
     <Item Name="24 Kitchen HD">
       <Satellite />
     </Item>
     <Item Name="24Kitchen HD">
-      <Satellite />
+      <Provider>Caiway</Provider>
+      <Provider>UPC</Provider>
     </Item>
     <File>24 Kitchen.png</File>
   </Channel>
@@ -1020,6 +1024,9 @@
     <Item Name="FOX Sports 3 Ere.">
       <Satellite />
     </Item>
+    <Item Name="FOX Sports 3 Eredivisie HD">
+      <Satellite />
+    </Item>
     <Item Name="FOX Sports Eredivisie 5">
       <Satellite />
     </Item>
@@ -1030,6 +1037,9 @@
       <Satellite />
     </Item>
     <Item Name="FOX Sports 5 Ere.">
+      <Satellite />
+    </Item>
+    <Item Name="FOX Sports 5 Eredivisie HD">
       <Satellite />
     </Item>
     <File>FOX Sports Eredivisie.png</File>
@@ -1051,6 +1061,12 @@
       <Satellite />
     </Item>
     <Item Name="FOX Sports 4 HD">
+      <Satellite />
+    </Item>
+    <Item Name="FOX Sports 6">
+      <Satellite />
+    </Item>
+    <Item Name="FOX Sports 6 HD">
       <Satellite />
     </Item>
     <File>FOX Sports International.png</File>
@@ -1268,6 +1284,11 @@
     </Item>
     <Item Name="Discovery ID">
       <Satellite />
+	</Item>
+    <Item Name="ID">
+      <Satellite />
+      <Provider>Caiway</Provider>
+      <Provider>Ziggo</Provider>
     </Item>
     <File>Investigation Discovery.png</File>
   </Channel>
@@ -1300,6 +1321,15 @@
       <Satellite />
     </Item>
     <File>npo politiek.png</File>
+  </Channel>
+    <Channel>
+    <Item Name="NPO Politiek / NPO Sport">
+      <Satellite />
+    </Item>
+	    <Item Name="NPO Politiek/NPO Sport">
+      <Satellite />
+    </Item>
+    <File>npo politiek_sport.png</File>
   </Channel>
   <Channel>
     <Item Name="Kabel 1">
@@ -1597,61 +1627,129 @@
   </Channel>
   <Channel>
     <Item Name="Nederland 1">
-      <Satellite />
+      <Provider>Ziggo</Provider>
+	  <Provider>Caiway</Provider>
+	  <Provider>Delta</Provider>
+	  <Provider>UPC</Provider>
+	  <Provider>Digitenne</Provider>
+	  <Provider>Cogas</Provider>
     </Item>
     <Item Name="NPO 1">
-      <Satellite />
+      <Provider>Ziggo</Provider>
+	  <Provider>Caiway</Provider>
+	  <Provider>Delta</Provider>
+	  <Provider>UPC</Provider>
+	  <Provider>Digitenne</Provider>
+	  <Provider>Cogas</Provider>
     </Item>
     <Item Name="Nederland 1 HD">
-      <Satellite />
+      <Provider>Ziggo</Provider>
+	  <Provider>Caiway</Provider>
+	  <Provider>Delta</Provider>
+	  <Provider>UPC</Provider>
+	  <Provider>Digitenne</Provider>
+	  <Provider>Cogas</Provider>
     </Item>
 	<Item Name="NPO 1 HD">
-      <Satellite />
+      <Provider>Ziggo</Provider>
+	  <Provider>Caiway</Provider>
+	  <Provider>Delta</Provider>
+	  <Provider>UPC</Provider>
+	  <Provider>Digitenne</Provider>
+	  <Provider>Cogas</Provider>
     </Item>
     <File>NPO 1.png</File>
   </Channel>
   <Channel>
     <Item Name="Nederland 2">
-      <Satellite />
+      <Provider>Ziggo</Provider>
+	  <Provider>Caiway</Provider>
+	  <Provider>Delta</Provider>
+	  <Provider>UPC</Provider>
+	  <Provider>Digitenne</Provider>
+	  <Provider>Cogas</Provider>
     </Item>
 	<Item Name="NPO 2">
-      <Satellite />
+      <Provider>Ziggo</Provider>
+	  <Provider>Caiway</Provider>
+	  <Provider>Delta</Provider>
+	  <Provider>UPC</Provider>
+	  <Provider>Digitenne</Provider>
+	  <Provider>Cogas</Provider>
     </Item>
     <Item Name="Nederland 2 HD">
-      <Satellite />
+      <Provider>Ziggo</Provider>
+	  <Provider>Caiway</Provider>
+	  <Provider>Delta</Provider>
+	  <Provider>UPC</Provider>
+	  <Provider>Digitenne</Provider>
+	  <Provider>Cogas</Provider>
     </Item>
 	<Item Name="NPO 2 HD">
-      <Satellite />
+      <Provider>Ziggo</Provider>
+	  <Provider>Caiway</Provider>
+	  <Provider>Delta</Provider>
+	  <Provider>UPC</Provider>
+	  <Provider>Digitenne</Provider>
+	  <Provider>Cogas</Provider>
     </Item>
     <File>NPO 2.png</File>
   </Channel>
   <Channel>
     <Item Name="Nederland 3">
-      <Satellite />
+      <Provider>Ziggo</Provider>
+	  <Provider>Caiway</Provider>
+	  <Provider>Delta</Provider>
+	  <Provider>UPC</Provider>
+	  <Provider>Digitenne</Provider>
+	  <Provider>Cogas</Provider>
     </Item>
 	<Item Name="NPO 3">
-      <Satellite />
+      <Provider>Ziggo</Provider>
+	  <Provider>Caiway</Provider>
+	  <Provider>Delta</Provider>
+	  <Provider>UPC</Provider>
+	  <Provider>Digitenne</Provider>
+	  <Provider>Cogas</Provider>
     </Item>
     <Item Name="Nederland 3 HD">
-      <Satellite />
+      <Provider>Ziggo</Provider>
+	  <Provider>Caiway</Provider>
+	  <Provider>Delta</Provider>
+	  <Provider>UPC</Provider>
+	  <Provider>Digitenne</Provider>
+	  <Provider>Cogas</Provider>
     </Item>
 	<Item Name="NPO 3 HD">
-      <Satellite />
+      <Provider>Ziggo</Provider>
+	  <Provider>Caiway</Provider>
+	  <Provider>Delta</Provider>
+	  <Provider>UPC</Provider>
+	  <Provider>Digitenne</Provider>
+	  <Provider>Cogas</Provider>
     </Item>
     <File>NPO 3.png</File>
   </Channel>
   <Channel>
     <Item Name="Net 5">
-      <Satellite />
+      <Provider>Ziggo</Provider>
+	  <Provider>UPC</Provider>
+	  <Provider>Delta</Provider>
+	  <Provider>Cogas</Provider>
     </Item>
     <Item Name="Net5">
-      <Satellite />
+	  <Provider>Caiway</Provider>
+	  <Provider>Digitenne</Provider>
     </Item>
     <Item Name="Net 5 HD">
-      <Satellite />
+      <Provider>Ziggo</Provider>
+	  <Provider>UPC</Provider>
+	  <Provider>Delta</Provider>
+	  <Provider>Cogas</Provider>
     </Item>
     <Item Name="Net5 HD">
-      <Satellite />
+	  <Provider>Caiway</Provider>
+	  <Provider>Digitenne</Provider>
     </Item>
     <File>Net 5.png</File>
   </Channel>
@@ -3169,6 +3267,9 @@
   </Channel>
   <Channel>
     <Item Name="Radio 10 Gold">
+      <Satellite />
+    </Item>
+    <Item Name="Radio 10">
       <Satellite />
     </Item>
     <File>Radio 10 Gold.png</File>
