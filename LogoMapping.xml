@@ -108,6 +108,15 @@
     </Item>
     <File>Al Jazeera.png</File>
   </Channel>
+    <Channel>
+    <Item Name="AMC">
+      <Satellite />
+    </Item>
+    <Item Name="AMC HD">
+      <Satellite />
+    </Item>
+    <File>AMC.png</File>
+  </Channel>
   <Channel>
     <Item Name="Animal Planet HD">
       <Satellite />
@@ -2211,6 +2220,21 @@
       <Satellite />
     </Item>
     <File>SBS 6.png</File>
+  </Channel>
+    <Channel>
+    <Item Name="SBS 9">
+      <Satellite />
+    </Item>
+    <Item Name="SBS9">
+      <Satellite />
+    </Item>
+    <Item Name="SBS 9 HD">
+      <Satellite />
+    </Item>
+    <Item Name="SBS9 HD">
+      <Satellite />
+    </Item>
+    <File>SBS 9.png</File>
   </Channel>
   <Channel>
     <Item Name="SchlagerTV">
