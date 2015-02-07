@@ -106,6 +106,9 @@
     <Item Name="Aljazeera English">
       <Satellite />
     </Item>
+    <Item Name="Al Jazeera English">
+      <Satellite />
+    </Item>
     <File>Al Jazeera.png</File>
   </Channel>
     <Channel>
@@ -250,6 +253,9 @@
     <Item Name="BBC3/CBBC">
       <Satellite />
     </Item>
+    <Item Name="BBC 3/CBBC">
+      <Satellite />
+    </Item>
     <Item Name="BBC Three/CBBC">
       <Satellite />
     </Item>
@@ -284,6 +290,9 @@
       <Satellite />
     </Item>
     <Item Name="BBC4/CBeeBies">
+      <Satellite />
+    </Item>
+    <Item Name="BBC 4/CBeeBies">
       <Satellite />
     </Item>
     <Item Name="BBC Four/CBeeBies">
@@ -466,6 +475,9 @@
     <Item Name="CNBC Europe">
       <Satellite />
     </Item>
+    <Item Name="CNBC">
+      <Satellite />
+    </Item>
     <File>CNBC Europe.png</File>
   </Channel>
   <Channel>
@@ -530,6 +542,9 @@
   </Channel>
   <Channel>
     <Item Name="Crime &amp; Investigation Network">
+      <Satellite />
+    </Item>
+    <Item Name="Crime &amp; Investigation">
       <Satellite />
     </Item>
     <File>Crime &amp; Investigation Network.png</File>
@@ -641,6 +656,12 @@
   </Channel>
   <Channel>
     <Item Name="Disney XD 24">
+      <Satellite />
+    </Item>
+    <Item Name="Disney XD">
+      <Satellite />
+    </Item>
+    <Item Name="DisneyXD">
       <Satellite />
     </Item>
     <File>Disney XD 24.png</File>
@@ -1335,7 +1356,10 @@
     <Item Name="NPO Politiek / NPO Sport">
       <Satellite />
     </Item>
-	    <Item Name="NPO Politiek/NPO Sport">
+    <Item Name="NPO Politiek/NPO Sport">
+      <Satellite />
+    </Item>
+    <Item Name="NPO Politiek/Sport">
       <Satellite />
     </Item>
     <File>npo politiek_sport.png</File>
@@ -1577,6 +1601,12 @@
     </Item>
     <File>myZen.tv.png</File>
   </Channel>
+    <Channel>
+    <Item Name="myZen.tv HD">
+      <Satellite />
+    </Item>
+    <File>myZen.tv HD.png</File>
+  </Channel>
   <Channel>
     <Item Name="Nat Geo Wild HD">
       <Satellite />
@@ -1795,6 +1825,12 @@
     </Item>
     <File>nickelodeon.png</File>
   </Channel>
+    <Channel>
+    <Item Name="nickelodeon HD">
+      <Satellite />
+    </Item>
+    <File>nickelodeon HD.png</File>
+  </Channel>
   <Channel>
     <Item Name="Nickelodeon/Comedy Central">
       <Satellite />
@@ -1821,6 +1857,9 @@
   </Channel>
   <Channel>
     <Item Name="Omroep Brabant">
+      <Satellite />
+    </Item>
+    <Item Name="Omroep Brabant TV">
       <Satellite />
     </Item>
     <Item Name="Brabant">
@@ -1890,6 +1929,9 @@
   </Channel>
   <Channel>
     <Item Name="PassieTV/Dusk!">
+      <Satellite />
+    </Item>
+    <Item Name="PassieTV-Dusk!">
       <Satellite />
     </Item>
     <File>PassieTV_Dusk!.png</File>
@@ -1965,6 +2007,9 @@
   </Channel>
   <Channel>
     <Item Name="Podium.TV">
+      <Satellite />
+    </Item>
+    <Item Name="PodiumTV">
       <Satellite />
     </Item>
     <File>PodiumTV.png</File>
@@ -2204,6 +2249,9 @@
     <Item Name="SAT 1">
       <Satellite />
     </Item>
+    <Item Name="SAT.1">
+      <Satellite />
+    </Item>
     <File>SAT. 1.png</File>
   </Channel>
   <Channel>
@@ -2382,6 +2430,12 @@
       <Satellite />
     </Item>
     <File>Syfy Universal.png</File>
+  </Channel>
+    <Channel>
+    <Item Name="Syfy HD">
+      <Satellite />
+    </Item>
+    <File>Syfy HD.png</File>
   </Channel>
   <Channel>
     <Item Name="TBN Europe">
