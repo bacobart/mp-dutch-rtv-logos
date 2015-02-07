@@ -1362,6 +1362,9 @@
     <Item Name="NPO Politiek/Sport">
       <Satellite />
     </Item>
+    <Item Name="NPO Politiek / Sport">
+      <Satellite />
+    </Item>
     <File>npo politiek_sport.png</File>
   </Channel>
   <Channel>
