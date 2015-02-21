@@ -72,6 +72,12 @@
     </Item>
     <File>24 Kitchen.png</File>
   </Channel>
+    <Channel>
+    <Item Name="2M">
+      <Satellite />
+    </Item>
+    <File>2M.png</File>
+  </Channel>
   <Channel>
     <Item Name="3sat">
       <Satellite />
@@ -185,6 +191,9 @@
   </Channel>
   <Channel>
     <Item Name="ATV Avrupa">
+      <Satellite />
+    </Item>
+	    <Item Name="ATV">
       <Satellite />
     </Item>
     <File>ATV Avrupa.png</File>
@@ -471,6 +480,12 @@
     </Item>
     <File>CCTV9.png</File>
   </Channel>
+    <Channel>
+    <Item Name="CCTV News">
+      <Satellite />
+    </Item>
+    <File>CCTV News.png</File>
+  </Channel>
   <Channel>
     <Item Name="CNBC Europe">
       <Satellite />
@@ -575,6 +590,12 @@
       <Satellite />
     </Item>
     <File>Delta.png</File>
+  </Channel>
+    <Channel>
+    <Item Name="DanceTrippin TV">
+      <Satellite />
+    </Item>
+    <File>DanceTrippin TV.png</File>
   </Channel>
   <Channel>
     <Item Name="Deutsche Welle TV">
@@ -758,6 +779,9 @@
   </Channel>
   <Channel>
     <Item Name="Erotiek Pakket">
+      <Satellite />
+    </Item>
+	    <Item Name="Erotische zenders">
       <Satellite />
     </Item>
     <File>Erotiek Pakket.png</File>
@@ -1252,6 +1276,9 @@
     <Item Name="HBO">
       <Satellite />
     </Item>
+	    <Item Name="HBO 1">
+      <Satellite />
+    </Item>
     <File>HBO.png</File>
   </Channel>
   <Channel>
@@ -1507,6 +1534,12 @@
       <Satellite />
     </Item>
     <Item Name="MvH Hard (Xotix)">
+      <Satellite />
+    </Item>
+	    <Item Name="MvH Hard">
+      <Satellite />
+    </Item>
+	    <Item Name="MvH Soft">
       <Satellite />
     </Item>
     <Item Name="Meiden van Holland Soft">
@@ -1946,6 +1979,9 @@
     <Item Name="Passie XXX (Xotix)">
       <Satellite />
     </Item>
+	    <Item Name="Passie XXX">
+      <Satellite />
+    </Item>
     <File>PassieXXX.png</File>
   </Channel>
   <Channel>
@@ -2128,6 +2164,21 @@
     </Item>
     <File>RTL Telekids.png</File>
   </Channel>
+    <Channel>
+    <Item Name="RTL Z">
+      <Satellite />
+    </Item>
+    <Item Name="RTLZ">
+      <Satellite />
+    </Item>
+    <Item Name="RTL Z HD">
+      <Satellite />
+    </Item>
+    <Item Name="RTLZ HD">
+      <Satellite />
+    </Item>
+    <File>RTL Z.png</File>
+  </Channel>
   <Channel>
     <Item Name="RTL Television">
       <Satellite />
@@ -2218,6 +2269,15 @@
     </Item>
     <File>Zoo.png</File>
   </Channel>
+    <Channel>
+    <Item Name="RTV-7">
+      <Satellite />
+    </Item>
+	    <Item Name="RTV 7">
+      <Satellite />
+    </Item>
+    <File>RTV-7.png</File>
+  </Channel>
   <Channel>
     <Item Name="RTV9">
       <Satellite />
@@ -2237,7 +2297,13 @@
     <Item Name="Samanyola Avrupa">
       <Satellite />
     </Item>
+	    <Item Name="Samanyolu Avrupa">
+      <Satellite />
+    </Item>
     <Item Name="STV">
+      <Satellite />
+    </Item>
+	    <Item Name="Samanyolu TV">
       <Satellite />
     </Item>
     <File>Samanyola Avrupa.png</File>
@@ -2298,6 +2364,21 @@
       <Satellite />
     </Item>
     <File>SET Asia.png</File>
+  </Channel>
+    <Channel>
+    <Item Name="Shorts TV">
+      <Satellite />
+    </Item>
+    <File>Shorts TV.png</File>
+  </Channel>
+      <Channel>
+    <Item Name="Shorts HD">
+      <Satellite />
+    </Item>
+	    <Item Name="Shorts TV HD">
+      <Satellite />
+    </Item>
+    <File>Shorts HD.png</File>
   </Channel>
   <Channel>
     <Item Name="Show TV">
@@ -2462,6 +2543,9 @@
     <Item Name="TGRT EU">
       <Satellite />
     </Item>
+	    <Item Name="TGRT Europe">
+      <Satellite />
+    </Item>
     <File>TGRT EU.png</File>
   </Channel>
   <Channel>
@@ -2469,6 +2553,15 @@
       <Satellite />
     </Item>
     <File>The Church Channel.png</File>
+  </Channel>
+    <Channel>
+    <Item Name="The Indonesia Channel">
+      <Satellite />
+    </Item>
+	    <Item Name="Indonesia Channel">
+      <Satellite />
+    </Item>
+    <File>tic.png</File>
   </Channel>
   <Channel>
     <Item Name="TLC">
@@ -2814,6 +2907,9 @@
       <Satellite />
     </Item>
     <Item Name="Eventkanaal">
+      <Satellite />
+    </Item>
+	    <Item Name="Evenementenkanaal">
       <Satellite />
     </Item>
     <File>Ziggo TV.png</File>
