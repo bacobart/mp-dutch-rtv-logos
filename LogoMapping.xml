@@ -1605,9 +1605,6 @@
     <Item Name="MTV Live HD">
       <Satellite />
     </Item>
-    <Item Name="MTV HD">
-      <Satellite />
-    </Item>
     <File>MTV Live HD.png</File>
   </Channel>
   <Channel>
@@ -1624,6 +1621,9 @@
   </Channel>
   <Channel>
     <Item Name="MTV">
+      <Satellite />
+    </Item>
+	    <Item Name="MTV HD">
       <Satellite />
     </Item>
     <Item Name="MTV NL">
