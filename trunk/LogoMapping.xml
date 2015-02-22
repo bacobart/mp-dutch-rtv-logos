@@ -730,7 +730,10 @@
     <Item Name="Caiway Evenementenkanaal">
       <Satellite />
     </Item>
-    <File>DTV Info.png</File>
+	    <Item Name="Lokaal Publiek">
+      <Satellite />
+    </Item>
+    <File>Caiway.png</File>
   </Channel>
   <Channel>
     <Item Name="DTV Oss">
@@ -908,6 +911,18 @@
   </Channel>
   <Channel>
     <Item Name="Fashion TV">
+      <Satellite />
+    </Item>
+    <Item Name="FTV HD">
+      <Satellite />
+    </Item>
+    <Item Name="FTV">
+      <Satellite />
+    </Item>
+    <Item Name="FashionTV HD">
+      <Satellite />
+    </Item>
+    <Item Name="Fashion TV HD">
       <Satellite />
     </Item>
     <File>Fashion TV.png</File>
@@ -1134,6 +1149,15 @@
     </Item>
     <File>FOX Sports 2.png</File>
   </Channel>
+    <Channel>
+    <Item Name="FOX Sports info">
+      <Satellite />
+    </Item>
+    <Item Name="FOX Sports">
+      <Satellite />
+    </Item>
+    <File>FOX Sports.png</File>
+  </Channel>
   <Channel>
     <Item Name="Fox News Channel">
       <Satellite />
@@ -1184,15 +1208,6 @@
       <Satellite />
     </Item>
     <File>France 3.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="FTV HD">
-      <Satellite />
-    </Item>
-    <Item Name="FashionTV HD">
-      <Satellite />
-    </Item>
-    <File>FTV HD.png</File>
   </Channel>
   <Channel>
     <Item Name="Garuda TV">
@@ -2909,7 +2924,10 @@
     <Item Name="Eventkanaal">
       <Satellite />
     </Item>
-	    <Item Name="Evenementenkanaal">
+    <Item Name="Evenementenkanaal">
+      <Satellite />
+    </Item>
+    <Item Name="Info">
       <Satellite />
     </Item>
     <File>Ziggo TV.png</File>
