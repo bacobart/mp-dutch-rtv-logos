@@ -865,10 +865,13 @@
     <File>EWTN.png</File>
   </Channel>
   <Channel>
+    <Item Name="Extreme Sports Channel">
+      <Satellite />
+    </Item>
     <Item Name="Extreme Sports">
       <Satellite />
     </Item>
-    <File>Extreme Sports.png</File>
+    <File>Extreme Sports Channel.png</File>
   </Channel>
   <Channel>
     <Item Name="Eén HD">
