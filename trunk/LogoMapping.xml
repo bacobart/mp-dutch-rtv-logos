@@ -340,6 +340,12 @@
     <File>BBC Entertainment.png</File>
   </Channel>
   <Channel>
+    <Item Name="BBC First">
+      <Satellite />
+    </Item>
+    <File>BBC First.png</File>
+  </Channel>
+  <Channel>
     <Item Name="BBC HD">
       <Satellite />
     </Item>
@@ -1495,6 +1501,12 @@
       <Satellite />
     </Item>
     <File>LOOK TV.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Man-X">
+      <Satellite />
+    </Item>
+    <File>Man-X.png</File>
   </Channel>
   <Channel>
     <Item Name="MAX">
