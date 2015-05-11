@@ -601,6 +601,9 @@
     <Item Name="DanceTrippin TV">
       <Satellite />
     </Item>
+    <Item Name="DanceTrippin">
+      <Satellite />
+    </Item>
     <File>DanceTrippin TV.png</File>
   </Channel>
   <Channel>
@@ -776,6 +779,9 @@
       <Satellite />
     </Item>
     <Item Name="E! Entertainment HD">
+      <Satellite />
+    </Item>
+    <Item Name="E! HD">
       <Satellite />
     </Item>
     <File>E! Entertainment.png</File>
@@ -1476,6 +1482,9 @@
     <Item Name="L1">
       <Satellite />
     </Item>
+    <Item Name="L1 TV">
+      <Satellite />
+    </Item>
     <File>L1 Limburg.png</File>
   </Channel>
   <Channel>
@@ -1669,6 +1678,9 @@
   </Channel>
     <Channel>
     <Item Name="myZen.tv HD">
+      <Satellite />
+    </Item>
+    <Item Name="MyZen HD">
       <Satellite />
     </Item>
     <File>myZen.tv HD.png</File>
@@ -1881,6 +1893,9 @@
   </Channel>
   <Channel>
     <Item Name="Nick Toons">
+      <Satellite />
+    </Item>
+    <Item Name="Nicktoons">
       <Satellite />
     </Item>
     <File>Nick Toons.png</File>
@@ -2243,6 +2258,9 @@
     <Item Name="RTVAssen">
       <Satellite />
     </Item>
+    <Item Name="Lokale Omroep Assen TV">
+      <Satellite />
+    </Item>
     <File>RTV Assen.png</File>
   </Channel>
   <Channel>
@@ -2285,6 +2303,9 @@
     <File>RTV NOF.png</File>
   </Channel>
   <Channel>
+    <Item Name="Regio TV Utrecht">
+      <Satellite />
+    </Item>
     <Item Name="RTV Utrecht">
       <Satellite />
     </Item>
@@ -2591,6 +2612,9 @@
 	    <Item Name="Indonesia Channel">
       <Satellite />
     </Item>
+	    <Item Name="The Indonesian Channel">
+      <Satellite />
+    </Item>
     <File>tic.png</File>
   </Channel>
   <Channel>
@@ -2634,6 +2658,9 @@
       <Satellite />
     </Item>
     <Item Name="538">
+      <Satellite />
+    </Item>
+    <Item Name="TV538">
       <Satellite />
     </Item>
     <File>538.png</File>
@@ -2793,6 +2820,9 @@
       <Satellite />
     </Item>
     <Item Name="Veronica/DisneyXD HD">
+      <Satellite />
+    </Item>
+    <Item Name="Veronica HD / Disney XD">
       <Satellite />
     </Item>
     <File>Veronica_Disney XD.png</File>
