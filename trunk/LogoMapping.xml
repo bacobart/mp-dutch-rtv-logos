@@ -3029,6 +3029,12 @@
     <Item Name="All Day Party">
       <Satellite />
     </Item>
+    <Item Name="Alternative">
+      <Satellite />
+    </Item>
+    <Item Name="Alternative Classics">
+      <Satellite />
+    </Item>
     <Item Name="Beats, Breaks &amp; Bass">
       <Satellite />
     </Item>
@@ -3039,6 +3045,9 @@
       <Satellite />
     </Item>
     <Item Name="Chillout">
+      <Satellite />
+    </Item>
+    <Item Name="Chilllout">
       <Satellite />
     </Item>
     <Item Name="Classic R'n'B &amp; Soul">
@@ -3071,7 +3080,16 @@
     <Item Name="Dancefloor Filler">
       <Satellite />
     </Item>
+    <Item Name="Dancefloor Fillers">
+      <Satellite />
+    </Item>
+    <Item Name="Disco Classics">
+      <Satellite />
+    </Item>
     <Item Name="Drive">
+      <Satellite />
+    </Item>
+    <Item Name="Feelgood Music">
       <Satellite />
     </Item>
     <Item Name="Freedom">
@@ -3083,6 +3101,12 @@
     <Item Name="Harder Than Hell">
       <Satellite />
     </Item>
+    <Item Name="Hollandse Hits">
+      <Satellite />
+    </Item>
+    <Item Name="Hollandse Hits Gold">
+      <Satellite />
+    </Item>
     <Item Name="Indie Classics">
       <Satellite />
     </Item>
@@ -3092,7 +3116,19 @@
     <Item Name="Killer 80s">
       <Satellite />
     </Item>
+    <Item Name="Kinderliedjes (6-11)">
+      <Satellite />
+    </Item>
+    <Item Name="Lounge">
+      <Satellite />
+    </Item>
     <Item Name="Magnificent 70s">
+      <Satellite />
+    </Item>
+    <Item Name="Nederpop Gold">
+      <Satellite />
+    </Item>
+    <Item Name="Nederpop">
       <Satellite />
     </Item>
     <Item Name="Perfect Dinner Party">
@@ -3107,10 +3143,16 @@
     <Item Name="Rewind">
       <Satellite />
     </Item>
+    <Item Name="Rewind 80s - 90s">
+      <Satellite />
+    </Item>
     <Item Name="Rock Anthems">
       <Satellite />
     </Item>
     <Item Name="Rock 'n Roll">
+      <Satellite />
+    </Item>
+    <Item Name="Rock 'n' Rol">
       <Satellite />
     </Item>
     <Item Name="Schlager">
@@ -3120,6 +3162,9 @@
       <Satellite />
     </Item>
     <Item Name="Slik (Love Songs)">
+      <Satellite />
+    </Item>
+    <Item Name="Silk (lovesongs)">
       <Satellite />
     </Item>
     <Item Name="Still Got The Blues">
@@ -3290,6 +3335,9 @@
     <Item Name="Concert Zender">
       <Satellite />
     </Item>
+	<Item Name="Concertzender">
+      <Satellite />
+    </Item>
     <File>Concert Zender.png</File>
   </Channel>
   <Channel>
@@ -3312,6 +3360,9 @@
   </Channel>
   <Channel>
     <Item Name="Eins Live">
+      <Satellite />
+    </Item>
+    <Item Name="1 Live">
       <Satellite />
     </Item>
     <File>Eins Live.png</File>
@@ -3435,6 +3486,9 @@
   </Channel>
   <Channel>
     <Item Name="Radio Zeeland">
+      <Satellite />
+    </Item>
+    <Item Name="Omroep Zeeland">
       <Satellite />
     </Item>
     <Item Name="Omroep Zeeland Radio">
@@ -3641,6 +3695,9 @@
     <Item Name="RAI Radio 1">
       <Satellite />
     </Item>
+	<Item Name="Rai">
+      <Satellite />
+    </Item>
     <File>RAI Radio 1.png</File>
   </Channel>
   <Channel>
@@ -3683,6 +3740,9 @@
     <Item Name="RTV ZOo radio">
       <Satellite />
     </Item>
+	<Item Name="RTV-ZOo-radio">
+      <Satellite />
+    </Item>
     <File>Zoo.png</File>
   </Channel>
   <Channel>
@@ -3693,6 +3753,12 @@
   </Channel>
   <Channel>
     <Item Name="Slam! FM">
+      <Satellite />
+    </Item>
+	 <Item Name="Slam!FM">
+      <Satellite />
+    </Item>
+	 <Item Name="Slam FM">
       <Satellite />
     </Item>
     <File>Slam! FM.png</File>
@@ -3743,6 +3809,9 @@
     <Item Name="VRT Radio1">
       <Satellite />
     </Item>
+	<Item Name="VRT 1">
+      <Satellite />
+    </Item>
     <File>VRT Radio 1.png</File>
   </Channel>
   <Channel>
@@ -3750,6 +3819,9 @@
       <Satellite />
     </Item>
     <Item Name="VRT Radio2">
+      <Satellite />
+    </Item>
+	<Item Name="VRT 2">
       <Satellite />
     </Item>
     <File>VRT Radio 2.png</File>
@@ -3984,6 +4056,9 @@
       <Satellite />
     </Item>
     <Item Name="XLnt Schlager">
+      <Satellite />
+    </Item>
+    <Item Name="Xlnt Schager">
       <Satellite />
     </Item>
     <Item Name="XLnt Seasons">
