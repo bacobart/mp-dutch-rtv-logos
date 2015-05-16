@@ -2543,6 +2543,12 @@
     <File>StarPlus.png</File>
   </Channel>
   <Channel>
+    <Item Name="Stingray Lite TV">
+      <Satellite />
+    </Item>
+    <File>Stingray Lite TV.png</File>
+  </Channel>
+  <Channel>
     <Item Name="Sundance Channel HD">
       <Satellite />
     </Item>
@@ -3554,6 +3560,12 @@
     <File>Radio 6.png</File>
   </Channel>
   <Channel>
+    <Item Name="Radio 8FM">
+      <Satellite />
+    </Item>
+    <File>Radio 8FM.png</File>
+  </Channel>
+  <Channel>
     <Item Name="Radio 9">
       <Satellite />
     </Item>
@@ -3591,6 +3603,12 @@
       <Satellite />
     </Item>
     <File>Radio Bem Bem.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Radio Continu">
+      <Satellite />
+    </Item>
+    <File>Radio Continu.png</File>
   </Channel>
   <Channel>
     <Item Name="Radio Decibel">
@@ -3663,6 +3681,9 @@
   </Channel>
   <Channel>
     <Item Name="Radio Utrecht">
+      <Satellite />
+    </Item>
+    <Item Name="Radio M Utrecht">
       <Satellite />
     </Item>
     <File>Radio Utrecht.png</File>
@@ -3764,6 +3785,12 @@
     <File>Slam! FM.png</File>
   </Channel>
   <Channel>
+    <Item Name="Stingray *">
+      <Satellite />
+    </Item>
+    <File>Stingray.png</File>
+  </Channel>
+  <Channel>
     <Item Name="Studio Brussel">
       <Satellite />
     </Item>
@@ -3783,6 +3810,15 @@
       <Satellite />
     </Item>
     <File>Surround Radio.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="TeamFM">
+      <Satellite />
+    </Item>
+    <Item Name="Team FM">
+      <Satellite />
+    </Item>
+    <File>TeamFM.png</File>
   </Channel>
   <Channel>
     <Item Name="Tweede Kamerlijn">
