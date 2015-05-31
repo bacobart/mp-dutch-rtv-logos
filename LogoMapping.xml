@@ -268,6 +268,9 @@
     <Item Name="BBC Three/CBBC">
       <Satellite />
     </Item>
+    <Item Name="BBC Three / CBBC">
+      <Satellite />
+    </Item>
     <File>BBC 3 _ CBBC.png</File>
   </Channel>
   <Channel>
@@ -305,6 +308,9 @@
       <Satellite />
     </Item>
     <Item Name="BBC Four/CBeeBies">
+      <Satellite />
+    </Item>
+    <Item Name="BBC Four / Cbeebies">
       <Satellite />
     </Item>
     <File>BBC 4 _ CBeeBies.png</File>
@@ -568,6 +574,9 @@
     <Item Name="Crime &amp; Investigation">
       <Satellite />
     </Item>
+    <Item Name="CI">
+      <Satellite />
+    </Item>
     <File>Crime &amp; Investigation Network.png</File>
   </Channel>
   <Channel>
@@ -778,6 +787,9 @@
     <Item Name="E! Entertainment">
       <Satellite />
     </Item>
+    <Item Name="E!">
+      <Satellite />
+    </Item>
     <Item Name="E! Entertainment HD">
       <Satellite />
     </Item>
@@ -796,7 +808,10 @@
     <Item Name="Erotiek Pakket">
       <Satellite />
     </Item>
-	    <Item Name="Erotische zenders">
+    <Item Name="Erotiek Still">
+      <Satellite />
+    </Item>
+    <Item Name="Erotische zenders">
       <Satellite />
     </Item>
     <File>Erotiek Pakket.png</File>
@@ -920,6 +935,9 @@
   </Channel>
   <Channel>
     <Item Name="Family 7">
+      <Satellite />
+    </Item>
+    <Item Name="Family7">
       <Satellite />
     </Item>
     <File>Family 7.png</File>
@@ -1168,6 +1186,9 @@
     <Item Name="FOX Sports info">
       <Satellite />
     </Item>
+    <Item Name="FOX Sports Still">
+      <Satellite />
+    </Item>
     <Item Name="FOX Sports">
       <Satellite />
     </Item>
@@ -1276,10 +1297,16 @@
     <Item Name="HBO 2 HD">
       <Satellite />
     </Item>
+    <Item Name="HBO2 HD">
+      <Satellite />
+    </Item>
     <File>HBO 2 HD.png</File>
   </Channel>
   <Channel>
     <Item Name="HBO 2">
+      <Satellite />
+    </Item>
+    <Item Name="HBO2">
       <Satellite />
     </Item>
     <File>HBO 2.png</File>
@@ -1288,10 +1315,16 @@
     <Item Name="HBO 3 HD">
       <Satellite />
     </Item>
+    <Item Name="HBO3 HD">
+      <Satellite />
+    </Item>
     <File>HBO 3 HD.png</File>
   </Channel>
   <Channel>
     <Item Name="HBO 3">
+      <Satellite />
+    </Item>
+    <Item Name="HBO3">
       <Satellite />
     </Item>
     <File>HBO 3.png</File>
@@ -1483,6 +1516,9 @@
       <Satellite />
     </Item>
     <Item Name="L1 TV">
+      <Satellite />
+    </Item>
+    <Item Name="L1TV">
       <Satellite />
     </Item>
     <File>L1 Limburg.png</File>
@@ -2228,6 +2264,9 @@
     <Item Name="RTL Television">
       <Satellite />
     </Item>
+    <Item Name="RTL">
+      <Satellite />
+    </Item>
     <File>RTL Television.png</File>
   </Channel>
   <Channel>
@@ -2453,10 +2492,16 @@
     <Item Name="Sport1 Extra 1">
       <Satellite />
     </Item>
+    <Item Name="Sport1 Extra1">
+      <Satellite />
+    </Item>
     <File>Sport1 Extra 1.png</File>
   </Channel>
   <Channel>
     <Item Name="Sport1 Extra 2">
+      <Satellite />
+    </Item>
+    <Item Name="Sport1 Extra2">
       <Satellite />
     </Item>
     <File>Sport1 Extra 2.png</File>
@@ -2466,6 +2511,12 @@
       <Satellite />
     </Item>
     <File>Sport1 Golf.png</File>
+  </Channel>
+    <Channel>
+    <Item Name="Sport1 Racing">
+      <Satellite />
+    </Item>
+    <File>Sport1 Racing.png</File>
   </Channel>
   <Channel>
     <Item Name="Sport1 Select HD">
@@ -2544,6 +2595,9 @@
   </Channel>
   <Channel>
     <Item Name="Stingray Lite TV">
+      <Satellite />
+    </Item>
+    <Item Name="Stingray LiteTV">
       <Satellite />
     </Item>
     <File>Stingray Lite TV.png</File>
@@ -2705,6 +2759,9 @@
     <Item Name="TV Noord-Holland">
       <Satellite />
     </Item>
+    <Item Name="TV NH">
+      <Satellite />
+    </Item>
     <Item Name="RTV Noord-Holland">
       <Satellite />
     </Item>
@@ -2814,6 +2871,9 @@
       <Satellite />
     </Item>
     <Item Name="Veronica/DisneyXD">
+      <Satellite />
+    </Item>
+    <Item Name="Veronica / Disney XD">
       <Satellite />
     </Item>
     <Item Name="DisneyXD/Veronica">
@@ -2963,10 +3023,16 @@
     <Item Name="Zenderoverzicht">
       <Satellite />
     </Item>
+    <Item Name="Ziggo Zenderoverzicht">
+      <Satellite />
+    </Item>
     <Item Name="Zender vd Maand">
       <Satellite />
     </Item>
     <Item Name="Zenderoverzicht HD">
+      <Satellite />
+    </Item>
+    <Item Name="Ziggo Zenderoverzicht HD">
       <Satellite />
     </Item>
     <Item Name="Etalagekanaal">
@@ -2976,6 +3042,15 @@
       <Satellite />
     </Item>
     <Item Name="Evenementenkanaal">
+      <Satellite />
+    </Item>
+    <Item Name="Ziggo Live Events">
+      <Satellite />
+    </Item>
+    <Item Name="Ziggo Live Events Sport1">
+      <Satellite />
+    </Item>
+    <Item Name="Ziggo Live Events FOX Sports">
       <Satellite />
     </Item>
     <Item Name="Info">
@@ -3047,6 +3122,9 @@
     <Item Name="Blues">
       <Satellite />
     </Item>
+    <Item Name="Breaks &amp; Beats">
+      <Satellite />
+    </Item>
     <Item Name="Chansons">
       <Satellite />
     </Item>
@@ -3107,6 +3185,9 @@
     <Item Name="Harder Than Hell">
       <Satellite />
     </Item>
+    <Item Name="Hip Hop">
+      <Satellite />
+    </Item>
     <Item Name="Hollandse Hits">
       <Satellite />
     </Item>
@@ -3125,7 +3206,13 @@
     <Item Name="Kinderliedjes (6-11)">
       <Satellite />
     </Item>
+    <Item Name="Kinderliedjes">
+      <Satellite />
+    </Item>
     <Item Name="Lounge">
+      <Satellite />
+    </Item>
+    <Item Name="Love Songs">
       <Satellite />
     </Item>
     <Item Name="Magnificent 70s">
@@ -3137,7 +3224,16 @@
     <Item Name="Nederpop">
       <Satellite />
     </Item>
+    <Item Name="NL-Showcase">
+      <Satellite />
+    </Item>
     <Item Name="Perfect Dinner Party">
+      <Satellite />
+    </Item>
+    <Item Name="Peuter&amp;Kleuterliedjes">
+      <Satellite />
+    </Item>
+    <Item Name="Classic R 'n B &amp; Soul">
       <Satellite />
     </Item>
     <Item Name="Reggae">
@@ -3146,7 +3242,13 @@
     <Item Name="Revival">
       <Satellite />
     </Item>
+    <Item Name="Revival 60s-70s">
+      <Satellite />
+    </Item>
     <Item Name="Rewind">
+      <Satellite />
+    </Item>
+    <Item Name="Rewind 80s-90s">
       <Satellite />
     </Item>
     <Item Name="Rewind 80s - 90s">
@@ -3156,6 +3258,9 @@
       <Satellite />
     </Item>
     <Item Name="Rock 'n Roll">
+      <Satellite />
+    </Item>
+    <Item Name="Rock 'n Roll Era">
       <Satellite />
     </Item>
     <Item Name="Rock 'n' Rol">
@@ -3209,6 +3314,9 @@
     <Item Name="Total Hits UK">
       <Satellite />
     </Item>
+    <Item Name="Total Hits NL">
+      <Satellite />
+    </Item>
     <Item Name="Total Hits">
       <Satellite />
     </Item>
@@ -3216,6 +3324,9 @@
       <Satellite />
     </Item>
     <Item Name="Ultimate Urban">
+      <Satellite />
+    </Item>
+    <Item Name="Urban">
       <Satellite />
     </Item>
     <Item Name="World Carnival">
@@ -3371,6 +3482,9 @@
     <Item Name="1 Live">
       <Satellite />
     </Item>
+    <Item Name="1LIVE">
+      <Satellite />
+    </Item>
     <File>Eins Live.png</File>
   </Channel>
   <Channel>
@@ -3461,10 +3575,16 @@
     <Item Name="NDR 1">
       <Satellite />
     </Item>
+    <Item Name="NDR1">
+      <Satellite />
+    </Item>
     <File>NDR 1.png</File>
   </Channel>
   <Channel>
     <Item Name="NDR 2">
+      <Satellite />
+    </Item>
+    <Item Name="NDR2">
       <Satellite />
     </Item>
     <File>NDR 2.png</File>
@@ -3486,6 +3606,9 @@
       <Satellite />
     </Item>
     <Item Name="Omrop Fryslân Radio">
+      <Satellite />
+    </Item>
+    <Item Name="Omrop Fryslân">
       <Satellite />
     </Item>
     <File>Omrop Fryslan Radio.png</File>
@@ -3653,6 +3776,9 @@
     <Item Name="Radio Noord Holland">
       <Satellite />
     </Item>
+    <Item Name="RTV NH">
+      <Satellite />
+    </Item>
     <File>Radio Noord-Holland.png</File>
   </Channel>
   <Channel>
@@ -3729,6 +3855,9 @@
   </Channel>
   <Channel>
     <Item Name="RNE Radio">
+      <Satellite />
+    </Item>
+    <Item Name="RNE Radio Uno">
       <Satellite />
     </Item>
     <File>RNE Radio.png</File>
@@ -3845,6 +3974,9 @@
     <Item Name="VRT Radio1">
       <Satellite />
     </Item>
+    <Item Name="Radio 1 (VRT)">
+      <Satellite />
+    </Item>
 	<Item Name="VRT 1">
       <Satellite />
     </Item>
@@ -3855,6 +3987,9 @@
       <Satellite />
     </Item>
     <Item Name="VRT Radio2">
+      <Satellite />
+    </Item>
+	    <Item Name="Radio 2 (VRT)">
       <Satellite />
     </Item>
 	<Item Name="VRT 2">
