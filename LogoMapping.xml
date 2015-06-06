@@ -3596,6 +3596,9 @@
     <File>NDR Kultur.png</File>
   </Channel>
   <Channel>
+      <Item Name="Omroep Brabant">
+      <Satellite />
+    </Item>
     <Item Name="Omroep Brabant Radio">
       <Satellite />
     </Item>
