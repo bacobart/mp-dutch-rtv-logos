@@ -3338,7 +3338,7 @@
     <Item Name="Hot Country">
       <Satellite />
     </Item>
-    <File>Music Choice.png</File>
+    <File>Stingray.png</File>
   </Channel>
   <Channel>
     <Item Name="100% NL">
@@ -3914,12 +3914,6 @@
     <File>Slam! FM.png</File>
   </Channel>
   <Channel>
-    <Item Name="Stingray *">
-      <Satellite />
-    </Item>
-    <File>Stingray.png</File>
-  </Channel>
-  <Channel>
     <Item Name="Studio Brussel">
       <Satellite />
     </Item>
@@ -4071,183 +4065,6 @@
       <Satellite />
     </Item>
     <File>ZOS Radio.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="XLnt Alternative Rock">
-      <Satellite />
-    </Item>
-    <Item Name="Xlnt Arabian Nights">
-      <Satellite />
-    </Item>
-    <Item Name="Xlnt Blues">
-      <Satellite />
-    </Item>
-    <Item Name="Xlnt Chill Out">
-      <Satellite />
-    </Item>
-    <Item Name="XLnt Classic Jazz">
-      <Satellite />
-    </Item>
-    <Item Name="XLnt Classic Rock">
-      <Satellite />
-    </Item>
-    <Item Name="XLnt Classical">
-      <Satellite />
-    </Item>
-    <Item Name="XLnt Comedy">
-      <Satellite />
-    </Item>
-    <Item Name="XLnt Contemp. Jazz">
-      <Satellite />
-    </Item>
-    <Item Name="XLnt Country">
-      <Satellite />
-    </Item>
-    <Item Name="XLnt Crooners">
-      <Satellite />
-    </Item>
-    <Item Name="XLnt Dance Classics">
-      <Satellite />
-    </Item>
-    <Item Name="XLnt Easy Listening">
-      <Satellite />
-    </Item>
-    <Item Name="Xlnt Filmmuziek">
-      <Satellite />
-    </Item>
-    <Item Name="Xlnt France">
-      <Satellite />
-    </Item>
-    <Item Name="XLnt Dance">
-      <Satellite />
-    </Item>
-    <Item Name="Xlnt Espagna">
-      <Satellite />
-    </Item>
-    <Item Name="Xlnt Hard Rock">
-      <Satellite />
-    </Item>
-    <Item Name="Xlnt Hip Hop">
-      <Satellite />
-    </Item>
-    <Item Name="XLnt Hits">
-      <Satellite />
-    </Item>
-    <Item Name="XLnt Hotpop">
-      <Satellite />
-    </Item>
-    <Item Name="Xlnt HrdHouseTrance">
-      <Satellite />
-    </Item>
-    <Item Name="Xlnt Italia">
-      <Satellite />
-    </Item>
-    <Item Name="Xlnt JackFM">
-      <Satellite />
-    </Item>
-    <Item Name="XLnt Jazz">
-      <Satellite />
-    </Item>
-    <Item Name="XLnt Kiddo FM">
-      <Satellite />
-    </Item>
-    <Item Name="XLnt Kleuterliedjes">
-      <Satellite />
-    </Item>
-    <Item Name="XLnt Lite FM">
-      <Satellite />
-    </Item>
-    <Item Name="XLnt Lounge">
-      <Satellite />
-    </Item>
-    <Item Name="Xlnt Love Songs">
-      <Satellite />
-    </Item>
-    <Item Name="Xlnt Motown">
-      <Satellite />
-    </Item>
-    <Item Name="XLnt Musical">
-      <Satellite />
-    </Item>
-    <Item Name="Xlnt Nederpop Gold">
-      <Satellite />
-    </Item>
-    <Item Name="Xlnt Nederpop Nu">
-      <Satellite />
-    </Item>
-    <Item Name="Xlnt Nederpop">
-      <Satellite />
-    </Item>
-    <Item Name="XLnt New Age">
-      <Satellite />
-    </Item>
-    <Item Name="XLnt NL luisterleidjes">
-      <Satellite />
-    </Item>
-    <Item Name="XLnt Nostalgie">
-      <Satellite />
-    </Item>
-    <Item Name="XLnt Oldies">
-      <Satellite />
-    </Item>
-    <Item Name="Xlnt Opera">
-      <Satellite />
-    </Item>
-    <Item Name="Xlnt Operette">
-      <Satellite />
-    </Item>
-    <Item Name="XLnt Party">
-      <Satellite />
-    </Item>
-    <Item Name="Xlnt Piratenhits">
-      <Satellite />
-    </Item>
-    <Item Name="XLnt R&amp;B">
-      <Satellite />
-    </Item>
-    <Item Name="Xlnt Radio Country">
-      <Satellite />
-    </Item>
-    <Item Name="XLnt Radioboek">
-      <Satellite />
-    </Item>
-    <Item Name="Xlnt Reggae">
-      <Satellite />
-    </Item>
-    <Item Name="XLnt Relipop">
-      <Satellite />
-    </Item>
-    <Item Name="XLnt Rock 'n Roll">
-      <Satellite />
-    </Item>
-    <Item Name="XLnt Rock">
-      <Satellite />
-    </Item>
-    <Item Name="XLnt Salsa">
-      <Satellite />
-    </Item>
-    <Item Name="XLnt Schlager">
-      <Satellite />
-    </Item>
-    <Item Name="Xlnt Schager">
-      <Satellite />
-    </Item>
-    <Item Name="XLnt Seasons">
-      <Satellite />
-    </Item>
-    <Item Name="XLnt Skihut">
-      <Satellite />
-    </Item>
-    <Item Name="XLnt Supergold">
-      <Satellite />
-    </Item>
-    <Item Name="XLnt Today's Pop">
-      <Satellite />
-    </Item>
-    <Item Name="XLnt Turk">
-      <Satellite />
-    </Item>
-    <File>XLnt.png</File>
   </Channel>
 </Radio>
 </Mappings>
