@@ -600,12 +600,6 @@
     </Item>
     <File>default.png</File>
   </Channel>
-  <Channel>
-    <Item Name="Zender van de Maand">
-      <Satellite />
-    </Item>
-    <File>Delta.png</File>
-  </Channel>
     <Channel>
     <Item Name="DanceTrippin TV">
       <Satellite />
@@ -3038,6 +3032,9 @@
     <Item Name="Etalagekanaal">
       <Satellite />
     </Item>
+    <Item Name="Zender van de Maand">
+      <Satellite />
+    </Item>
     <Item Name="Eventkanaal">
       <Satellite />
     </Item>
@@ -3930,6 +3927,12 @@
       <Satellite />
     </Item>
     <File>Sublime FM.png</File>
+  </Channel>
+    <Channel>
+    <Item Name="Sunrise FM">
+      <Satellite />
+    </Item>
+    <File>Sunrise FM.png</File>
   </Channel>
   <Channel>
     <Item Name="Surround Radio">
